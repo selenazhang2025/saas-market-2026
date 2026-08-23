@@ -1,0 +1,1014 @@
+id,product_id,plan_name,price_monthly,price_annual,billing_model,currency,features,product_name
+1,1,Free,0.0,,per-seat,USD,"[""Unlimited pages for individuals"", ""7-day page history"", ""10 guest limit""]",Notion
+2,1,Plus,12.0,,per-seat,USD,"[""Unlimited file uploads"", ""30-day page history"", ""Unlimited guests""]",Notion
+3,1,Business,18.0,,per-seat,USD,"[""SAML SSO"", ""Private teamspaces"", ""Advanced permissions""]",Notion
+4,1,Enterprise,,,per-seat,USD,"[""SCIM"", ""Audit log"", ""Custom data retention""]",Notion
+5,2,Free,0.0,,flat,USD,"[""Unlimited tasks"", ""Unlimited members"", ""60MB storage""]",ClickUp
+6,2,Unlimited,7.0,,per-seat,USD,"[""Unlimited storage"", ""Unlimited integrations"", ""Gantt charts""]",ClickUp
+7,2,Business,12.0,,per-seat,USD,"[""Google SSO"", ""Unlimited dashboards"", ""Workload management""]",ClickUp
+8,2,Enterprise,,,per-seat,USD,"[""White labeling"", ""HIPAA"", ""SSO"", ""Custom roles""]",ClickUp
+9,3,Personal,0.0,,flat,USD,"[""Up to 2 users"", ""List, board & calendar views"", ""Unlimited tasks""]",Asana
+10,3,Starter,10.99,,per-seat,USD,"[""Timeline & Gantt views"", ""Workflow builder"", ""Unlimited users""]",Asana
+11,3,Advanced,24.99,,per-seat,USD,"[""Goals"", ""Portfolios"", ""Proofing"", ""Native time tracking""]",Asana
+12,3,Enterprise,,,per-seat,USD,"[""SAML"", ""SCIM"", ""Data export"", ""Custom branding""]",Asana
+13,4,Free,0.0,,flat,USD,"[""Up to 2 seats"", ""3 boards"", ""200+ templates""]",monday.com
+14,4,Basic,9.0,,per-seat,USD,"[""Unlimited viewers"", ""Unlimited items"", ""5GB storage""]",monday.com
+15,4,Standard,12.0,,per-seat,USD,"[""Timeline & Gantt"", ""Calendar view"", ""Guest access""]",monday.com
+16,4,Pro,19.0,,per-seat,USD,"[""Private boards"", ""Time tracking"", ""Chart view""]",monday.com
+17,4,Enterprise,,,per-seat,USD,"[""Advanced security"", ""Multi-level permissions"", ""Enterprise analytics""]",monday.com
+18,5,Free,0.0,,flat,USD,"[""Unlimited cards"", ""10 boards/workspace"", ""Unlimited power-ups""]",Trello
+19,5,Standard,5.0,,per-seat,USD,"[""Unlimited boards"", ""Advanced checklists"", ""Custom fields""]",Trello
+20,5,Premium,10.0,,per-seat,USD,"[""AI features"", ""Dashboard view"", ""Timeline view"", ""Calendar view""]",Trello
+21,5,Enterprise,17.5,,per-seat,USD,"[""Unlimited workspaces"", ""Organization-wide permissions"", ""24/7 support""]",Trello
+22,6,Free,0.0,,flat,USD,"[""Up to 10 users"", ""Unlimited projects"", ""2GB storage""]",Jira
+23,6,Standard,7.91,,per-seat,USD,"[""Up to 100K users"", ""250GB storage"", ""AI features""]",Jira
+24,6,Premium,14.54,,per-seat,USD,"[""Cross-team planning"", ""Unlimited storage"", ""99.9% SLA""]",Jira
+25,6,Enterprise,,,per-seat,USD,"[""Up to 150 sites"", ""Advanced analytics"", ""99.95% SLA""]",Jira
+26,7,Free,0.0,,flat,USD,"[""1 project"", ""Up to 20 users"", ""1 GB storage""]",Basecamp
+27,7,Basecamp Plus,15.0,,per-seat,USD,"[""Unlimited projects"", ""Unlimited users"", ""500 GB storage"", ""30-day free trial""]",Basecamp
+28,7,Basecamp Pro Unlimited,299.0,,flat,USD,"[""Unlimited everything"", ""Priority support"", ""5 TB storage"", ""60-day free trial""]",Basecamp
+29,8,Free,0.0,,flat,USD,"[""Board & table views"", ""Task management"", ""Web & mobile apps""]",Wrike
+30,8,Team,10.0,,per-seat,USD,"[""2-15 users"", ""Gantt charts"", ""Custom fields""]",Wrike
+31,8,Business,25.0,,per-seat,USD,"[""5-200 users"", ""Resource planning"", ""Templates""]",Wrike
+32,8,Pinnacle,,,per-seat,USD,"[""Advanced reporting"", ""Budgeting"", ""SSO"", ""Advanced security""]",Wrike
+33,9,Free,0.0,,flat,USD,"[""5 users"", ""2 projects"", ""Basic features""]",Teamwork
+34,9,Deliver,13.99,,per-seat,USD,"[""300 projects"", ""Time tracking"", ""Billing""]",Teamwork
+35,9,Grow,25.99,,per-seat,USD,"[""Unlimited projects"", ""Resource management"", ""Profitability reports""]",Teamwork
+36,9,Scale,69.99,,per-seat,USD,"[""Advanced budgeting"", ""Custom reports"", ""Priority support""]",Teamwork
+37,10,Free,0.0,,flat,USD,"[""Unlimited members"", ""250 issues"", ""2 teams""]",Linear
+38,10,Basic,10.0,,per-seat,USD,"[""5 teams"", ""Unlimited issues"", ""Admin roles""]",Linear
+39,10,Business,16.0,,per-seat,USD,"[""Unlimited teams"", ""Private teams"", ""SLAs"", ""Insights""]",Linear
+40,10,Enterprise,,,per-seat,USD,"[""SAML/SCIM"", ""Advanced security"", ""Dedicated support""]",Linear
+41,11,Free,0.0,,flat,USD,"[""Unlimited members"", ""Basic features"", ""100 tasks""]",Height
+42,11,Team,8.5,,per-seat,USD,"[""Unlimited tasks"", ""Forms"", ""Integrations""]",Height
+43,11,Business,15.0,,per-seat,USD,"[""Advanced automations"", ""SSO"", ""Priority support""]",Height
+44,12,Free,0.0,,flat,USD,"[""Up to 10 users"", ""Core PM features""]",Hive
+45,12,Starter,5.0,,per-seat,USD,"[""Unlimited users"", ""Gantt charts"", ""Integrations""]",Hive
+46,12,Teams,12.0,,per-seat,USD,"[""Timesheets"", ""Resources"", ""Analytics""]",Hive
+47,12,Enterprise,,,per-seat,USD,"[""SSO"", ""Custom onboarding"", ""SLA""]",Hive
+48,13,Pro,9.0,,per-seat,USD,"[""Unlimited sheets"", ""Gantt"", ""Forms""]",Smartsheet
+49,13,Business,19.0,,per-seat,USD,"[""Unlimited automations"", ""Proofing"", ""Unlimited viewers""]",Smartsheet
+50,13,Enterprise,,,per-seat,USD,"[""SSO/SAML"", ""Admin controls"", ""WorkApps""]",Smartsheet
+51,14,Free,0.0,,flat,USD,"[""Unlimited bases"", ""1000 records/base"", ""1GB/base""]",Airtable
+52,14,Team,20.0,,per-seat,USD,"[""50K records/base"", ""20GB/base"", ""Automations""]",Airtable
+53,14,Business,45.0,,per-seat,USD,"[""125K records/base"", ""100GB/base"", ""Admin panel""]",Airtable
+54,14,Enterprise Scale,,,per-seat,USD,"[""500K records/base"", ""1TB/base"", ""Enterprise security""]",Airtable
+55,15,Beginner,0.0,,flat,USD,"[""5 personal projects"", ""5 collaborators/project""]",Todoist
+56,15,Pro,5.0,,per-seat,USD,"[""300 projects"", ""25 collaborators"", ""Reminders"", ""Calendar""]",Todoist
+57,15,Business,8.0,,per-seat,USD,"[""500 projects"", ""50 collaborators"", ""Team features""]",Todoist
+58,16,Free,0.0,,flat,USD,"[""3 editable boards"", ""Unlimited team members""]",Miro
+59,16,Starter,8.0,,per-seat,USD,"[""Unlimited boards"", ""Private boards""]",Miro
+60,16,Business,20.0,,per-seat,USD,"[""SSO"", ""Smart diagramming"", ""Guest access""]",Miro
+61,16,Enterprise,,,per-seat,USD,"[""Advanced security"", ""Support SLA"", ""SCIM""]",Miro
+62,17,Free,0.0,,flat,USD,"[""Unlimited editors"", ""Unlimited docs"", ""Basic features""]",Coda
+63,17,Pro,10.0,,flat,USD,"[""Unlimited pages"", ""Custom domains"", ""Hidden pages""]",Coda
+64,17,Team,30.0,,flat,USD,"[""Shared permissions"", ""Private docs"", ""Advanced automations""]",Coda
+65,17,Enterprise,,,flat,USD,"[""SSO"", ""Audit logs"", ""Advanced security""]",Coda
+66,18,Free,0.0,,flat,USD,"[""Up to 10 users"", ""Core features""]",Shortcut (formerly Clubhouse)
+67,18,Team,8.5,,per-seat,USD,"[""Unlimited users"", ""Iterations"", ""Reporting""]",Shortcut (formerly Clubhouse)
+68,18,Business,12.0,,per-seat,USD,"[""Advanced reporting"", ""Custom fields""]",Shortcut (formerly Clubhouse)
+69,18,Enterprise,,,per-seat,USD,"[""SSO/SAML"", ""SCIM"", ""Audit logs""]",Shortcut (formerly Clubhouse)
+70,19,Free,0.0,,flat,USD,"[""Unlimited members"", ""2 active projects"", ""Basic features""]",Nifty
+71,19,Starter,39.0,468.0,flat,USD,"[""Up to 10 members"", ""40 projects"", ""Time tracking""]",Nifty
+72,19,Business,124.0,1488.0,flat,USD,"[""Up to 50 members"", ""Unlimited projects"", ""Workload management""]",Nifty
+73,19,Unlimited,399.0,4788.0,flat,USD,"[""Unlimited members"", ""All features"", ""Priority support""]",Nifty
+74,20,Free,0.0,,flat,USD,"[""3 users"", ""2 projects""]",Zoho Projects
+75,20,Premium,5.0,,per-seat,USD,"[""Unlimited projects"", ""Gantt charts"", ""20 templates""]",Zoho Projects
+76,20,Enterprise,10.0,,per-seat,USD,"[""30 templates"", ""Global Gantt"", ""Read-only users""]",Zoho Projects
+77,21,Starter Suite,25.0,,per-seat,USD,"[""CRM, sales, service & marketing"", ""Out-of-the-box reports""]",Salesforce
+78,21,Pro Suite,100.0,,per-seat,USD,"[""Advanced pipeline management"", ""Customizable reports""]",Salesforce
+79,21,Enterprise,165.0,,per-seat,USD,"[""Advanced customization"", ""API access""]",Salesforce
+80,21,Unlimited,330.0,,per-seat,USD,"[""Premier success plan"", ""AI features""]",Salesforce
+81,22,Free Tools,0.0,,flat,USD,"[""Contact management"", ""Forms"", ""Email marketing""]",HubSpot
+82,22,Starter,20.0,,per-seat,USD,"[""1000 contacts"", ""Email automation"", ""Payments""]",HubSpot
+83,22,Professional,890.0,,flat,USD,"[""2000 contacts"", ""Workflows"", ""Custom reporting""]",HubSpot
+84,22,Enterprise,3600.0,,flat,USD,"[""10K contacts"", ""Custom objects"", ""Predictive lead scoring""]",HubSpot
+85,23,Essential,14.0,168.0,per-seat,USD,"[""Pipeline management"", ""Lead management"", ""500+ integrations""]",Pipedrive
+86,23,Growth,39.0,468.0,per-seat,USD,"[""Full email sync"", ""Workflow automations"", ""Reporting dashboard""]",Pipedrive
+87,23,Professional,49.0,588.0,per-seat,USD,"[""AI sales assistant"", ""Revenue forecasting"", ""Custom user permissions""]",Pipedrive
+88,23,Power,64.0,768.0,per-seat,USD,"[""Project planning"", ""Phone support"", ""Expanded automations""]",Pipedrive
+89,23,Enterprise,99.0,1188.0,per-seat,USD,"[""Unlimited features"", ""Security alerts"", ""Implementation program""]",Pipedrive
+90,24,Free,0.0,,flat,USD,"[""3 users"", ""Leads & contacts"", ""Tasks""]",Zoho CRM
+91,24,Standard,20.0,,per-seat,USD,"[""Scoring rules"", ""Workflows"", ""Multiple pipelines""]",Zoho CRM
+92,24,Professional,35.0,,per-seat,USD,"[""SalesSignals"", ""Blueprint"", ""Inventory management""]",Zoho CRM
+93,24,Enterprise,50.0,,per-seat,USD,"[""Zia AI"", ""Custom modules"", ""Multi-user portals""]",Zoho CRM
+94,24,Ultimate,65.0,,per-seat,USD,"[""Advanced BI"", ""Enhanced feature limits""]",Zoho CRM
+95,25,Free,0.0,,flat,USD,"[""Unlimited users"", ""Contact management"", ""Built-in chat""]",Freshsales
+96,25,Growth,11.0,,per-seat,USD,"[""Visual pipeline"", ""AI contact scoring"", ""Workflows""]",Freshsales
+97,25,Pro,47.0,,per-seat,USD,"[""Multiple pipelines"", ""AI deal insights"", ""Custom modules""]",Freshsales
+98,25,Enterprise,71.0,,per-seat,USD,"[""Forecasting"", ""Audit logs"", ""Custom objects""]",Freshsales
+99,26,Startup,49.0,,per-seat,USD,"[""3 users"", ""Pipeline view"", ""Built-in calling""]",Close
+100,26,Professional,99.0,,per-seat,USD,"[""Workflows"", ""Power Dialer"", ""Custom activities""]",Close
+101,26,Enterprise,139.0,,per-seat,USD,"[""Predictive Dialer"", ""Custom objects"", ""Call coaching""]",Close
+102,27,Starter,12.0,,per-seat,USD,"[""1000 contacts"", ""Google integration"", ""Pipelines""]",Copper
+103,27,Basic,29.0,,per-seat,USD,"[""2500 contacts"", ""Task automation"", ""Activity feed""]",Copper
+104,27,Professional,69.0,,per-seat,USD,"[""15K contacts"", ""Workflow automation"", ""Reporting""]",Copper
+105,27,Business,134.0,,per-seat,USD,"[""Unlimited contacts"", ""Email sequences"", ""Custom reports""]",Copper
+106,28,Free,0.0,,flat,USD,"[""2 users"", ""2500 records""]",Insightly
+107,28,Plus,29.0,,per-seat,USD,"[""100K records"", ""25 email templates""]",Insightly
+108,28,Professional,49.0,,per-seat,USD,"[""250K records"", ""100 email templates"", ""Workflows""]",Insightly
+109,28,Enterprise,99.0,,per-seat,USD,"[""Unlimited records"", ""Custom objects"", ""Lambda functions""]",Insightly
+110,29,Ignite,299.0,,flat,USD,"[""2 users"", ""1500 contacts"", ""Email & text marketing""]",Keap
+111,29,Grow,399.0,,flat,USD,"[""3 users"", ""2500 contacts"", ""Advanced automations""]",Keap
+112,29,Scale,599.0,,flat,USD,"[""5 users"", ""5000 contacts"", ""Lead scoring""]",Keap
+113,30,Free,0.0,,flat,USD,"[""Basic CRM"", ""500 contacts"", ""50 emails/day""]",Streak
+114,30,Solo,15.0,,per-seat,USD,"[""5000 contacts"", ""800 emails/day"", ""Link tracking""]",Streak
+115,30,Pro,49.0,,per-seat,USD,"[""Unlimited contacts"", ""1500 emails/day"", ""Shared pipelines""]",Streak
+116,30,Pro+,69.0,,per-seat,USD,"[""Advanced reporting"", ""Automation"", ""Custom permissions""]",Streak
+117,30,Enterprise,129.0,,per-seat,USD,"[""Custom roles"", ""Priority support"", ""Data validation""]",Streak
+118,31,Foundation,19.0,,per-seat,USD,"[""Contact management"", ""Email sync"", ""Calendar sync""]",Nutshell
+119,31,Growth,32.0,,per-seat,USD,"[""Pipeline automation"", ""Personal email sequences""]",Nutshell
+120,31,Pro,49.0,,per-seat,USD,"[""AI tools"", ""Multiple pipelines"", ""Full reporting""]",Nutshell
+121,31,Business,67.0,,per-seat,USD,"[""Increased AI limits"", ""Advanced automation""]",Nutshell
+122,31,Enterprise,89.0,,per-seat,USD,"[""Unlimited pipelines"", ""Audit log"", ""Priority support""]",Nutshell
+123,32,Standard,15.0,,per-seat,USD,"[""All features included"", ""No tiers"", ""No contracts""]",Less Annoying CRM
+124,33,Basic,12.0,,per-seat,USD,"[""Unlimited boards"", ""Unlimited contacts"", ""1 pipeline""]",monday CRM
+125,33,Standard,17.0,,per-seat,USD,"[""Email integration"", ""Activity management"", ""Quotes""]",monday CRM
+126,33,Pro,28.0,,per-seat,USD,"[""Sales forecasting"", ""Email tracking"", ""Automations""]",monday CRM
+127,33,Enterprise,,,per-seat,USD,"[""Lead scoring"", ""Advanced analytics"", ""HIPAA""]",monday CRM
+128,34,Standard,24.0,,per-seat,USD,"[""Pipeline management"", ""Email campaigns"", ""Contact enrichment"", ""AI Assistants"", ""LinkedIn extension""]",Folk
+129,34,Premium,48.0,,per-seat,USD,"[""Custom objects & Deals"", ""Email sequences"", ""Advanced roles & permissions"", ""Dashboards"", ""API access""]",Folk
+130,34,Custom,,,flat,USD,"[""Custom pricing"", ""Dedicated support""]",Folk
+131,35,Free,0.0,,flat,USD,"[""250 contacts"", ""2 users""]",Capsule CRM
+132,35,Starter,21.0,,per-seat,USD,"[""30K contacts"", ""1 pipeline""]",Capsule CRM
+133,35,Growth,38.0,,per-seat,USD,"[""60K contacts"", ""5 pipelines"", ""Workflow automation""]",Capsule CRM
+134,35,Advanced,60.0,,per-seat,USD,"[""120K contacts"", ""50 pipelines"", ""Custom reports""]",Capsule CRM
+135,35,Ultimate,75.0,,per-seat,USD,"[""240K contacts"", ""Implementation support""]",Capsule CRM
+136,36,Free,0.0,,flat,USD,"[""3 seats"", ""Unlimited contacts"", ""Core CRM""]",Attio
+137,36,Plus,34.0,,per-seat,USD,"[""Advanced lists"", ""Multi-currency"", ""Enrichment""]",Attio
+138,36,Pro,69.0,,per-seat,USD,"[""Advanced reporting"", ""Automations"", ""API""]",Attio
+139,36,Enterprise,,,per-seat,USD,"[""SAML/SCIM"", ""Audit logs"", ""Custom SLA""]",Attio
+140,37,Free,0.0,,flat,USD,"[""500 contacts"", ""1000 emails/mo"", ""1 audience""]",Mailchimp
+141,37,Essentials,13.0,,flat,USD,"[""500 contacts"", ""5000 emails/mo"", ""3 audiences""]",Mailchimp
+142,37,Standard,20.0,,flat,USD,"[""500 contacts"", ""6000 emails/mo"", ""Automation""]",Mailchimp
+143,37,Premium,350.0,,flat,USD,"[""10K contacts"", ""150K emails/mo"", ""Unlimited audiences""]",Mailchimp
+144,38,Newsletter,0.0,,flat,USD,"[""10K subscribers"", ""Landing pages"", ""Forms""]",Kit (ConvertKit)
+145,38,Creator,33.0,,flat,USD,"[""1K subs"", ""Automation"", ""Integrations""]",Kit (ConvertKit)
+146,38,Pro,66.0,,flat,USD,"[""1K subs"", ""Deliverability reporting"", ""Facebook audiences""]",Kit (ConvertKit)
+147,39,Starter,15.0,,flat,USD,"[""1000 contacts"", ""1 user"", ""Email campaigns""]",ActiveCampaign
+148,39,Plus,49.0,,flat,USD,"[""1000 contacts"", ""3 users"", ""Landing pages"", ""CRM""]",ActiveCampaign
+149,39,Pro,79.0,,flat,USD,"[""1000 contacts"", ""5 users"", ""Predictive sending""]",ActiveCampaign
+150,39,Enterprise,145.0,,flat,USD,"[""1000 contacts"", ""10 users"", ""Custom reporting""]",ActiveCampaign
+151,40,Starter,9.0,,flat,USD,"[""5,000 emails/mo"", ""Email & SMS"", ""Drag & drop editor"", ""AI content generator""]",Brevo (Sendinblue)
+152,40,Standard,18.0,,flat,USD,"[""Everything in Starter"", ""Marketing automation"", ""A/B testing"", ""AI send time""]",Brevo (Sendinblue)
+153,40,Professional,49.0,,flat,USD,"[""150,000 emails/mo"", ""WhatsApp, Push"", ""Multi-user (10 seats)"", ""AI segmentation""]",Brevo (Sendinblue)
+154,40,Enterprise,,,flat,USD,"[""Unlimited contacts"", ""Dedicated IP"", ""SLA""]",Brevo (Sendinblue)
+155,41,Free,0.0,,flat,USD,"[""250 contacts"", ""500 emails/mo"", ""150 SMS""]",Klaviyo
+156,41,Email,20.0,,flat,USD,"[""251-500 contacts"", ""5000 emails/mo""]",Klaviyo
+157,41,Email & SMS,35.0,,flat,USD,"[""251-500 contacts"", ""5000 emails/mo"", ""1250 SMS""]",Klaviyo
+158,42,Email,39.0,,flat,USD,"[""2500 contacts"", ""Unlimited emails"", ""All features included""]",Drip
+159,43,Free,0.0,,flat,USD,"[""500 subscribers"", ""3000 emails/mo"", ""1 landing page""]",AWeber
+160,43,Lite,14.99,,flat,USD,"[""500 subscribers"", ""Unlimited emails"", ""3 automations""]",AWeber
+161,43,Plus,29.99,,flat,USD,"[""500 subscribers"", ""Unlimited automations"", ""A/B testing""]",AWeber
+162,43,Unlimited,899.0,,flat,USD,"[""Unlimited subscribers"", ""Priority support""]",AWeber
+163,44,Free,0.0,,flat,USD,"[""500 contacts"", ""2500 emails/mo""]",GetResponse
+164,44,Email Marketing,19.0,,flat,USD,"[""1000 contacts"", ""Unlimited emails"", ""AI email generator""]",GetResponse
+165,44,Marketing Automation,59.0,,flat,USD,"[""1000 contacts"", ""Event-based workflows"", ""Webinars""]",GetResponse
+166,44,Ecommerce Marketing,119.0,,flat,USD,"[""1000 contacts"", ""Promo codes"", ""Product recommendations""]",GetResponse
+167,44,GetResponse MAX,,,flat,USD,"[""Custom contacts"", ""Dedicated IP"", ""SSO""]",GetResponse
+168,45,Lite,12.0,,flat,USD,"[""500 contacts"", ""10x contacts emails/mo""]",Constant Contact
+169,45,Standard,35.0,,flat,USD,"[""500 contacts"", ""12x contacts emails/mo"", ""Automations""]",Constant Contact
+170,45,Premium,80.0,,flat,USD,"[""500 contacts"", ""24x contacts emails/mo"", ""Dynamic content""]",Constant Contact
+171,46,Free,0.0,,flat,USD,"[""1000 subscribers"", ""12K emails/mo""]",MailerLite
+172,46,Growing Business,10.0,,flat,USD,"[""500 subscribers"", ""Unlimited emails"", ""Sell digital products""]",MailerLite
+173,46,Advanced,20.0,,flat,USD,"[""500 subscribers"", ""AI assistant"", ""Facebook integration""]",MailerLite
+174,46,Enterprise,,,flat,USD,"[""100K+ subscribers"", ""Dedicated IP""]",MailerLite
+175,47,Launch,0.0,,flat,USD,"[""2500 subscribers"", ""Unlimited emails""]",beehiiv
+176,47,Scale,43.0,,flat,USD,"[""100K subscribers"", ""Custom domains"", ""Ad network""]",beehiiv
+177,47,Max,96.0,,flat,USD,"[""100K subscribers"", ""Priority support"", ""NewsGPT AI""]",beehiiv
+178,47,Enterprise,,,flat,USD,"[""Custom everything"", ""Dedicated support""]",beehiiv
+179,48,Free,0.0,,flat,USD,"[""250 contacts"", ""500 emails/mo"", ""60 SMS""]",Omnisend
+180,48,Standard,16.0,,flat,USD,"[""500 contacts"", ""6000 emails/mo"", ""Unlimited push""]",Omnisend
+181,48,Pro,59.0,,flat,USD,"[""2500 contacts"", ""Unlimited emails"", ""Advanced reporting""]",Omnisend
+182,49,Pro,9.0,,flat,USD,"[""500 subscribers"", ""Unlimited emails"", ""Automation""]",Moosend
+183,49,Enterprise,,,flat,USD,"[""Custom plan"", ""Dedicated IP"", ""Priority support""]",Moosend
+184,50,Lite,12.0,,flat,USD,"[""500 contacts"", ""2500 emails/mo""]",Campaign Monitor
+185,50,Essentials,29.0,,flat,USD,"[""500 contacts"", ""Unlimited emails"", ""Automation""]",Campaign Monitor
+186,50,Premier,159.0,,flat,USD,"[""500 contacts"", ""Phone support"", ""Advanced analytics""]",Campaign Monitor
+187,51,Free,0.0,,flat,USD,"[""2500 subscribers"", ""15K emails/mo""]",Sender
+188,51,Standard,10.0,,flat,USD,"[""2500 subscribers"", ""30K emails/mo"", ""SMS"", ""Automation""]",Sender
+189,51,Professional,35.0,,flat,USD,"[""2500 subscribers"", ""60K emails/mo"", ""Animated countdown""]",Sender
+190,51,Enterprise,,,flat,USD,"[""Dedicated IP"", ""Custom sending"", ""Dedicated manager""]",Sender
+191,52,Free,0.0,,flat,USD,"[""Forms & landing pages"", ""Designer templates"", ""Audience segmentation"", ""Email sending""]",Flodesk
+192,52,Lite,25.0,,flat,USD,"[""Everything in Free"", ""Up to 1,000 subscribers"", ""Unlimited sends"", ""Email automation""]",Flodesk
+193,52,Pro,49.0,,flat,USD,"[""Unlimited subscribers"", ""Advanced automation"", ""Analytics"", ""Custom domains""]",Flodesk
+194,52,Everything,64.0,,flat,USD,"[""Everything in Pro"", ""Checkout & payments"", ""Sales pages"", ""Digital products""]",Flodesk
+195,53,Free,0.0,,flat,USD,"[""100 subscribers""]",Buttondown
+196,53,Basic,9.0,,flat,USD,"[""1000 subscribers"", ""Custom domain""]",Buttondown
+197,53,Standard,29.0,,flat,USD,"[""5000 subscribers"", ""Automation"", ""Surveys""]",Buttondown
+198,53,Professional,79.0,,flat,USD,"[""10K subscribers"", ""API access"", ""Priority support""]",Buttondown
+199,54,Free,0.0,,flat,USD,"[""1000 contacts"", ""2000 emails/mo""]",Loops
+200,54,Starter,49.0,,flat,USD,"[""5000 contacts"", ""Custom domain""]",Loops
+201,54,Growth,149.0,,flat,USD,"[""25K contacts"", ""Priority support""]",Loops
+202,54,Pro,599.0,,flat,USD,"[""100K contacts"", ""Dedicated IP""]",Loops
+203,55,Free,0.0,,flat,USD,"[""WordPress.com subdomain"", ""1GB storage""]",WordPress.com
+204,55,Starter,4.0,,flat,USD,"[""Custom domain"", ""6GB storage""]",WordPress.com
+205,55,Explorer,8.0,,flat,USD,"[""50GB storage"", ""Ad-free""]",WordPress.com
+206,55,Creator,25.0,,flat,USD,"[""50GB storage"", ""Plugins"", ""Themes""]",WordPress.com
+207,55,Entrepreneur,45.0,,flat,USD,"[""50GB storage"", ""E-commerce""]",WordPress.com
+208,56,Free,0.0,,flat,USD,"[""Wix branding"", ""500MB storage""]",Wix
+209,56,Light,17.0,,flat,USD,"[""Custom domain"", ""2GB storage""]",Wix
+210,56,Core,29.0,,flat,USD,"[""50GB storage"", ""Accept payments""]",Wix
+211,56,Business,36.0,,flat,USD,"[""100GB storage"", ""Subscriptions""]",Wix
+212,56,Business Elite,159.0,,flat,USD,"[""Unlimited storage"", ""Priority support""]",Wix
+213,57,Personal,16.0,,flat,USD,"[""Custom domain"", ""Unlimited bandwidth"", ""SSL""]",Squarespace
+214,57,Business,33.0,,flat,USD,"[""E-commerce"", ""Custom CSS/JS"", ""Popup""]",Squarespace
+215,57,Commerce Basic,36.0,,flat,USD,"[""No transaction fees"", ""POS""]",Squarespace
+216,57,Commerce Advanced,65.0,,flat,USD,"[""Abandoned cart"", ""Subscriptions""]",Squarespace
+217,58,Starter,0.0,,flat,USD,"[""2 pages"", ""Webflow.io domain"", ""Basic hosting""]",Webflow
+218,58,Basic,14.0,168.0,flat,USD,"[""Custom domain"", ""150 pages"", ""Unlimited form submits""]",Webflow
+219,58,CMS,23.0,276.0,flat,USD,"[""Custom domain"", ""2,000 CMS items"", ""50GB bandwidth""]",Webflow
+220,58,Business,39.0,468.0,flat,USD,"[""10,000 CMS items"", ""Advanced SEO"", ""Form file upload""]",Webflow
+221,58,Enterprise,,,flat,USD,"[""Custom SLA"", ""Dedicated support"", ""SSO""]",Webflow
+222,59,Free,0.0,,flat,USD,"[""Framer subdomain"", ""1000 visitors/mo""]",Framer
+223,59,Mini,5.0,,flat,USD,"[""Custom domain"", ""Custom 404""]",Framer
+224,59,Basic,15.0,,flat,USD,"[""10K visitors/mo"", ""CMS"", ""Forms""]",Framer
+225,59,Pro,30.0,,flat,USD,"[""200K visitors/mo"", ""Password protect""]",Framer
+226,59,Enterprise,,,flat,USD,"[""Unlimited"", ""SLA"", ""Security""]",Framer
+227,60,Free,0.0,,flat,USD,"[""3 sites"", ""carrd.co domain""]",Carrd
+228,60,Pro Lite,9.0,108.0,flat,USD,"[""3 sites"", ""Custom domain"", ""Forms""]",Carrd
+229,60,Pro Standard,19.0,228.0,flat,USD,"[""10 sites"", ""Google Analytics""]",Carrd
+230,60,Pro Plus,49.0,588.0,flat,USD,"[""25 sites"", ""Widgets"", ""Custom code""]",Carrd
+231,61,Starter,15.0,180.0,flat,USD,"[""1 staff user"", ""Custom domain"", ""Email newsletter"", ""1,000 members""]",Ghost
+232,61,Publisher,29.0,348.0,flat,USD,"[""3 staff users"", ""Custom themes"", ""Paid subscriptions"", ""1,000 members""]",Ghost
+233,61,Business,199.0,2388.0,flat,USD,"[""15 staff users"", ""Priority support"", ""10,000 members""]",Ghost
+234,61,Custom,,,flat,USD,"[""Unlimited staff"", ""Dedicated IP"", ""99.9% SLA""]",Ghost
+235,62,Basic,39.0,,flat,USD,"[""Basic reports"", ""2 staff accounts""]",Shopify
+236,62,Shopify,105.0,,flat,USD,"[""Professional reports"", ""5 staff accounts""]",Shopify
+237,62,Advanced,399.0,,flat,USD,"[""Custom reports"", ""15 staff accounts""]",Shopify
+238,62,Plus,2300.0,,flat,USD,"[""Unlimited staff"", ""Checkout customization""]",Shopify
+239,63,Free,0.0,,flat,USD,"[""Weebly subdomain"", ""500MB storage""]",Weebly
+240,63,Personal,13.0,,flat,USD,"[""Custom domain"", ""Unlimited storage""]",Weebly
+241,63,Professional,16.0,,flat,USD,"[""Site search"", ""Video backgrounds""]",Weebly
+242,63,Performance,29.0,,flat,USD,"[""E-commerce"", ""Shipping labels""]",Weebly
+243,64,Basic,25.0,,flat,USD,"[""1 site"", ""Widget builder""]",Duda
+244,64,Team,39.0,,flat,USD,"[""4 sites"", ""Client management""]",Duda
+245,64,Agency,69.0,,flat,USD,"[""Unlimited sites"", ""White label""]",Duda
+246,64,White Label,199.0,,flat,USD,"[""Full white label"", ""Custom branding""]",Duda
+247,65,Free,0.0,,flat,USD,"[""Webnode subdomain"", ""100MB storage""]",Webnode
+248,65,Limited,3.9,,flat,USD,"[""Custom domain"", ""No Webnode ads""]",Webnode
+249,65,Mini,7.5,,flat,USD,"[""500MB storage"", ""Google Analytics""]",Webnode
+250,65,Standard,12.9,,flat,USD,"[""2GB storage"", ""Newsletter""]",Webnode
+251,65,Profi,22.9,,flat,USD,"[""5GB storage"", ""E-commerce""]",Webnode
+252,66,Free,0.0,,flat,USD,"[""1 site"", ""5GB bandwidth""]",Strikingly
+253,66,Limited,12.0,,flat,USD,"[""Custom domain"", ""Limited store""]",Strikingly
+254,66,Pro,20.0,,flat,USD,"[""3 sites"", ""Membership"", ""Full store""]",Strikingly
+255,66,VIP,49.0,,flat,USD,"[""5 sites"", ""Priority support""]",Strikingly
+256,67,Personal,10.0,,flat,USD,"[""1 website"", ""AI Builder"", ""Hosting""]",10Web
+257,67,Premium,24.0,,flat,USD,"[""3 websites"", ""AI Assistant""]",10Web
+258,67,Agency,60.0,,flat,USD,"[""10 websites"", ""White label""]",10Web
+259,68,Free,0.0,,flat,USD,"[""Free hosting on super.site"", ""Customize with themes"", ""Works with any Notion page""]",Super
+260,68,Personal,16.0,,flat,USD,"[""Custom domain"", ""Custom code"", ""Password protected pages"", ""Custom fonts""]",Super
+261,68,Pro,28.0,,flat,USD,"[""Manual publishing controls"", ""Advanced search"", ""File uploads"", ""Redirect and hide pages""]",Super
+262,68,Business,50.0,,flat,USD,"[""Custom solutions"", ""Sub-path hosting"", ""Priority support""]",Super
+263,69,Free,0.0,,flat,USD,"[""Typedream subdomain"", ""Basic features""]",Typedream
+264,69,Launch,15.0,,flat,USD,"[""Custom domain"", ""Forms""]",Typedream
+265,69,Grow,30.0,,flat,USD,"[""CMS"", ""SEO tools"", ""Custom code""]",Typedream
+266,69,Pro,49.0,,flat,USD,"[""5 sites"", ""Memberships"", ""Priority support""]",Typedream
+267,70,Lurker,0.0,,flat,USD,"[""10 pages per website"", ""10 blog posts"", ""Free SSL & CDN""]",Unicorn Platform
+268,70,Maker,14.0,,flat,USD,"[""1 published website"", ""Unlimited pages"", ""Custom domain"", ""Remove branding""]",Unicorn Platform
+269,70,Startup,49.0,,flat,USD,"[""Unlimited blog posts"", ""Collaborators"", ""reCAPTCHA"", ""Deals from partners""]",Unicorn Platform
+270,71,Free Tier,0.0,,flat,USD,"[""750hrs EC2/mo"", ""5GB S3"", ""25GB DynamoDB""]",Amazon Web Services (AWS)
+271,71,Pay-as-you-go,,,usage-based,USD,"[""EC2 from $0.0116/hr"", ""S3 $0.023/GB"", ""Lambda 1M free requests""]",Amazon Web Services (AWS)
+272,72,DO 1GB,14.0,,flat,USD,"[""1GB RAM"", ""1 Core"", ""25GB SSD""]",Cloudways
+273,72,DO 2GB,28.0,,flat,USD,"[""2GB RAM"", ""1 Core"", ""50GB SSD""]",Cloudways
+274,72,DO 4GB,54.0,,flat,USD,"[""4GB RAM"", ""2 Cores"", ""80GB SSD""]",Cloudways
+275,72,AWS/GCE,38.0,,flat,USD,"[""Starting price for AWS small""]",Cloudways
+276,73,$200 Free Credit,0.0,,flat,USD,"[""$200 credit for new accounts""]",DigitalOcean
+277,73,Basic Droplet,4.0,,flat,USD,"[""512MB RAM"", ""1 vCPU"", ""10GB SSD""]",DigitalOcean
+278,73,Regular Droplet,6.0,,flat,USD,"[""1GB RAM"", ""1 vCPU"", ""25GB SSD""]",DigitalOcean
+279,73,Premium Droplet,8.0,,flat,USD,"[""1GB RAM"", ""1 vCPU"", ""NVMe SSD""]",DigitalOcean
+280,74,Premium,2.99,,flat,USD,"[""100 websites"", ""100GB SSD"", ""Free domain""]",Hostinger
+281,74,Business,3.99,,flat,USD,"[""100 websites"", ""200GB SSD"", ""Daily backups""]",Hostinger
+282,74,Cloud Startup,9.99,,flat,USD,"[""300 websites"", ""200GB SSD"", ""Dedicated IP""]",Hostinger
+283,75,StartUp,2.99,,flat,USD,"[""1 website"", ""10GB SSD"", ""10K visits/mo""]",SiteGround
+284,75,GrowBig,4.99,,flat,USD,"[""Unlimited sites"", ""20GB SSD"", ""100K visits""]",SiteGround
+285,75,GoGeek,7.99,,flat,USD,"[""Unlimited sites"", ""40GB SSD"", ""400K visits""]",SiteGround
+286,76,Starter,35.0,,flat,USD,"[""1 site"", ""10GB storage"", ""25K visits""]",Kinsta
+287,76,Pro,70.0,,flat,USD,"[""2 sites"", ""20GB storage"", ""50K visits""]",Kinsta
+288,76,Business 1,115.0,,flat,USD,"[""5 sites"", ""30GB storage"", ""100K visits""]",Kinsta
+289,76,Enterprise 1,675.0,,flat,USD,"[""60 sites"", ""100GB storage"", ""1M visits""]",Kinsta
+290,77,Hobby,0.0,,flat,USD,"[""Unlimited sites"", ""100GB bandwidth"", ""Serverless""]",Vercel
+291,77,Pro,20.0,,per-seat,USD,"[""1TB bandwidth"", ""Firewall"", ""Password protection""]",Vercel
+292,77,Enterprise,,,flat,USD,"[""SLA"", ""Advanced security"", ""Custom limits""]",Vercel
+293,78,Starter,0.0,,flat,USD,"[""100GB bandwidth"", ""300 build minutes"", ""1 member""]",Netlify
+294,78,Pro,19.0,,per-seat,USD,"[""1TB bandwidth"", ""25K build minutes""]",Netlify
+295,78,Enterprise,,,flat,USD,"[""SLA"", ""Advanced security"", ""Custom support""]",Netlify
+296,79,Hobby,0.0,,flat,USD,"[""3 shared VMs"", ""3GB storage"", ""160GB bandwidth""]",Fly.io
+297,79,Launch,29.0,,flat,USD,"[""Dedicated support"", ""Compliance""]",Fly.io
+298,79,Scale,,,flat,USD,"[""Volume discounts"", ""SLA""]",Fly.io
+299,80,Trial,0.0,,flat,USD,"[""$5 credit"", ""500 execution hours""]",Railway
+300,80,Hobby,5.0,,flat,USD,"[""$5 included usage"", ""8GB RAM""]",Railway
+301,80,Pro,20.0,,per-seat,USD,"[""$10 included usage"", ""32GB RAM""]",Railway
+302,80,Enterprise,,,flat,USD,"[""SLA"", ""SSO"", ""Dedicated support""]",Railway
+303,81,Free,0.0,,flat,USD,"[""Static sites"", ""750 hours web services""]",Render
+304,81,Individual,7.0,,flat,USD,"[""Per web service"", ""SSD storage""]",Render
+305,81,Team,19.0,,flat,USD,"[""Team features"", ""Higher limits""]",Render
+306,81,Enterprise,,,flat,USD,"[""SLA"", ""SSO"", ""Priority support""]",Render
+307,82,CX22,4.35,,flat,USD,"[""2 vCPU"", ""4GB RAM"", ""40GB SSD""]",Hetzner
+308,82,CX32,7.69,,flat,USD,"[""4 vCPU"", ""8GB RAM"", ""80GB SSD""]",Hetzner
+309,82,CX42,14.49,,flat,USD,"[""8 vCPU"", ""16GB RAM"", ""160GB SSD""]",Hetzner
+310,82,Dedicated,44.0,,flat,USD,"[""Bare metal servers""]",Hetzner
+311,83,$250 Credit,0.0,,flat,USD,"[""$250 free credit for new accounts""]",Vultr
+312,83,Cloud Compute,2.5,,flat,USD,"[""1 vCPU"", ""512MB RAM"", ""10GB SSD""]",Vultr
+313,83,High Frequency,6.0,,flat,USD,"[""1 vCPU"", ""1GB RAM"", ""32GB NVMe""]",Vultr
+314,83,Bare Metal,120.0,,flat,USD,"[""Dedicated hardware""]",Vultr
+315,84,$100 Credit,0.0,,flat,USD,"[""$100 free credit for new accounts""]",Linode (Akamai Cloud)
+316,84,Nanode,5.0,,flat,USD,"[""1GB RAM"", ""1 CPU"", ""25GB SSD""]",Linode (Akamai Cloud)
+317,84,Linode 2GB,12.0,,flat,USD,"[""2GB RAM"", ""1 CPU"", ""50GB SSD""]",Linode (Akamai Cloud)
+318,84,Linode 4GB,24.0,,flat,USD,"[""4GB RAM"", ""2 CPUs"", ""80GB SSD""]",Linode (Akamai Cloud)
+319,85,Free Tier,0.0,,flat,USD,"[""$300 credit"", ""Always-free products""]",Google Cloud Platform
+320,85,Pay-as-you-go,,,usage-based,USD,"[""Compute Engine from $0.006/hr"", ""Cloud Storage $0.020/GB""]",Google Cloud Platform
+321,86,Free Account,0.0,,flat,USD,"[""$200 credit"", ""55+ always-free services""]",Microsoft Azure
+322,86,Pay-as-you-go,,,usage-based,USD,"[""VMs from $0.004/hr"", ""Blob Storage $0.018/GB""]",Microsoft Azure
+323,87,Startup,2.99,,flat,USD,"[""1 website"", ""100GB SSD""]",A2 Hosting
+324,87,Drive,5.99,,flat,USD,"[""Unlimited sites"", ""Unlimited SSD""]",A2 Hosting
+325,87,Turbo Boost,6.99,,flat,USD,"[""Turbo server"", ""Unlimited sites""]",A2 Hosting
+326,87,Turbo Max,14.99,,flat,USD,"[""Turbo server"", ""5x resources""]",A2 Hosting
+327,88,Basic,2.95,,flat,USD,"[""1 website"", ""10GB SSD"", ""Free domain""]",Bluehost
+328,88,Plus,5.45,,flat,USD,"[""Unlimited websites"", ""Unlimited SSD""]",Bluehost
+329,88,Choice Plus,5.45,,flat,USD,"[""Free domain privacy"", ""Automated backups""]",Bluehost
+330,88,Online Store,9.95,,flat,USD,"[""WooCommerce"", ""Online store tools""]",Bluehost
+331,89,Stellar,1.98,,flat,USD,"[""3 websites"", ""20GB SSD""]",Namecheap
+332,89,Stellar Plus,2.98,,flat,USD,"[""Unlimited sites"", ""Unlimited SSD"", ""Auto backup""]",Namecheap
+333,89,Stellar Business,4.98,,flat,USD,"[""50GB SSD"", ""Cloud storage""]",Namecheap
+334,90,Startup,20.0,,flat,USD,"[""1 site"", ""25K visits/mo"", ""10GB storage""]",WP Engine
+335,90,Professional,39.0,,flat,USD,"[""3 sites"", ""75K visits/mo"", ""15GB storage""]",WP Engine
+336,90,Growth,77.0,,flat,USD,"[""10 sites"", ""100K visits/mo"", ""20GB storage""]",WP Engine
+337,90,Scale,193.0,,flat,USD,"[""30 sites"", ""400K visits/mo"", ""50GB storage""]",WP Engine
+338,91,Starter,0.0,,flat,USD,"[""Unlimited drafts"", ""150 AI credits/day""]",Figma
+339,91,Professional,16.0,,per-seat,USD,"[""Unlimited files"", ""Team libraries"", ""Dev Mode""]",Figma
+340,91,Organization,55.0,,per-seat,USD,"[""Unlimited teams"", ""Shared fonts"", ""Admin tools""]",Figma
+341,91,Enterprise,90.0,,per-seat,USD,"[""SCIM"", ""Design system theming"", ""Custom workspaces""]",Figma
+342,92,Free,0.0,,flat,USD,"[""250K+ templates"", ""5GB storage"", ""AI tools""]",Canva
+343,92,Pro,15.0,,per-seat,USD,"[""100M+ assets"", ""1TB storage"", ""Brand Kit""]",Canva
+344,92,Teams,10.0,,per-seat,USD,"[""Brand controls"", ""Approval workflows"", ""Reporting""]",Canva
+345,92,Enterprise,,,per-seat,USD,"[""SSO"", ""Advanced controls"", ""SLA""]",Canva
+346,93,Creative Cloud All Apps,59.99,,flat,USD,"[""XD + all Adobe apps"", ""100GB storage""]",Adobe XD
+347,94,Standard,12.0,144.0,flat,USD,"[""Real-time collaboration"", ""Unlimited documents"", ""Free developer handoff""]",Sketch
+348,94,Professional,25.0,300.0,flat,USD,"[""Everything in Standard"", ""SSO"", ""Project archiving"", ""Permissions groups""]",Sketch
+349,94,Enterprise,44.0,528.0,flat,USD,"[""Everything in Professional"", ""SCIM"", ""BYOK encryption"", ""Dedicated support""]",Sketch
+350,95,Free,0.0,,flat,USD,"[""Freehand whiteboards"", ""Unlimited collaborators""]",InVision
+351,96,Free (Self-hosted),0.0,,flat,USD,"[""Unlimited everything"", ""Self-hosted""]",Penpot
+352,96,Free (Cloud),0.0,,flat,USD,"[""Unlimited projects"", ""Community support""]",Penpot
+353,96,Premium,,,flat,USD,"[""Priority support"", ""SLA"", ""Coming soon""]",Penpot
+354,97,Affinity Designer V2,69.99,,flat,USD,"[""Desktop app"", ""No subscription""]",Affinity Designer
+355,97,Affinity V2 Universal,169.99,,flat,USD,"[""Designer + Photo + Publisher"", ""All platforms""]",Affinity Designer
+356,97,Canva Subscription,14.99,,flat,USD,"[""Full Affinity suite via Canva Teams""]",Affinity Designer
+357,98,Illustrator,22.99,,flat,USD,"[""Single app"", ""100GB storage""]",Adobe Illustrator
+358,98,All Apps,59.99,,flat,USD,"[""20+ Creative Cloud apps""]",Adobe Illustrator
+359,99,Photography Plan,9.99,,flat,USD,"[""Photoshop + Lightroom"", ""20GB storage""]",Adobe Photoshop
+360,99,Photoshop,22.99,,flat,USD,"[""Single app"", ""100GB storage""]",Adobe Photoshop
+361,99,All Apps,59.99,,flat,USD,"[""20+ Creative Cloud apps""]",Adobe Photoshop
+362,100,Free,0.0,,flat,USD,"[""Full featured"", ""Built-in assets"", ""AI tools""]",Lunacy
+363,100,Pro (Icons8),14.99,,flat,USD,"[""Extended assets"", ""No attribution""]",Lunacy
+364,101,Procreate (iPad),12.99,,flat,USD,"[""No subscription"", ""All features""]",Procreate
+365,101,Procreate Dreams,19.99,,flat,USD,"[""2D animation app""]",Procreate
+366,102,Free,0.0,,flat,USD,"[""Basic editing"", ""AI tools (limited)""]",Pixlr
+367,102,Plus,1.99,,flat,USD,"[""Priority AI generation"", ""More templates""]",Pixlr
+368,102,Premium,7.99,,flat,USD,"[""Unlimited AI"", ""All assets""]",Pixlr
+369,102,Team,12.99,,per-seat,USD,"[""Team features"", ""Brand kit""]",Pixlr
+370,103,Free,0.0,,flat,USD,"[""2 projects"", ""Framer subdomain""]",Framer
+371,103,Mini,5.0,,flat,USD,"[""Custom domain""]",Framer
+372,103,Basic,15.0,,flat,USD,"[""CMS"", ""Forms""]",Framer
+373,103,Pro,30.0,,flat,USD,"[""200K visitors"", ""Password protect""]",Framer
+374,104,Free,0.0,,flat,USD,"[""Free forever"", ""Basic 3D design"", ""Web exports with watermark""]",Spline
+375,104,Starter,12.0,,per-seat,USD,"[""No watermark on exports"", ""Higher resolution exports"", ""Spline material & audio library""]",Spline
+376,104,Professional,20.0,,per-seat,USD,"[""Unlimited folders and projects"", ""Video export"", ""Unlimited scenes per file"", ""Apple & Android exports""]",Spline
+377,105,Free,0.0,,flat,USD,"[""3 editable boards""]",Miro
+378,105,Starter,10.0,,per-seat,USD,"[""Unlimited boards""]",Miro
+379,105,Business,20.0,,per-seat,USD,"[""SSO"", ""Guest access""]",Miro
+380,105,Enterprise,,,per-seat,USD,"[""Advanced security""]",Miro
+381,106,Free,0.0,,flat,USD,"[""100 AI actions"", ""Limited boards""]",Whimsical
+382,106,Pro,12.0,,per-seat,USD,"[""Unlimited boards"", ""AI features""]",Whimsical
+383,106,Organization,20.0,,per-seat,USD,"[""SSO"", ""Admin controls""]",Whimsical
+384,107,Simple Start,38.0,,flat,USD,"[""1 user"", ""Automated bookkeeping"", ""Run basic business reports"", ""Invoice and get paid""]",QuickBooks Online
+385,107,Essentials,75.0,,flat,USD,"[""3 users"", ""Everything in Simple Start"", ""Run enhanced reports"", ""Add employee time to invoices""]",QuickBooks Online
+386,107,Plus,115.0,,flat,USD,"[""5 users"", ""Everything in Essentials"", ""Inventory tracking"", ""Project profitability""]",QuickBooks Online
+387,107,Advanced,275.0,,flat,USD,"[""25 users"", ""Everything in Plus"", ""Business analytics"", ""Dedicated account team""]",QuickBooks Online
+388,108,Early,25.0,,flat,USD,"[""20 invoices"", ""5 bills"", ""Bank reconciliation""]",Xero
+389,108,Growing,55.0,,flat,USD,"[""Unlimited invoices"", ""Bulk reconciliation""]",Xero
+390,108,Established,90.0,,flat,USD,"[""Multi-currency"", ""Expense claims"", ""Advanced analytics""]",Xero
+391,109,Lite,23.0,,flat,USD,"[""5 clients"", ""Unlimited invoices"", ""Expense tracking"", ""Time tracking""]",FreshBooks
+392,109,Plus,40.0,,flat,USD,"[""50 clients"", ""Recurring billing"", ""Double-entry accounting""]",FreshBooks
+393,109,Premium,76.0,,flat,USD,"[""Unlimited clients"", ""Advanced accounting"", ""Custom email templates""]",FreshBooks
+394,109,Select,,,flat,USD,"[""Dedicated account manager"", ""Custom onboarding""]",FreshBooks
+395,110,Free (Accounting),0.0,,flat,USD,"[""Accounting"", ""Invoicing"", ""Receipt scanning""]",Wave
+396,110,Pro (Accounting),16.0,,flat,USD,"[""Bank connections"", ""Receipt scanning""]",Wave
+397,110,Payroll,20.0,,flat,USD,"[""+ $6/employee"", ""Tax-filing states""]",Wave
+398,110,Advisors,149.0,,flat,USD,"[""1-on-1 coaching"", ""Bookkeeping support""]",Wave
+399,111,Free,0.0,,flat,USD,"[""1000 invoices/year"", ""1 user"", ""Bank reconciliation""]",Zoho Books
+400,111,Standard,20.0,,per-project,USD,"[""5000 invoices/year"", ""3 users"", ""Billing""]",Zoho Books
+401,111,Professional,50.0,,per-project,USD,"[""Unlimited invoices"", ""5 users"", ""Purchase orders""]",Zoho Books
+402,111,Premium,70.0,,per-project,USD,"[""10 users"", ""Budgeting"", ""Custom domain""]",Zoho Books
+403,111,Elite,150.0,,per-project,USD,"[""15 users"", ""Inventory"", ""Custom reports""]",Zoho Books
+404,112,Sage Accounting Start,10.0,,flat,USD,"[""Invoicing"", ""Cash flow"", ""Bank feeds""]",Sage Business Cloud Accounting
+405,112,Sage Accounting,25.0,,flat,USD,"[""Quotes & estimates"", ""Purchase invoices""]",Sage Business Cloud Accounting
+406,112,Sage Intacct,,,flat,USD,"[""Enterprise accounting"", ""Multi-entity""]",Sage Business Cloud Accounting
+407,113,Kashoo,30.0,,flat,USD,"[""Unlimited invoices"", ""Expense tracking"", ""Bank connections"", ""Multi-currency""]",Kashoo
+408,114,Bookkeeping Grow,189.0,,flat,USD,"[""Dedicated bookkeeping experts"", ""Monthly books & year-end tax packages"", ""P&L, balance sheet, 1099 reporting""]",Bench
+409,114,Bookkeeping Premium,339.0,,flat,USD,"[""Everything in Grow"", ""Year-round tax advisory"", ""Tax filing included"", ""Dedicated CPA access""]",Bench
+410,115,FreeAgent,19.0,,flat,USD,"[""All features"", ""Unlimited users"", ""Unlimited invoices""]",FreeAgent
+411,116,Basic,9.0,108.0,per-seat,USD,"[""Time tracking"", ""Task management"", ""Unlimited projects"", ""CRM""]",Bonsai
+412,116,Essentials,19.0,228.0,per-seat,USD,"[""Everything in Basic"", ""Invoices & payments"", ""Proposals & contracts"", ""Client portal""]",Bonsai
+413,116,Premium,29.0,348.0,per-seat,USD,"[""Everything in Essentials"", ""Project insights"", ""Gantt view"", ""Workload management""]",Bonsai
+414,117,Free,0.0,,flat,USD,"[""1 seat"", ""2 projects""]",Harvest
+415,117,Pro,10.8,,per-seat,USD,"[""Unlimited projects"", ""Unlimited clients""]",Harvest
+416,118,Free (Self-hosted),0.0,,flat,USD,"[""All core features"", ""Unlimited""]",Akaunting
+417,118,Cloud Hosting,15.0,,flat,USD,"[""Managed hosting"", ""Support""]",Akaunting
+418,119,Desktop,0.0,,flat,USD,"[""Free forever"", ""All features""]",Manager.io
+419,119,Server,100.0,1200.0,flat,USD,"[""Multi-user"", ""Network access""]",Manager.io
+420,119,Cloud,50.0,600.0,flat,USD,"[""Hosted"", ""Accessible anywhere""]",Manager.io
+421,120,Free,0.0,,flat,USD,"[""Basic tracking"", ""Tax estimates""]",Hurdlr
+422,120,Premium,10.0,,flat,USD,"[""All features"", ""Unlimited reports""]",Hurdlr
+423,120,Pro,16.67,,flat,USD,"[""Tax filing"", ""CPA access""]",Hurdlr
+424,121,Accounting Basic,20.0,,flat,USD,"[""Invoicing"", ""Bank imports"", ""Reports""]",Patriot Software
+425,121,Accounting Premium,30.0,,flat,USD,"[""Recurring invoicing"", ""Accountant access""]",Patriot Software
+426,121,Payroll Basic,17.0,,flat,USD,"[""+ $4/employee"", ""Print checks""]",Patriot Software
+427,121,Payroll Full Service,37.0,,flat,USD,"[""+ $4/employee"", ""Tax filing included""]",Patriot Software
+428,122,Basic,0.0,,flat,USD,"[""100 participants"", ""40-min meetings""]",Zoom
+429,122,Pro,13.33,,per-seat,USD,"[""100 participants"", ""30-hr meetings"", ""5GB cloud storage""]",Zoom
+430,122,Business,18.33,,per-seat,USD,"[""300 participants"", ""Unlimited storage""]",Zoom
+431,122,Enterprise,22.49,,per-seat,USD,"[""1000 participants"", ""Unlimited storage""]",Zoom
+432,123,Free,0.0,,flat,USD,"[""100 participants"", ""60-min meetings""]",Google Meet
+433,123,Business Starter,7.2,,per-seat,USD,"[""100 participants"", ""24-hr meetings""]",Google Meet
+434,123,Business Standard,14.4,,per-seat,USD,"[""150 participants"", ""Recording""]",Google Meet
+435,123,Business Plus,21.6,,per-seat,USD,"[""500 participants"", ""Attendance tracking""]",Google Meet
+436,124,Free,0.0,,flat,USD,"[""100 participants"", ""60-min meetings"", ""5GB storage""]",Microsoft Teams
+437,124,Microsoft Teams Essentials,4.0,,per-seat,USD,"[""300 participants"", ""30-hr meetings""]",Microsoft Teams
+438,124,Microsoft 365 Business Basic,6.0,,per-seat,USD,"[""300 participants"", ""1TB storage""]",Microsoft Teams
+439,124,Microsoft 365 Business Standard,12.5,,per-seat,USD,"[""Desktop Office apps"", ""Webinars""]",Microsoft Teams
+440,125,Free,0.0,,flat,USD,"[""1 room"", ""100 participants"", ""45-min meetings""]",Whereby
+441,125,Pro,8.99,,per-seat,USD,"[""3 rooms"", ""Recording"", ""Branding""]",Whereby
+442,125,Business,11.99,,per-seat,USD,"[""Unlimited rooms"", ""Breakout groups""]",Whereby
+443,126,Starter,0.0,,flat,USD,"[""25 videos"", ""5 min limit"", ""Basic features""]",Loom
+444,126,Business,18.0,,per-seat,USD,"[""Unlimited videos"", ""No time limit"", ""Custom branding""]",Loom
+445,126,Business + AI,24.0,,per-seat,USD,"[""All Business features"", ""AI summaries"", ""Auto chapters""]",Loom
+446,126,Enterprise,,,flat,USD,"[""SSO"", ""Advanced security"", ""Dedicated support""]",Loom
+447,127,Free,0.0,,flat,USD,"[""100 participants"", ""40-min meetings""]",Webex by Cisco
+448,127,Meet,14.5,,per-seat,USD,"[""200 participants"", ""24-hr meetings""]",Webex by Cisco
+449,127,Suite,25.0,,per-seat,USD,"[""1000 participants"", ""Calling"", ""Messaging""]",Webex by Cisco
+450,127,Enterprise,,,per-seat,USD,"[""Custom limits"", ""Advanced security""]",Webex by Cisco
+451,128,Professional,12.0,,per-project,USD,"[""150 participants"", ""No time limit""]",GoTo Meeting
+452,128,Business,16.0,,per-project,USD,"[""250 participants"", ""Note-taking"", ""Drawing tools""]",GoTo Meeting
+453,129,Free (via Miro),0.0,,flat,USD,"[""Integrated in Miro"", ""Audio/video calls""]",Around
+454,130,Free,0.0,,flat,USD,"[""30 attendees"", ""20-min sessions""]",Livestorm
+455,130,Pro,99.0,,flat,USD,"[""100 attendees"", ""4-hr sessions""]",Livestorm
+456,130,Business,,,flat,USD,"[""500+ attendees"", ""Custom branding""]",Livestorm
+457,130,Enterprise,,,flat,USD,"[""3000 attendees"", ""SLA"", ""SSO""]",Livestorm
+458,131,Free (Cloud),0.0,,flat,USD,"[""Unlimited meetings"", ""No account needed""]",Jitsi Meet
+459,131,Self-hosted,0.0,,flat,USD,"[""Full control"", ""Unlimited scale""]",Jitsi Meet
+460,131,8x8 JaaS,,,usage-based,USD,"[""Paid API service"", ""Custom branding""]",Jitsi Meet
+461,132,Free,0.0,,flat,USD,"[""2 hours recording"", ""720p"", ""2 participants""]",Riverside.fm
+462,132,Standard,19.0,,flat,USD,"[""15 hours"", ""4K"", ""8 participants""]",Riverside.fm
+463,132,Pro,29.0,,flat,USD,"[""Unlimited"", ""4K"", ""AI transcription""]",Riverside.fm
+464,132,Enterprise,,,flat,USD,"[""Custom limits"", ""SSO""]",Riverside.fm
+465,133,Free,0.0,,flat,USD,"[""10K minutes/mo"", ""Basic features""]",Daily
+466,133,Scale,,,usage-based,USD,"[""Pay per minute"", ""From $0.004/min""]",Daily
+467,133,Enterprise,,,flat,USD,"[""Custom SLA"", ""Volume discounts""]",Daily
+468,134,Free,0.0,,flat,USD,"[""Unlimited meetings"", ""AI summaries""]",Vowel
+469,134,Business,16.49,,flat,USD,"[""Custom branding"", ""Advanced AI""]",Vowel
+470,134,Enterprise,,,flat,USD,"[""SSO"", ""API"", ""SLA""]",Vowel
+471,135,Free,0.0,,flat,USD,"[""Unlimited bookings"", ""Calendar integrations"", ""Basic event types""]",Cal.com (Cal Video)
+472,135,Team,12.0,,per-seat,USD,"[""Team scheduling"", ""Round-robin routing"", ""Collective events"", ""Priority support""]",Cal.com (Cal Video)
+473,135,Enterprise,,,flat,USD,"[""SSO"", ""Custom branding"", ""Dedicated support""]",Cal.com (Cal Video)
+474,136,Free,0.0,,flat,USD,"[""Unlimited sessions"", ""45-min limit""]",Butter
+475,136,Pro,25.0,,flat,USD,"[""24-hr sessions"", ""Recording"", ""Custom branding""]",Butter
+476,136,Business,,,flat,USD,"[""SSO"", ""Admin"", ""Priority support""]",Butter
+477,137,Standard,27.0,,per-seat,USD,"[""Unlimited calling"", ""AI meetings"", ""SMS""]",Dialpad
+478,137,Pro,35.0,,per-seat,USD,"[""CRM integration"", ""Global SMS""]",Dialpad
+479,137,Enterprise,,,per-seat,USD,"[""100% uptime SLA"", ""Priority support""]",Dialpad
+480,138,Free,0.0,,flat,USD,"[""90 days history"", ""1:1 huddles""]",Slack
+481,138,Pro,8.75,,per-seat,USD,"[""Unlimited history"", ""Group huddles""]",Slack
+482,138,Business+,15.0,,per-seat,USD,"[""SAML SSO"", ""Data exports""]",Slack
+483,138,Enterprise Grid,,,per-seat,USD,"[""Unlimited workspaces"", ""HIPAA""]",Slack
+484,139,Core,30.0,,per-seat,USD,"[""Unlimited calling"", ""100 participants video""]",RingCentral
+485,139,Advanced,35.0,,per-seat,USD,"[""300+ integrations"", ""Auto call recording""]",RingCentral
+486,139,Ultra,45.0,,per-seat,USD,"[""200 participants"", ""Unlimited storage""]",RingCentral
+487,140,Essentials,19.0,,per-seat,USD,"[""Contact management"", ""Pipeline""]",SugarCRM
+488,140,Standard,59.0,,per-seat,USD,"[""Forecasting"", ""Quotas""]",SugarCRM
+489,140,Advanced,85.0,,per-seat,USD,"[""AI predictions"", ""Geo mapping""]",SugarCRM
+490,140,Premier,135.0,,per-seat,USD,"[""Revenue intelligence"", ""Advanced AI""]",SugarCRM
+491,141,Team,25.0,,flat,USD,"[""2 pipelines"", ""Email integration""]",Zendesk Sell
+492,141,Growth,69.0,,flat,USD,"[""10 pipelines"", ""Sequences""]",Zendesk Sell
+493,141,Professional,149.0,,flat,USD,"[""Lead scoring"", ""Task automation""]",Zendesk Sell
+494,142,Hatchling,3.75,,flat,USD,"[""1 website"", ""Free SSL"", ""Unmetered bandwidth""]",HostGator
+495,142,Baby,4.5,,flat,USD,"[""Unlimited sites"", ""Free domain""]",HostGator
+496,142,Business,6.25,,flat,USD,"[""Free dedicated IP"", ""Free SEO tools""]",HostGator
+497,143,Free,0.0,,flat,USD,"[""Website pages"", ""Blog"", ""HubSpot branding""]",HubSpot CMS
+498,143,Starter,20.0,,flat,USD,"[""Custom domain"", ""Remove branding""]",HubSpot CMS
+499,143,Professional,500.0,,flat,USD,"[""Smart content"", ""SEO recommendations""]",HubSpot CMS
+500,143,Enterprise,1500.0,,flat,USD,"[""Memberships"", ""Custom objects""]",HubSpot CMS
+501,144,Free,0.0,,flat,USD,"[""1 site"", ""50 pages"", ""Tilda subdomain""]",Tilda
+502,144,Personal,25.0,,flat,USD,"[""1 site"", ""Custom domain"", ""500 pages""]",Tilda
+503,144,Business,45.0,,flat,USD,"[""5 sites"", ""Export code"", ""Custom fonts""]",Tilda
+504,145,Startup,81.0,,flat,USD,"[""3 brand workspaces"", ""3 team members""]",ClickFunnels
+505,145,Pro,248.0,,flat,USD,"[""10 workspaces"", ""10 team members"", ""API access""]",ClickFunnels
+506,146,Free,0.0,,flat,USD,"[""200 emails/day"", ""6000 emails/mo""]",Mailjet
+507,146,Essential,17.0,,flat,USD,"[""15K emails/mo"", ""No daily limit""]",Mailjet
+508,146,Premium,27.0,,flat,USD,"[""15K emails/mo"", ""Automation"", ""A/B testing""]",Mailjet
+509,146,Custom,,,flat,USD,"[""Custom volume"", ""Dedicated IP""]",Mailjet
+510,147,Free,0.0,,flat,USD,"[""100 emails/day""]",Twilio SendGrid
+511,147,Essentials,19.95,,flat,USD,"[""100K emails/mo""]",Twilio SendGrid
+512,147,Pro,89.95,,flat,USD,"[""100K emails/mo"", ""Dedicated IP""]",Twilio SendGrid
+513,147,Premier,,,flat,USD,"[""Custom volume"", ""Priority support""]",Twilio SendGrid
+514,148,Starter,45.0,540.0,flat,USD,"[""50 attendees"", ""Single host"", ""Standard features""]",Demio
+515,148,Growth,80.0,960.0,flat,USD,"[""150 attendees"", ""Multiple hosts"", ""Brand customization""]",Demio
+516,148,Premium,196.0,2352.0,flat,USD,"[""1,000+ attendees"", ""Priority support"", ""Advanced analytics""]",Demio
+517,149,Free,0.0,,flat,USD,"[""Full featured"", ""Cross-platform"", ""Open source""]",GIMP
+518,150,CorelDRAW Standard,399.0,,flat,USD,"[""Essential tools"", ""Windows""]",CorelDRAW
+519,150,CorelDRAW Graphics Suite,33.5,,flat,USD,"[""Full suite"", ""Cloud features""]",CorelDRAW
+520,150,CorelDRAW Graphics Suite (Perpetual),779.0,,flat,USD,"[""One-time purchase""]",CorelDRAW
+521,151,Free,0.0,,flat,USD,"[""GPT-3.5"", ""Limited GPT-4o"", ""Basic features""]",ChatGPT
+522,151,Plus,20.0,,flat,USD,"[""GPT-4o"", ""DALL-E 3"", ""Advanced data analysis"", ""Plugins""]",ChatGPT
+523,151,Team,30.0,,flat,USD,"[""Everything in Plus"", ""Higher limits"", ""Admin console""]",ChatGPT
+524,152,Free,0.0,,flat,USD,"[""Claude 3 Haiku"", ""Limited messages"", ""Basic features""]",Claude
+525,152,Pro,20.0,,flat,USD,"[""Claude 3.5 Sonnet"", ""5x more usage"", ""Priority access"", ""Projects""]",Claude
+526,153,Free,0.0,,flat,USD,"[""Gemini 1.5 Flash"", ""Google integration"", ""Basic features""]",Google Gemini
+527,153,Advanced,20.0,,flat,USD,"[""Gemini 1.5 Pro"", ""2TB storage"", ""Google One benefits"", ""Workspace integration""]",Google Gemini
+528,154,Creator,39.0,,per-seat,USD,"[""1 seat"", ""SEO mode"", ""Browser extension"", ""7-day free trial""]",Jasper
+529,154,Pro,59.0,,per-seat,USD,"[""Up to 5 seats"", ""Brand voice"", ""AI image generation""]",Jasper
+530,154,Business,,,flat,USD,"[""Unlimited seats"", ""Custom workflows"", ""SSO"", ""API access""]",Jasper
+531,155,Chat,,,flat,USD,"[""5 seats"", ""Unlimited chat"", ""OpenAI, Anthropic, Gemini models""]",Copy.ai
+532,155,Growth,1000.0,12000.0,flat,USD,"[""75 seats"", ""20K workflow credits/mo""]",Copy.ai
+533,155,Expansion,2000.0,24000.0,flat,USD,"[""150 seats"", ""45K workflow credits/mo""]",Copy.ai
+534,155,Scale,3000.0,36000.0,flat,USD,"[""200 seats"", ""75K workflow credits/mo""]",Copy.ai
+535,156,Free,0.0,,flat,USD,"[""Basic spelling & grammar"", ""Tone detection"", ""Limited suggestions""]",Grammarly
+536,156,Pro,12.0,,per-seat,USD,"[""Advanced suggestions"", ""Full-sentence rewrites"", ""Plagiarism detection""]",Grammarly
+537,156,Enterprise,,,flat,USD,"[""Team admin"", ""SSO"", ""Analytics""]",Grammarly
+538,157,Personal,2.99,,flat,USD,"[""Unlimited passwords"", ""1 GB storage"", ""2FA"", ""Travel Mode""]",1Password
+539,157,Families,4.99,,flat,USD,"[""5 family members"", ""Shared vaults"", ""Account recovery""]",1Password
+540,157,Teams,7.99,,flat,USD,"[""Unlimited users"", ""Admin controls"", ""Activity log"", ""Integrations""]",1Password
+541,158,Free,0.0,,flat,USD,"[""Unlimited passwords"", ""All devices"", ""Open source"", ""Basic 2FA""]",Bitwarden
+542,158,Premium,1.0,,flat,USD,"[""Advanced 2FA"", ""1 GB encrypted storage"", ""Vault health reports""]",Bitwarden
+543,158,Teams,4.0,,flat,USD,"[""Shared collections"", ""Admin console"", ""Directory sync""]",Bitwarden
+544,159,Free,0.0,,flat,USD,"[""One device type"", ""Unlimited passwords"", ""Password generator""]",LastPass
+545,159,Premium,3.0,,flat,USD,"[""All devices"", ""1 GB storage"", ""Priority support"", ""Dark web monitoring""]",LastPass
+546,159,Families,4.0,,flat,USD,"[""6 users"", ""Shared folders"", ""Family dashboard""]",LastPass
+547,160,Free,0.0,,flat,USD,"[""25 passwords"", ""1 device"", ""Basic features""]",Dashlane
+548,160,Premium,4.99,,flat,USD,"[""Unlimited passwords"", ""VPN included"", ""Dark web monitoring"", ""All devices""]",Dashlane
+549,160,Business,8.0,,flat,USD,"[""Team features"", ""SSO"", ""Activity reports""]",Dashlane
+550,161,Free,0.0,,flat,USD,"[""Unlimited passwords"", ""1 device at a time"", ""Password health""]",NordPass
+551,161,Premium,1.99,,flat,USD,"[""All devices"", ""Password sharing"", ""Emergency access"", ""Breach monitoring""]",NordPass
+552,161,Teams,4.99,,flat,USD,"[""Team sharing"", ""Admin panel"", ""Activity logs""]",NordPass
+553,162,Basic,3.99,,flat,USD,"[""6 devices"", ""6400+ servers"", ""60+ countries"", ""Threat Protection Lite""]",NordVPN
+554,162,Plus,4.99,,flat,USD,"[""Everything in Basic"", ""Threat Protection"", ""Password manager"", ""Data breach scanner""]",NordVPN
+555,162,Ultimate,6.99,,flat,USD,"[""Everything in Plus"", ""1 TB cloud storage"", ""Identity theft protection""]",NordVPN
+556,163,Monthly,12.95,,flat,USD,"[""8 devices"", ""3000+ servers"", ""105 countries"", ""24/7 support""]",ExpressVPN
+557,163,6 months,9.99,,flat,USD,"[""Same features"", ""Better value""]",ExpressVPN
+558,163,Annual,6.67,,flat,USD,"[""Best value"", ""3 extra months free""]",ExpressVPN
+559,164,Starter,2.49,,flat,USD,"[""Unlimited devices"", ""3200+ servers"", ""100+ countries"", ""CleanWeb""]",Surfshark
+560,164,One,3.39,,flat,USD,"[""Everything in Starter"", ""Antivirus"", ""Search"", ""Alert""]",Surfshark
+561,164,One+,5.99,,flat,USD,"[""Everything in One"", ""Data removal tool""]",Surfshark
+562,165,Free,0.0,,flat,USD,"[""3 server locations"", ""1 device"", ""No logs"", ""No bandwidth limit""]",ProtonVPN
+563,165,VPN Plus,4.99,,flat,USD,"[""9000+ servers"", ""10 devices"", ""P2P"", ""Streaming"", ""Tor over VPN""]",ProtonVPN
+564,166,Monthly,12.99,,flat,USD,"[""7 devices"", ""9000+ servers"", ""91 countries"", ""Streaming servers""]",CyberGhost
+565,166,Annual,4.29,,flat,USD,"[""Best value"", ""Same features""]",CyberGhost
+566,167,Basic,10.0,,flat,USD,"[""~200 images/mo"", ""3.3 GPU hrs/mo"", ""General commercial terms""]",Midjourney
+567,167,Standard,30.0,,flat,USD,"[""Unlimited relaxed generations"", ""15 GPU hrs/mo"", ""Stealth mode""]",Midjourney
+568,167,Pro,60.0,,flat,USD,"[""30 GPU hrs/mo"", ""Stealth mode"", ""Max concurrent jobs""]",Midjourney
+569,168,Via ChatGPT Plus,20.0,,flat,USD,"[""Image generation in ChatGPT"", ""GPT-4o access"", ""API available separately""]",DALL-E 3
+570,169,Free,0.0,,flat,USD,"[""Open source"", ""Local installation"", ""Unlimited generations""]",Stable Diffusion
+571,169,API,20.0,,flat,USD,"[""Cloud access"", ""No local GPU needed"", ""Developer friendly""]",Stable Diffusion
+572,170,Free,0.0,,flat,USD,"[""25 generative credits/mo"", ""Web access"", ""Basic features""]",Adobe Firefly
+573,170,Premium,5.0,,flat,USD,"[""100 credits/mo"", ""High-res output"", ""Priority generation""]",Adobe Firefly
+574,171,Free,0.0,,flat,USD,"[""150 tokens/day"", ""Basic models"", ""Community access""]",Leonardo AI
+575,171,Apprentice,12.0,,flat,USD,"[""8,500 tokens/mo"", ""Priority generation"", ""Private mode""]",Leonardo AI
+576,171,Artisan,30.0,,flat,USD,"[""25,000 tokens/mo"", ""Custom model training"", ""API access""]",Leonardo AI
+577,172,Free,0.0,,flat,USD,"[""10 min/month"", ""1 AI avatar"", ""Watermarked videos""]",Synthesia
+578,172,Starter,29.0,,flat,USD,"[""10 video credits/mo"", ""90+ avatars"", ""60+ languages""]",Synthesia
+579,172,Creator,89.0,,flat,USD,"[""30 video credits/mo"", ""Custom avatar"", ""Brand templates""]",Synthesia
+580,172,Enterprise,,,flat,USD,"[""Custom credits"", ""SSO"", ""Dedicated support""]",Synthesia
+581,173,Free,0.0,,flat,USD,"[""1 video credit/mo"", ""Basic avatars"", ""Watermarked output""]",HeyGen
+582,173,Creator,29.0,,flat,USD,"[""15 credits/mo"", ""No watermark"", ""Voice cloning""]",HeyGen
+583,173,Pro,99.0,,flat,USD,"[""30 credits/mo"", ""Instant avatar"", ""API access""]",HeyGen
+584,174,Free,0.0,,flat,USD,"[""125 generation credits"", ""720p export"", ""Basic tools""]",Runway
+585,174,Standard,12.0,,flat,USD,"[""625 credits/mo"", ""Upscaling"", ""No watermark""]",Runway
+586,174,Pro,28.0,,flat,USD,"[""2250 credits/mo"", ""4K export"", ""Custom models""]",Runway
+587,174,Unlimited,76.0,912.0,per-seat,USD,"[""Unlimited generations"", ""All features""]",Runway
+588,175,Free,0.0,,flat,USD,"[""80 monthly video credits"", ""480p only"", ""No watermark"", ""Commercial use""]",Pika
+589,175,Standard,8.0,96.0,flat,USD,"[""700 monthly video credits"", ""All resolutions"", ""Fast generations""]",Pika
+590,175,Pro,28.0,336.0,flat,USD,"[""2300 monthly video credits"", ""Faster generations"", ""All features""]",Pika
+591,175,Fancy,76.0,912.0,flat,USD,"[""6000 monthly video credits"", ""Fastest generations"", ""All features""]",Pika
+592,176,Free,0.0,,flat,USD,"[""50 premium requests/month"", ""Code completions"", ""Chat in IDE""]",GitHub Copilot
+593,176,Pro,10.0,,per-seat,USD,"[""Unlimited completions"", ""Unlimited chat"", ""Claude & GPT-4o models""]",GitHub Copilot
+594,176,Pro+,39.0,,per-seat,USD,"[""o1, o3-mini access"", ""1,500 premium requests/month""]",GitHub Copilot
+595,176,Business,19.0,,per-seat,USD,"[""Organization management"", ""Policy controls"", ""Audit logs""]",GitHub Copilot
+596,176,Enterprise,,,flat,USD,"[""Custom models"", ""Fine-tuning"", ""Dedicated support""]",GitHub Copilot
+597,177,Free,0.0,,flat,USD,"[""2000 completions/mo"", ""50 slow requests"", ""Basic features""]",Cursor
+598,177,Pro,20.0,,flat,USD,"[""Unlimited completions"", ""500 fast requests/mo"", ""All models""]",Cursor
+599,177,Business,40.0,,flat,USD,"[""Team management"", ""Privacy mode"", ""Admin controls""]",Cursor
+600,178,Free,0.0,,flat,USD,"[""Unlimited inline edits"", ""Unlimited Tab completions"", ""Light agent quota""]",Codeium
+601,178,Pro,20.0,,flat,USD,"[""Increased quotas"", ""Access to OpenAI, Claude, Gemini models"", ""Full model availability"", ""2-week free trial""]",Codeium
+602,178,Teams,40.0,,per-seat,USD,"[""Everything in Pro"", ""Team management"", ""Centralized billing""]",Codeium
+603,178,Enterprise,,,flat,USD,"[""SSO"", ""Custom deployment"", ""Priority support""]",Codeium
+604,179,Free,0.0,,flat,USD,"[""10K characters/mo"", ""3 custom voices"", ""API access""]",ElevenLabs
+605,179,Starter,6.0,,flat,USD,"[""30K characters/mo"", ""10 custom voices"", ""Commercial license""]",ElevenLabs
+606,179,Creator,22.0,,flat,USD,"[""100K characters/mo"", ""30 voices"", ""Professional quality""]",ElevenLabs
+607,179,Pro,99.0,,flat,USD,"[""500K characters/mo"", ""160 voices"", ""Highest priority""]",ElevenLabs
+608,180,Free,0.0,,flat,USD,"[""10 min voice generation"", ""10 projects"", ""No commercial rights""]",Murf AI
+609,180,Creator,19.0,228.0,flat,USD,"[""24 hrs/year voice generation"", ""100 projects"", ""200+ voices"", ""Commercial rights""]",Murf AI
+610,180,Business,66.0,792.0,flat,USD,"[""96 hrs/year voice generation"", ""500 projects"", ""Business license"", ""PowerPoint integration""]",Murf AI
+611,180,Enterprise,,,flat,USD,"[""Unlimited voice generation"", ""Custom editors"", ""SSO"", ""AI translation""]",Murf AI
+612,181,Free,0.0,,flat,USD,"[""3000 words/mo"", ""50+ voices"", ""Standard quality""]",Play.ht
+613,181,Creator,39.0,,flat,USD,"[""Unlimited words"", ""Voice cloning"", ""Premium voices""]",Play.ht
+614,181,Pro,99.0,,flat,USD,"[""Faster generation"", ""API access"", ""Commercial rights""]",Play.ht
+615,182,Free,0.0,,flat,USD,"[""Self-hosted"", ""Unlimited workflows"", ""Community support""]",n8n
+616,182,Starter,24.0,,flat,USD,"[""2500 executions/mo"", ""Cloud hosting"", ""Email support""]",n8n
+617,182,Pro,60.0,,flat,USD,"[""10K executions/mo"", ""Advanced permissions"", ""Priority support""]",n8n
+618,183,Free,0.0,,flat,USD,"[""1000 ops/mo"", ""2 active scenarios"", ""Basic apps""]",Make (Integromat)
+619,183,Core,10.0,,flat,USD,"[""10K ops/mo"", ""All apps"", ""1 min intervals""]",Make (Integromat)
+620,183,Pro,18.0,,flat,USD,"[""10K ops/mo"", ""Custom variables"", ""Full history""]",Make (Integromat)
+621,184,Free,0.0,,flat,USD,"[""Unlimited quick searches"", ""5 Pro searches/day"", ""Basic AI models""]",Perplexity AI
+622,184,Pro,20.0,,flat,USD,"[""300+ Pro searches/day"", ""All AI models"", ""File analysis""]",Perplexity AI
+623,185,Pay per use,0.0,,flat,USD,"[""Token-based billing"", ""Free trial credit"", ""All models available""]",OpenAI API
+624,186,Free,0.0,,flat,USD,"[""Public models and datasets"", ""Community spaces"", ""Basic inference""]",Hugging Face
+625,186,Pro,9.0,,flat,USD,"[""ZeroGPU access"", ""Private spaces"", ""Priority support""]",Hugging Face
+626,186,Enterprise,20.0,,flat,USD,"[""Private datasets"", ""SSO"", ""Audit logs""]",Hugging Face
+627,187,Pay per use,0.0,,flat,USD,"[""Per-second GPU billing"", ""No minimum spend"", ""All community models""]",Replicate
+628,188,Free Trial,0.0,,flat,USD,"[""Limited AI search & SEO tools"", ""No credit card needed""]",Writesonic
+629,188,Starter,79.0,,flat,USD,"[""AI search visibility (GEO)"", ""SEO content tools"", ""Basic analytics""]",Writesonic
+630,188,Basic,199.0,,flat,USD,"[""Full AI search & SEO suite"", ""Advanced analytics"", ""Team collaboration""]",Writesonic
+631,189,Add-on,10.0,,flat,USD,"[""Unlimited AI usage"", ""All Notion plans"", ""Full feature access""]",Notion AI
+632,190,Free,0.0,,flat,USD,"[""10K characters/mo"", ""40+ use cases"", ""30+ languages""]",Rytr
+633,190,Saver,9.0,,flat,USD,"[""100K characters/mo"", ""Plagiarism checker"", ""Custom use cases""]",Rytr
+634,190,Unlimited,29.0,,flat,USD,"[""Unlimited characters"", ""API access"", ""Priority support""]",Rytr
+635,191,Basic,0.0,,flat,USD,"[""10 rewrites/day"", ""3 AI summaries/month"", ""Grammar & spelling checks""]",Wordtune
+636,191,Advanced,6.99,83.88,flat,USD,"[""30 rewrites/day"", ""15 AI summaries/month"", ""AI recommendations""]",Wordtune
+637,191,Unlimited,9.99,119.88,flat,USD,"[""Unlimited rewrites"", ""Unlimited summaries"", ""All features"", ""Premium support""]",Wordtune
+638,192,Free,0.0,,flat,USD,"[""125 words/paraphrase"", ""3 modes"", ""Grammar checker""]",QuillBot
+639,192,Premium,13.0,,flat,USD,"[""Unlimited length"", ""All 8 modes"", ""Plagiarism checker""]",QuillBot
+640,193,Hobby & Student,10.0,,flat,USD,"[""225,000 credits/month"", ""Perfect for fun or school writing"", ""Free trial available""]",Sudowrite
+641,193,Professional,22.0,,flat,USD,"[""1,000,000 credits/month"", ""Best for novels & screenplays"", ""Free trial available""]",Sudowrite
+642,193,Max,44.0,,flat,USD,"[""2,000,000 credits/month"", ""Unused credits rollover 12 months""]",Sudowrite
+643,194,Free,0.0,,flat,USD,"[""500 words/check"", ""Basic reports"", ""Web editor""]",ProWritingAid
+644,194,Premium,10.0,,flat,USD,"[""Unlimited words"", ""200+ reports"", ""All integrations""]",ProWritingAid
+645,194,Premium+,12.0,,flat,USD,"[""Everything in Premium"", ""Plagiarism checks"", ""Video tutorials""]",ProWritingAid
+646,195,Starter,19.0,,flat,USD,"[""50 credits/mo"", ""20+ templates"", ""Plagiarism checker""]",Copysmith
+647,195,Professional,49.0,,flat,USD,"[""Unlimited credits"", ""Bulk generator"", ""Shopify integration""]",Copysmith
+648,195,Enterprise,,,flat,USD,"[""Custom limits"", ""Dedicated support"", ""API access""]",Copysmith
+649,196,Free,0.0,,flat,USD,"[""$10 free credits"", ""Playground access"", ""Basic APIs""]",AI21 Studio
+650,196,Teams,39.0,,flat,USD,"[""Production APIs"", ""Fine-tuning"", ""Team collaboration""]",AI21 Studio
+651,196,Enterprise,,,flat,USD,"[""Custom models"", ""SLA"", ""Dedicated support""]",AI21 Studio
+652,197,Free,0.0,,flat,USD,"[""Limited AI credits"", ""Basic templates"", ""5GB storage""]",Canva AI
+653,197,Pro,15.0,,flat,USD,"[""500 AI credits/mo"", ""Brand Kit"", ""100GB storage""]",Canva AI
+654,197,Teams,10.0,,flat,USD,"[""Per user pricing"", ""Team features"", ""Advanced collaboration""]",Canva AI
+655,198,Free,0.0,,flat,USD,"[""10 slow generations/day"", ""Public gallery"", ""Basic features""]",Ideogram
+656,198,Basic,8.0,,flat,USD,"[""400 priority generations/mo"", ""Private images"", ""Commercial use""]",Ideogram
+657,198,Plus,20.0,,flat,USD,"[""1000 priority generations/mo"", ""Bulk generation"", ""API access""]",Ideogram
+658,199,Free,0.0,,flat,USD,"[""66 credits/mo"", ""720p output"", ""Watermark""]",Kling AI
+659,199,Standard,10.0,,flat,USD,"[""660 credits/mo"", ""1080p output"", ""No watermark""]",Kling AI
+660,199,Pro,35.0,,flat,USD,"[""3000 credits/mo"", ""Priority queue"", ""API access""]",Kling AI
+661,200,Free,0.0,,flat,USD,"[""30 generations/mo"", ""720p"", ""Watermark""]",Luma AI (Dream Machine)
+662,200,Plus,30.0,,flat,USD,"[""400 generations/mo"", ""1080p"", ""No watermark""]",Luma AI (Dream Machine)
+663,200,Pro,100.0,,flat,USD,"[""2000 generations/mo"", ""4K output"", ""API access""]",Luma AI (Dream Machine)
+664,201,Photo AI,199.0,2388.0,flat,USD,"[""Upscale"", ""Denoise"", ""Sharpen"", ""Face recovery""]",Topaz Labs AI
+665,201,Video AI,299.0,3588.0,flat,USD,"[""4K upscaling"", ""Motion deblur"", ""Stabilization""]",Topaz Labs AI
+666,201,Bundle,399.0,4788.0,flat,USD,"[""Photo AI + Video AI"", ""Best value""]",Topaz Labs AI
+667,202,Monthly,14.0,,flat,USD,"[""Full feature access"", ""All AI tools"", ""Regular updates""]",Luminar Neo
+668,202,Annual,9.0,,flat,USD,"[""Save 36%"", ""Full feature access"", ""Extensions library""]",Luminar Neo
+669,202,Lifetime,99.0,,flat,USD,"[""One-time purchase"", ""Lifetime updates"", ""Best value""]",Luminar Neo
+670,203,Free,0.0,,flat,USD,"[""Preview only"", ""Low-res download"", ""Unlimited previews""]",Remove.bg
+671,203,Subscription,9.0,,flat,USD,"[""50 HD images/mo"", ""API access"", ""Bulk processing""]",Remove.bg
+672,203,Pay per use,2.0,,flat,USD,"[""HD download"", ""No subscription"", ""API credit""]",Remove.bg
+673,204,Free,0.0,,flat,USD,"[""Basic completions"", ""VS Code + JetBrains"", ""Limited suggestions""]",Tabnine
+674,204,Pro,12.0,,flat,USD,"[""Full completions"", ""Chat assistant"", ""All IDEs""]",Tabnine
+675,204,Enterprise,39.0,,flat,USD,"[""Private models"", ""Self-hosted"", ""Zero data retention""]",Tabnine
+676,205,Free,0.0,,flat,USD,"[""Basic Ghostwriter"", ""Public repls"", ""Community features""]",Replit AI
+677,205,Core,20.0,,flat,USD,"[""Full AI access"", ""Private repls"", ""Always-on hosting""]",Replit AI
+678,205,Teams,40.0,,flat,USD,"[""Team management"", ""Education tools"", ""Priority support""]",Replit AI
+679,206,Free,0.0,,flat,USD,"[""1M tokens/month"", ""300K daily limit"", ""Unlimited databases"", ""Public/private projects""]",Bolt.new
+680,206,Pro,25.0,,flat,USD,"[""10M+ tokens/month"", ""No daily limit"", ""Custom domains"", ""No Bolt branding""]",Bolt.new
+681,206,Teams,30.0,,per-seat,USD,"[""Everything in Pro"", ""Team access management"", ""Centralized billing""]",Bolt.new
+682,207,Free,0.0,,flat,USD,"[""$5 included credits/mo"", ""7 messages/day"", ""GitHub sync"", ""Deploy to Vercel""]",v0 by Vercel
+683,207,Team,30.0,,per-seat,USD,"[""$30 credits/user/mo"", ""Unlimited messages"", ""Team collaboration"", ""Centralized billing""]",v0 by Vercel
+684,207,Business,100.0,,per-seat,USD,"[""Training opt-out"", ""Advanced security"", ""Priority support""]",v0 by Vercel
+685,208,Free,0.0,,flat,USD,"[""Unlimited inline edits"", ""Unlimited Tab completions"", ""Light agent quota""]",Windsurf (Codeium)
+686,208,Pro,20.0,,flat,USD,"[""Increased quotas"", ""OpenAI, Claude, Gemini access"", ""Full model availability"", ""2-week free trial""]",Windsurf (Codeium)
+687,208,Teams,40.0,,per-seat,USD,"[""Everything in Pro"", ""Team management"", ""Centralized billing""]",Windsurf (Codeium)
+688,208,Enterprise,,,flat,USD,"[""SSO"", ""Custom deployment""]",Windsurf (Codeium)
+689,209,Free,0.0,,flat,USD,"[""Unlimited searches"", ""Basic models"", ""VS Code extension""]",Phind
+690,209,Pro,17.0,,flat,USD,"[""GPT-4/Claude access"", ""Faster responses"", ""Unlimited code generation""]",Phind
+691,210,Free,0.0,,flat,USD,"[""100 tasks/mo"", ""5 Zaps"", ""Basic features""]",Zapier AI
+692,210,Starter,19.99,,flat,USD,"[""750 tasks/mo"", ""Multi-step Zaps"", ""Filters & formatters""]",Zapier AI
+693,210,Professional,69.0,,flat,USD,"[""2,000 tasks/mo"", ""Unlimited Zaps"", ""Custom logic paths"", ""Priority support""]",Zapier AI
+694,210,Team,,,flat,USD,"[""Shared workspace"", ""Collaboration tools"", ""Custom pricing""]",Zapier AI
+695,211,Free,0.0,,flat,USD,"[""Unlimited chats"", ""Community characters"", ""Character creation""]",Character.AI
+696,211,c.ai+,10.0,,flat,USD,"[""Priority access"", ""Faster responses"", ""Advanced models""]",Character.AI
+697,212,Pay per use,0.0,,flat,USD,"[""Per-token pricing"", ""All Claude models"", ""API key access""]",Anthropic API (Claude)
+698,212,Workspaces,,,flat,USD,"[""Team management"", ""Usage controls"", ""Enterprise features""]",Anthropic API (Claude)
+699,213,Free,0.0,,flat,USD,"[""Gemini 1.5 Flash free"", ""15 RPM limit"", ""API key generation""]",Google AI Studio
+700,213,Pay per use,0.0,,flat,USD,"[""Gemini 1.5 Pro"", ""Higher rate limits"", ""Production ready""]",Google AI Studio
+701,214,Free,0.0,,flat,USD,"[""GPT-4o access"", ""Web search"", ""Image generation""]",Microsoft Copilot
+702,214,Pro,20.0,,flat,USD,"[""Priority access"", ""Office integration"", ""Faster responses""]",Microsoft Copilot
+703,214,Microsoft 365,30.0,,flat,USD,"[""Full Office Copilot"", ""Teams integration"", ""Enterprise features""]",Microsoft Copilot
+704,215,Free trial,0.0,,flat,USD,"[""Trial credits"", ""API access"", ""All endpoints""]",Cohere
+705,215,Production,0.0,,flat,USD,"[""Pay per token"", ""Higher rate limits"", ""SLA""]",Cohere
+706,215,Enterprise,,,flat,USD,"[""On-premise option"", ""Custom models"", ""Dedicated support""]",Cohere
+707,216,Free API,0.0,,flat,USD,"[""Rate-limited access"", ""Mistral Small"", ""Experimental features""]",Mistral AI
+708,216,Pay per use,0.0,,flat,USD,"[""Per-token pricing"", ""All models"", ""Production ready""]",Mistral AI
+709,216,Enterprise,,,flat,USD,"[""Dedicated deployment"", ""Custom models"", ""EU data residency""]",Mistral AI
+710,217,Free,0.0,,flat,USD,"[""Unlimited searches"", ""Basic AI answers"", ""GPT-4o mini""]",You.com
+711,217,YouPro,15.0,,flat,USD,"[""GPT-4/Claude/Gemini"", ""Unlimited AI chat"", ""Image generation""]",You.com
+712,218,Free,0.0,,flat,USD,"[""20 searches/day"", ""Basic summaries"", ""Paper access""]",Consensus
+713,218,Premium,10.0,,flat,USD,"[""Unlimited searches"", ""GPT-4 summaries"", ""CSV export""]",Consensus
+714,218,Enterprise,,,flat,USD,"[""API access"", ""Team accounts"", ""Custom integrations""]",Consensus
+715,219,Basic,0.0,,flat,USD,"[""2 automated reports/month"", ""Unlimited search"", ""Unlimited paper summaries""]",Elicit
+716,219,Pro,49.0,,per-seat,USD,"[""Unlimited automated reports"", ""Full systematic review features"", ""Priority support""]",Elicit
+717,219,Enterprise,,,flat,USD,"[""Team management"", ""SSO"", ""Dedicated support""]",Elicit
+718,220,Free,0.0,,flat,USD,"[""50 credits/day"", ""Non-commercial use"", ""Basic features""]",Suno
+719,220,Pro,8.0,96.0,per-seat,USD,"[""2500 credits/mo"", ""Commercial license"", ""Priority generation""]",Suno
+720,220,Premier,24.0,288.0,per-seat,USD,"[""10000 credits/mo"", ""Stems download"", ""API access""]",Suno
+721,221,Free,0.0,,flat,USD,"[""100 tracks/mo"", ""Non-commercial"", ""Standard quality""]",Udio
+722,221,Standard,10.0,,flat,USD,"[""1200 tracks/mo"", ""Commercial use"", ""Stems""]",Udio
+723,221,Pro,30.0,,flat,USD,"[""4800 tracks/mo"", ""API access"", ""Priority queue""]",Udio
+724,222,Free,0.0,,flat,USD,"[""Enhance speech"", ""Basic editing"", ""1 hour/mo""]",Adobe Podcast (Enhance)
+725,222,Premium,5.0,,flat,USD,"[""Unlimited enhancement"", ""Transcript editor"", ""Adobe CC integration""]",Adobe Podcast (Enhance)
+726,223,Basic,0.0,,flat,USD,"[""300 min/mo transcription"", ""Zoom, Teams, Meet support"", ""AI Chat"", ""3 file imports""]",Otter.ai
+727,223,Pro,16.99,,per-seat,USD,"[""1,200 min/mo transcription"", ""Advanced export"", ""Custom vocabulary"", ""Priority support""]",Otter.ai
+728,223,Business,40.0,,per-seat,USD,"[""6,000 min/mo transcription"", ""Admin panel"", ""Usage analytics"", ""SSO""]",Otter.ai
+729,223,Enterprise,,,flat,USD,"[""Unlimited minutes"", ""Custom integrations"", ""Dedicated support""]",Otter.ai
+730,224,Free,0.0,,flat,USD,"[""800 min storage"", ""Basic transcription"", ""Limited summaries""]",Fireflies.ai
+731,224,Pro,18.0,,flat,USD,"[""Unlimited storage"", ""Smart search"", ""CRM integration""]",Fireflies.ai
+732,224,Business,29.0,,flat,USD,"[""Analytics"", ""Sentiment analysis"", ""API access""]",Fireflies.ai
+733,225,Free,0.0,,flat,USD,"[""Basic notes"", ""Smart search"", ""Mobile app""]",Mem AI
+734,225,Mem X,20.0,,flat,USD,"[""AI organization"", ""Related notes"", ""Knowledge graph""]",Mem AI
+735,225,Teams,50.0,,flat,USD,"[""Shared workspace"", ""Team AI"", ""Admin controls""]",Mem AI
+736,226,Pro,12.0,,flat,USD,"[""Unlimited slides"", ""All templates"", ""PDF export""]",Beautiful.ai
+737,226,Team,40.0,,flat,USD,"[""Collaboration"", ""Brand themes"", ""Analytics""]",Beautiful.ai
+738,226,Enterprise,,,flat,USD,"[""SSO"", ""Custom templates"", ""Dedicated support""]",Beautiful.ai
+739,227,Free,0.0,,flat,USD,"[""400 AI credits"", ""Unlimited decks"", ""Web publish""]",Gamma
+740,227,Plus,8.0,,flat,USD,"[""400 AI credits/mo refresh"", ""Custom fonts"", ""Analytics""]",Gamma
+741,227,Pro,15.0,,flat,USD,"[""Unlimited AI"", ""Priority support"", ""Advanced export""]",Gamma
+742,228,Free,0.0,,flat,USD,"[""500 AI credits"", ""Unlimited Tomes"", ""Basic sharing""]",Tome
+743,228,Pro,16.0,,flat,USD,"[""Unlimited AI"", ""Custom domains"", ""Analytics""]",Tome
+744,228,Enterprise,,,flat,USD,"[""SSO"", ""Team management"", ""SLA""]",Tome
+745,229,Free,0.0,,flat,USD,"[""1hr transcription/mo"", ""Basic editing"", ""720p export""]",Descript
+746,229,Hobbyist,19.0,,flat,USD,"[""10hr transcription"", ""Overdub"", ""1080p export""]",Descript
+747,229,Creator,35.0,,flat,USD,"[""Unlimited transcription"", ""Advanced AI"", ""4K export""]",Descript
+748,230,Free,0.0,,flat,USD,"[""Full feature access"", ""Basic exports"", ""Watermark option""]",CapCut AI
+749,230,Pro,10.0,,flat,USD,"[""No watermark"", ""1080p+"", ""More AI credits""]",CapCut AI
+750,230,Business,20.0,,flat,USD,"[""Brand kit"", ""Team workspace"", ""Commercial license""]",CapCut AI
+751,231,Free,0.0,,flat,USD,"[""Basic analytics"", ""Keyword score"", ""Channel audit""]",vidIQ AI
+752,231,Basic,7.0,,flat,USD,"[""AI title ideas"", ""Competitor tracking"", ""Trend alerts""]",vidIQ AI
+753,231,Boost,39.0,,flat,USD,"[""Daily ideas AI"", ""Bulk tools"", ""View prediction""]",vidIQ AI
+754,232,Free,0.0,,flat,USD,"[""4 videos/week"", ""Watermark"", ""Basic AI""]",InVideo AI
+755,232,Plus,20.0,,flat,USD,"[""50 videos/mo"", ""No watermark"", ""iStock access""]",InVideo AI
+756,232,Max,48.0,,flat,USD,"[""200 videos/mo"", ""Team workspace"", ""API access""]",InVideo AI
+757,233,Starter,50.0,,per-seat,USD,"[""AI meeting prep"", ""CRM & email research"", ""Org chart mapping""]",Obviously AI
+758,233,Professional,100.0,,per-seat,USD,"[""Everything in Starter"", ""Deep web research"", ""Battle cards"", ""Slack & Email delivery""]",Obviously AI
+759,233,Enterprise,,,flat,USD,"[""Custom pricing"", ""Dedicated support"", ""Custom integrations""]",Obviously AI
+760,234,Developer,0.0,,flat,USD,"[""Limited usage"", ""Community support"", ""Basic AutoML""]",DataRobot
+761,234,Enterprise,,,flat,USD,"[""Full platform"", ""MLOps"", ""Dedicated support""]",DataRobot
+762,235,Free,0.0,,flat,USD,,Grok
+763,235,Premium+,16.0,,flat,USD,,Grok
+764,236,Free,0.0,,flat,USD,,DeepSeek
+765,236,API,,,flat,USD,,DeepSeek
+766,237,Free,0.0,,flat,USD,,Meta AI
+767,238,Open Source,0.0,,flat,USD,,Llama (Meta)
+768,238,Cloud (via providers),,,flat,USD,,Llama (Meta)
+769,239,Google One AI Premium,19.99,,flat,USD,,Gemini Advanced
+770,240,Free,0.0,,flat,USD,"[""GPT-4o limited"", ""Basic features""]",GPT-4o
+771,240,Plus,20.0,,flat,USD,"[""GPT-4o full access"", ""DALL-E 3"", ""Advanced analysis""]",GPT-4o
+772,240,Team,30.0,,flat,USD,"[""Higher limits"", ""Admin console""]",GPT-4o
+773,241,Free,0.0,,flat,USD,"[""Claude 3.5 Sonnet limited"", ""Basic features""]",Claude 3.5 Sonnet
+774,241,Pro,20.0,,flat,USD,"[""5x more usage"", ""Projects"", ""Priority access""]",Claude 3.5 Sonnet
+775,241,Team,30.0,,flat,USD,"[""Everything in Pro"", ""Central billing"", ""Admin console""]",Claude 3.5 Sonnet
+776,242,Free,0.0,,flat,USD,"[""Gemini 1.5 Flash"", ""Basic features""]",Gemini 1.5 Pro
+777,242,Advanced,20.0,,flat,USD,"[""Gemini 1.5 Pro"", ""1M context"", ""Google Workspace integration""]",Gemini 1.5 Pro
+778,243,Free (API),0.0,,flat,USD,"[""Limited API calls"", ""DeepSeek-V3 access""]",DeepSeek V3
+779,243,API Pay-as-you-go,0.0,,flat,USD,"[""$0.27/1M input tokens"", ""Cheapest frontier model""]",DeepSeek V3
+780,244,Free (open-source),0.0,,flat,USD,"[""Commercial use allowed"", ""Self-host anywhere""]",Llama 3.1
+781,244,Via API providers,0.0,,flat,USD,"[""Groq, Together AI, etc."", ""$0.05-0.9/1M tokens""]",Llama 3.1
+782,245,Free tier,0.0,,flat,USD,"[""Mistral Small via API"", ""Limited calls""]",Mistral Large
+783,245,Pay-as-you-go,0.0,,flat,USD,"[""Mistral Large: $2/1M tokens"", ""Cheapest frontier tier""]",Mistral Large
+784,246,Free,0.0,,flat,USD,"[""Limited queries via X/Twitter"", ""Basic Grok access""]",Grok 2
+785,246,X Premium,8.0,,flat,USD,"[""Grok 2 access"", ""Real-time data""]",Grok 2
+786,246,X Premium+,16.0,,flat,USD,"[""Higher limits"", ""Priority access""]",Grok 2
+787,247,Plus,20.0,,flat,USD,"[""o1 access (limited)"", ""o1-mini included""]",OpenAI o1
+788,247,Pro,200.0,,flat,USD,"[""Unlimited o1"", ""o1 pro mode""]",OpenAI o1
+789,248,Trial,0.0,,flat,USD,"[""Limited API calls"", ""Command R access""]",Command R+
+790,248,Production,0.0,,flat,USD,"[""Pay-as-you-go"", ""$2.5/1M input tokens""]",Command R+
+791,249,Free (open-source),0.0,,flat,USD,"[""Download & run locally"", ""MIT License""]",Phi-3
+792,249,Azure AI,0.0,,flat,USD,"[""Pay-per-token"", ""Managed hosting""]",Phi-3
+793,250,Open Source,0.0,,flat,USD,"[""Self-hosted"", ""Full source code""]",AutoGPT
+794,250,Cloud Beta,0.0,,flat,USD,"[""Managed hosting (beta)"", ""No setup required""]",AutoGPT
+795,251,Open Source,0.0,,flat,USD,"[""Full framework"", ""Self-hosted""]",CrewAI
+796,251,Enterprise,0.0,,flat,USD,"[""Managed platform"", ""Support & SLAs""]",CrewAI
+797,252,Starter,20.0,,flat,USD,"[""AI software engineer"", ""Code generation & review"", ""Basic integrations""]",Devin
+798,252,Pro,80.0,,flat,USD,"[""More compute"", ""Priority queue"", ""Advanced capabilities""]",Devin
+799,252,Enterprise,,,flat,USD,"[""Custom deployment"", ""SSO"", ""Dedicated support""]",Devin
+800,253,Free SDK,0.0,,flat,USD,"[""Open-source"", ""Pay only for API calls""]",OpenAI Agents SDK
+801,253,API costs,0.0,,flat,USD,"[""Per-token pricing"", ""GPT-4o rates""]",OpenAI Agents SDK
+802,254,Free,0.0,,flat,USD,"[""100 credits/day"", ""Basic agents""]",Relevance AI
+803,254,Pro,19.0,,flat,USD,"[""Unlimited agents"", ""10K credits/mo""]",Relevance AI
+804,254,Team,199.0,,flat,USD,"[""Custom LLMs"", ""Priority support""]",Relevance AI
+805,255,Essential,39.0,,flat,USD,"[""Fin AI agent"", ""Basic automation""]",Intercom Fin
+806,255,Advanced,99.0,,flat,USD,"[""Full Fin capabilities"", ""Advanced workflows""]",Intercom Fin
+807,256,Free,0.0,,flat,USD,"[""50 conversations/mo"", ""Basic chatbot""]",Tidio
+808,256,Lyro AI,39.0,,flat,USD,"[""Lyro AI 50 convos"", ""Live chat unlimited""]",Tidio
+809,256,Growth,59.0,,flat,USD,"[""Lyro AI 250 convos"", ""Analytics""]",Tidio
+810,257,Free,0.0,,flat,USD,"[""50 message credits/mo"", ""1 member"", ""400 KB per AI agent""]",Chatbase
+811,257,Hobby,32.0,,flat,USD,"[""500 message credits/mo"", ""Advanced models"", ""5 AI Actions"", ""Integrations""]",Chatbase
+812,257,Standard,120.0,,flat,USD,"[""2,000 message credits/mo"", ""10 members"", ""API access"", ""Custom domains""]",Chatbase
+813,257,Pro,300.0,,flat,USD,"[""10,000 message credits/mo"", ""Unlimited members"", ""White-label"", ""Priority support""]",Chatbase
+814,258,Free,0.0,,flat,USD,"[""5 bots"", ""2K messages/mo"", ""AI included""]",Botpress
+815,258,Plus,89.0,,flat,USD,"[""10 bots"", ""50K messages/mo""]",Botpress
+816,259,Free,0.0,,flat,USD,"[""2 editors"", ""Basic features""]",Voiceflow
+817,259,Pro,40.0,,flat,USD,"[""Unlimited projects"", ""Advanced features""]",Voiceflow
+818,259,Team,125.0,,flat,USD,"[""Collaboration"", ""Priority support""]",Voiceflow
+819,260,Free,0.0,,flat,USD,"[""Unlimited inline edits"", ""Unlimited Tab completions"", ""Light agent quota""]",Windsurf
+820,260,Pro,20.0,,flat,USD,"[""Increased quotas"", ""OpenAI, Claude, Gemini access"", ""Full model availability""]",Windsurf
+821,260,Teams,40.0,,per-seat,USD,"[""Everything in Pro"", ""Team management""]",Windsurf
+822,260,Enterprise,,,flat,USD,"[""SSO"", ""Custom deployment""]",Windsurf
+823,261,Standard,99.0,,flat,USD,"[""360 docs/mo"", ""AI Visibility tracking"", ""Track 25 AI Prompts"", ""Team collaboration"", ""Plagiarism checker""]",Surfer SEO
+824,261,Pro,182.0,,flat,USD,"[""Everything in Standard"", ""Advanced AI tracking"", ""White-label reports"", ""Priority support""]",Surfer SEO
+825,261,Enterprise,,,flat,USD,"[""Custom volume"", ""Dedicated CSM"", ""Custom integrations""]",Surfer SEO
+826,262,Free (open-source),0.0,,flat,USD,"[""Flux Schnell free"", ""Self-hostable""]",Flux
+827,262,API,0.0,,flat,USD,"[""Pay-per-image"", ""~$0.003/image""]",Flux
+828,263,Plus,20.0,,flat,USD,"[""50 priority videos/mo"", ""720p""]",Sora
+829,263,Pro,200.0,,flat,USD,"[""500 videos/mo"", ""1080p"", ""5min max""]",Sora
+830,264,Free,0.0,,flat,USD,"[""Basic TTS"", ""Standard AI voices"", ""Mobile & desktop""]",Speechify
+831,264,Premium,29.0,,flat,USD,"[""30+ AI voices"", ""Unlimited listening"", ""Offline listening"", ""Chrome extension"", ""4.5x speed""]",Speechify
+832,265,Free,0.0,,flat,USD,"[""Paper trading"", ""1 active bot"", ""Limited features""]",3Commas
+833,265,Starter,15.0,,flat,USD,"[""1 API key"", ""20 active DCA bots"", ""10 active Grid bots""]",3Commas
+834,265,Pro,40.0,,flat,USD,"[""3 API keys"", ""50 active bots"", ""Signal bots"", ""Pine Script""]",3Commas
+835,265,Expert,60.0,,flat,USD,"[""15 API keys"", ""Unlimited bots"", ""Futures trading"", ""Full access""]",3Commas
+836,266,Free,0.0,,flat,USD,"[""20 positions"", ""1 exchange"", ""Manual trading""]",Cryptohopper
+837,266,Explorer,29.0,,flat,USD,"[""80 positions"", ""1 exchange"", ""2 triggers""]",Cryptohopper
+838,266,Adventurer,69.0,,flat,USD,"[""200 positions"", ""3 exchanges"", ""5 triggers"", ""Backtesting""]",Cryptohopper
+839,266,Hero,129.0,,flat,USD,"[""500 positions"", ""6 exchanges"", ""All features"", ""Market arbitrage""]",Cryptohopper
+840,267,Standard,0.0,,flat,USD,,Pionex
+841,267,Pionex Pro (Annual),96.0,1152.0,flat,USD,,Pionex
+842,268,Free Trial,0.0,,flat,USD,"[""7-day trial"", ""All features"", ""Demo mode""]",Bitsgap
+843,268,Basic,23.0,,flat,USD,"[""2 active bots"", ""2 exchanges"", ""Grid & DCA bots""]",Bitsgap
+844,268,Advanced,55.0,,flat,USD,"[""5 active bots"", ""5 exchanges"", ""Futures bots"", ""Smart orders""]",Bitsgap
+845,268,Pro,119.0,,flat,USD,"[""Unlimited bots"", ""Unlimited exchanges"", ""All features"", ""Priority support""]",Bitsgap
+846,269,Free Trial,0.0,,flat,USD,"[""14-day trial"", ""All features""]",Cornix
+847,269,Starter,19.0,,flat,USD,"[""1 exchange"", ""Auto-trade Telegram signals"", ""DCA & trailing""]",Cornix
+848,269,Trader,29.0,,flat,USD,"[""2 exchanges"", ""Advanced settings"", ""Portfolio management""]",Cornix
+849,269,Pro,59.0,,flat,USD,"[""Unlimited exchanges"", ""All features"", ""Priority support""]",Cornix
+850,270,Free,0.0,,flat,USD,"[""2 bots"", ""DCA strategy"", ""Basic features""]",TradeSanta
+851,270,Basic,18.0,,flat,USD,"[""10 bots"", ""Long & short strategies"", ""Technical indicators""]",TradeSanta
+852,270,Advanced,32.0,,flat,USD,"[""49 bots"", ""Futures trading"", ""All indicators""]",TradeSanta
+853,270,Maximum,45.0,,flat,USD,"[""Unlimited bots"", ""All features"", ""Priority support""]",TradeSanta
+854,271,Free,0.0,,flat,USD,"[""1 Grid bot"", ""1 DCA bot"", ""1 Signal bot"", ""Paper trading"", ""Pump-Screener""]",WunderTrading
+855,271,Basic,19.0,,flat,USD,"[""5 Grid bots"", ""20 DCA bots"", ""5 Signal bots"", ""Multi-API (2)""]",WunderTrading
+856,271,Pro,39.0,,flat,USD,"[""20 Grid bots"", ""100 DCA bots"", ""50 Signal bots"", ""Multi-API (10)"", ""Swing trade""]",WunderTrading
+857,271,Premium,69.0,,flat,USD,"[""200 Grid bots"", ""300 DCA bots"", ""Unlimited Signal bots"", ""Multi-API (50)"", ""Market Neutral bots""]",WunderTrading
+858,272,Free Trial,0.0,,flat,USD,"[""5-day full access trial"", ""No credit card required""]",Altrady
+859,272,Basic,19.0,,flat,USD,"[""5 trading accounts"", ""2 bots (Grid or Signal)"", ""50 price alerts"", ""Base Scanner""]",Altrady
+860,272,Essential,35.0,,flat,USD,"[""15 trading accounts"", ""5 bots"", ""350 price alerts"", ""50 trend line alerts""]",Altrady
+861,272,Premium,55.0,,flat,USD,"[""30 trading accounts"", ""50 bots"", ""1000 price alerts"", ""TA Scanner Plus"", ""200 trend line alerts""]",Altrady
+862,273,Free,0.0,,flat,USD,"[""Basic liquidation data"", ""Funding rates"", ""Open interest""]",CoinGlass
+863,273,Pro,29.0,,flat,USD,"[""Full historical data"", ""API access"", ""Real-time alerts"", ""Advanced charts""]",CoinGlass
+864,273,Pro+,79.0,,flat,USD,"[""L2/L3 order book"", ""Advanced API"", ""Priority support""]",CoinGlass
+865,274,Free,0.0,,flat,USD,"[""Limited metrics"", ""Basic on-chain data"", ""1-year history""]",Glassnode
+866,274,Advanced,49.0,,flat,USD,"[""200+ metrics"", ""Full history"", ""Workbench"", ""Alerts""]",Glassnode
+867,274,Professional,999.0,,flat,USD,"[""API access"", ""Institutional-grade"", ""Custom dashboards"", ""Priority support""]",Glassnode
+868,275,Pioneer,150.0,,flat,USD,"[""Smart money tracking"", ""Wallet labels"", ""Multi-chain analytics""]",Nansen
+869,275,Explorer,500.0,,flat,USD,"[""Everything in Pioneer"", ""Token God Mode"", ""Profiler"", ""NFT analytics""]",Nansen
+870,275,Enterprise,,,flat,USD,"[""Custom pricing"", ""API access"", ""Dedicated support""]",Nansen
+871,276,Free,0.0,,flat,USD,"[""Basic social metrics"", ""Limited on-chain data""]",Santiment
+872,276,Pro,49.0,,flat,USD,"[""Full social & on-chain data"", ""Custom alerts"", ""Sansheets""]",Santiment
+873,276,Pro+,249.0,,flat,USD,"[""API access"", ""Advanced metrics"", ""Custom queries""]",Santiment
+874,276,Enterprise,,,flat,USD,"[""Custom pricing"", ""Data feed"", ""Dedicated support""]",Santiment
+875,277,Free,0.0,,flat,USD,"[""Basic research"", ""Market data"", ""News feed""]",Messari
+876,277,Enterprise,,,flat,USD,"[""Protocol analytics"", ""Governance data"", ""Fundraising DB"", ""Research reports""]",Messari
+877,278,Free,0.0,,flat,USD,"[""Community dashboards"", ""Basic SQL queries"", ""Public data""]",Dune Analytics
+878,278,Plus,349.0,,flat,USD,"[""Private queries"", ""CSV export"", ""Faster execution""]",Dune Analytics
+879,278,Premium,399.0,,flat,USD,"[""API access"", ""Custom reports"", ""Priority execution""]",Dune Analytics
+880,278,Enterprise,,,flat,USD,"[""Dedicated cluster"", ""SLA"", ""Custom onboarding""]",Dune Analytics
+881,279,Free,0.0,,flat,USD,"[""Basic metrics"", ""Limited protocols"", ""Last 30 days""]",Token Terminal
+882,279,Professional,350.0,,flat,USD,"[""Full history"", ""All protocols"", ""API access"", ""Custom dashboards""]",Token Terminal
+883,279,Enterprise,,,flat,USD,"[""Custom pricing"", ""Data feeds"", ""Dedicated support""]",Token Terminal
+884,280,Free,0.0,,flat,USD,"[""Basic metrics"", ""In/Out of Money"", ""Limited data""]",IntoTheBlock
+885,280,Pro,100.0,,flat,USD,"[""Full on-chain data"", ""DeFi analytics"", ""API access"", ""Custom alerts""]",IntoTheBlock
+886,280,Enterprise,,,flat,USD,"[""Custom pricing"", ""Data feeds"", ""White-label""]",IntoTheBlock
+887,281,Free,0.0,0.0,flat,USD,"[""Portfolio tracking"", ""Unlimited exchanges"", ""No tax reports""]",Koinly
+888,281,Newbie,49.0,588.0,flat,USD,"[""100 transactions"", ""Tax reports"", ""All integrations""]",Koinly
+889,281,Hodler,99.0,1188.0,flat,USD,"[""1,000 transactions"", ""DeFi support"", ""Cost basis methods""]",Koinly
+890,281,Trader,199.0,2388.0,flat,USD,"[""10,000 transactions"", ""Margin trading"", ""Smart transfer matching""]",Koinly
+891,282,Free,0.0,0.0,flat,USD,"[""Portfolio tracking"", ""25 transactions""]",CoinTracker
+892,282,Base,59.0,708.0,flat,USD,"[""100 transactions"", ""Tax reports"", ""TurboTax integration""]",CoinTracker
+893,282,Prime,199.0,2388.0,flat,USD,"[""1,000 transactions"", ""DeFi support"", ""Tax loss harvesting""]",CoinTracker
+894,282,Ultra,599.0,7188.0,flat,USD,"[""10,000 transactions"", ""CPA review"", ""Margin support""]",CoinTracker
+895,283,Basic,49.0,588.0,flat,USD,"[""500 transactions"", ""Tax reports"", ""Exchange imports""]",TokenTax
+896,283,Premium,199.0,2388.0,flat,USD,"[""5,000 transactions"", ""DeFi support"", ""Margin trading""]",TokenTax
+897,283,VIP,3499.0,41988.0,flat,USD,"[""Unlimited transactions"", ""CPA-assisted filing"", ""Dedicated support""]",TokenTax
+898,284,Free,0.0,0.0,flat,USD,"[""25 transactions"", ""Basic reports""]",ZenLedger
+899,284,Starter,49.0,588.0,flat,USD,"[""200 transactions"", ""Tax forms""]",ZenLedger
+900,284,Premium,149.0,1788.0,flat,USD,"[""5,000 transactions"", ""DeFi/NFT"", ""Tax pro access""]",ZenLedger
+901,284,Executive,399.0,4788.0,flat,USD,"[""25,000 transactions"", ""Audit support"", ""Priority support""]",ZenLedger
+902,285,Free,0.0,0.0,flat,USD,"[""Portfolio tracking"", ""Tax preview""]",CoinLedger
+903,285,Hobbyist,49.0,588.0,flat,USD,"[""100 transactions"", ""IRS Form 8949""]",CoinLedger
+904,285,Day Trader,99.0,1188.0,flat,USD,"[""1,500 transactions"", ""DeFi support""]",CoinLedger
+905,285,Unlimited,199.0,2388.0,flat,USD,"[""Unlimited transactions"", ""Tax loss harvesting"", ""All features""]",CoinLedger
+906,286,Free,0.0,0.0,flat,USD,"[""25 transactions"", ""Portfolio tracking""]",Accointing (Blockpit)
+907,286,Starter,49.0,588.0,flat,USD,"[""200 transactions"", ""Tax reports""]",Accointing (Blockpit)
+908,286,Advanced,99.0,1188.0,flat,USD,"[""1,000 transactions"", ""DeFi support""]",Accointing (Blockpit)
+909,286,Unlimited,199.0,2388.0,flat,USD,"[""Unlimited transactions"", ""All features""]",Accointing (Blockpit)
+910,287,Free,0.0,,flat,USD,"[""10 wallets/exchanges"", ""Basic portfolio tracking"", ""Market data""]",CoinStats
+911,287,Pro,13.99,,flat,USD,"[""Unlimited connections"", ""DeFi tracking"", ""Advanced analytics"", ""Swap in-app""]",CoinStats
+912,288,Free,0.0,,flat,USD,"[""2 connections"", ""Basic tracking"", ""Crypto + stocks""]",Delta
+913,288,Pro,8.99,,flat,USD,"[""Unlimited connections"", ""Advanced analytics"", ""Multi-device sync"", ""Priority support""]",Delta
+914,289,Free,0.0,,flat,USD,"[""Multi-chain tracking"", ""Built-in swaps"", ""NFT support"", ""No subscription""]",Zerion
+915,289,Premium,14.99,,flat,USD,"[""Zero swap fees"", ""Cashback"", ""Premium features""]",Zerion
+916,290,Free,0.0,,flat,USD,"[""Multi-chain DeFi tracking"", ""Whale watching"", ""Protocol support"", ""No subscription""]",DeBank
+917,290,Web3 ID,96.0,,flat,USD,"[""Social features"", ""Verified profile"", ""Badge system""]",DeBank
+918,291,Free,0.0,,flat,USD,"[""Market data"", ""Basic portfolio"", ""Coin tracking""]",CoinGecko
+919,291,Premium,7.49,,flat,USD,"[""No ads"", ""API access"", ""Exclusive reports"", ""Advanced charts""]",CoinGecko
+920,292,Free (Swap),0.0,,flat,USD,,1inch
+921,293,Free (Swap),0.0,,flat,USD,,Jupiter
+922,294,Free (Swap),0.0,,flat,USD,,ParaSwap
+923,295,Free,0.0,,flat,USD,,Zapper
+924,296,Free,0.0,,flat,USD,,DefiLlama
+925,297,Regular (VIP 0),0.0,,flat,USD,,Binance
+926,297,VIP 1,,,flat,USD,,Binance
+927,297,VIP 2,,,flat,USD,,Binance
+928,298,Advanced Trade (Tier 1),0.0,,flat,USD,,Coinbase
+929,298,Advanced Trade (Tier 2),0.0,,flat,USD,,Coinbase
+930,298,Coinbase One,29.99,,flat,USD,,Coinbase
+931,299,Starter (<$50K),0.0,,flat,USD,,Kraken
+932,299,Intermediate ($50K-$100K),0.0,,flat,USD,,Kraken
+933,299,Pro (>$10M),0.0,,flat,USD,,Kraken
+934,300,VIP 0 (Standard),0.0,,flat,USD,,Bybit
+935,300,VIP 1,,,flat,USD,,Bybit
+936,300,VIP 3,,,flat,USD,,Bybit
+937,301,Level 1 (Regular),0.0,,flat,USD,,OKX
+938,301,Level 2,,,flat,USD,,OKX
+939,301,VIP,,,flat,USD,,OKX
+940,302,Regular (Lv0),0.0,,flat,USD,,KuCoin
+941,302,VIP 1,,,flat,USD,,KuCoin
+942,302,VIP 2+,,,flat,USD,,KuCoin
+943,303,Regular (Lv0),0.0,,flat,USD,,Gate.io
+944,303,Lv1 (≥30 GT),,,flat,USD,,Gate.io
+945,303,Lv2+,,,flat,USD,,Gate.io
+946,304,Regular (Lv0),0.0,,flat,USD,,Bitget
+947,304,VIP 1,,,flat,USD,,Bitget
+948,304,VIP 2,,,flat,USD,,Bitget
+949,305,Standard,0.0,,flat,USD,,Maestro
+950,306,Standard,0.0,,flat,USD,,Banana Gun
+951,307,Standard,0.0,,flat,USD,,BONKbot
+952,308,Standard,0.0,,flat,USD,,Trojan
+953,309,Standard (0-50 SOL/day),0.0,,flat,USD,,Photon
+954,309,Volume Tier (>50 SOL/day),0.0,,flat,USD,,Photon
+955,310,Standard,0.0,,flat,USD,,BullX
+956,311,Standard,0.0,,flat,USD,,Bloom
+957,312,Standard,0.0,,flat,USD,,PepeBoost
+958,313,Free,0.0,,flat,USD,"[""Free wallet"", ""Browser extension + mobile"", ""EVM chains"", ""0.875% swap fee optional""]",MetaMask
+959,314,Free,0.0,,flat,USD,"[""Free wallet"", ""Solana, Ethereum, Bitcoin"", ""Built-in swaps"", ""NFT gallery""]",Phantom
+960,315,Free,0.0,,flat,USD,"[""Free wallet"", ""100+ blockchains"", ""dApp browser"", ""Staking"", ""Binance-backed""]",Trust Wallet
+961,316,Ledger Nano S Plus,79.0,,flat,USD,"[""5500+ assets"", ""Ledger Live"", ""USB-C"", ""Secure Element chip""]",Ledger
+962,316,Ledger Nano X,149.0,,flat,USD,"[""Bluetooth"", ""5500+ assets"", ""Mobile compatible"", ""Larger storage""]",Ledger
+963,316,Ledger Stax,399.0,,flat,USD,"[""E-ink touchscreen"", ""Premium design"", ""Wireless charging"", ""All Nano X features""]",Ledger
+964,317,Trezor Safe 3,79.0,,flat,USD,"[""Secure Element"", ""Trezor Suite"", ""8000+ coins"", ""Open source""]",Trezor
+965,317,Trezor Safe 5,169.0,,flat,USD,"[""Color touchscreen"", ""Haptic feedback"", ""Secure Element"", ""Premium design""]",Trezor
+966,318,Free,0.0,,flat,USD,"[""Free wallet"", ""Desktop + mobile + browser"", ""Built-in exchange"", ""Trezor integration"", ""300+ assets""]",Exodus
+967,319,Free,0.0,,flat,USD,"[""Free wallet"", ""Pre-transaction risk scanning"", ""Auto chain switching"", ""Open source"", ""DeBank integration""]",Rabby Wallet
+968,320,Free,0.0,,flat,USD,"[""Free self-custody wallet"", ""Multi-chain"", ""dApp browser"", ""NFT support"", ""Coinbase integration""]",Coinbase Wallet
+969,321,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",Uniswap
+970,321,0.01% Pool Fee,0.01,,usage-based,USD,"[""Stablecoin pairs"", ""Very low slippage"", ""USDC/USDT/DAI pools"", ""High frequency trading""]",Uniswap
+971,321,0.05% Pool Fee,0.05,,usage-based,USD,"[""Major pairs (ETH/USDC)"", ""Deep liquidity"", ""Most popular tier"", ""Competitive rates""]",Uniswap
+972,321,0.3% Pool Fee,0.3,,usage-based,USD,"[""Standard altcoin pairs"", ""Classic V2-era rate"", ""Higher LP reward"", ""Wide pair coverage""]",Uniswap
+973,321,1% Pool Fee,1.0,,usage-based,USD,"[""Exotic and volatile pairs"", ""Maximum LP reward"", ""Low liquidity tokens"", ""High risk assets""]",Uniswap
+974,322,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",PancakeSwap
+975,322,0.01% Fee Tier (V3),0.01,,usage-based,USD,"[""Stable pairs"", ""Lowest BSC fees"", ""Stablecoin pools"", ""High frequency traders""]",PancakeSwap
+976,322,0.05% Fee Tier (V3),0.05,,usage-based,USD,"[""Major pairs (BNB/USDT)"", ""Deep liquidity"", ""Capital efficient V3"", ""Core DeFi pairs""]",PancakeSwap
+977,322,0.25% Fee Tier (V2),0.25,,usage-based,USD,"[""V2 standard pools"", ""Farming eligibility"", ""Most altcoin pairs"", ""Established liquidity""]",PancakeSwap
+978,322,1% Fee Tier (V3),1.0,,usage-based,USD,"[""Exotic volatile pairs"", ""Maximum LP rewards"", ""Low liquidity tokens"", ""High risk assets""]",PancakeSwap
+979,323,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",Raydium
+980,323,Standard Pool Fee,0.25,,usage-based,USD,"[""Legacy V2 pools"", ""SPL token pairs"", ""Farming eligible"", ""Standard liquidity""]",Raydium
+981,323,CLMM 0.01% Tier,0.01,,usage-based,USD,"[""Stablecoin pairs"", ""Ultra-low slippage"", ""Concentrated liquidity"", ""High volume pairs""]",Raydium
+982,323,CLMM 0.05% Tier,0.05,,usage-based,USD,"[""Major SOL pairs"", ""Efficient capital"", ""Core DeFi tokens"", ""Active LP management""]",Raydium
+983,323,CLMM 1% Tier,1.0,,usage-based,USD,"[""Exotic pairs"", ""Volatile assets"", ""Maximum LP reward"", ""Low liquidity tokens""]",Raydium
+984,324,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",Orca
+985,324,0.01% Whirlpool Fee,0.01,,usage-based,USD,"[""Stablecoin Whirlpools"", ""Ultra-low slippage"", ""USDC/USDT pairs"", ""Stable asset swaps""]",Orca
+986,324,0.05% Whirlpool Fee,0.05,,usage-based,USD,"[""SOL/USDC and major pairs"", ""Concentrated liquidity"", ""Capital efficient LPs"", ""Core token pairs""]",Orca
+987,324,0.3% Whirlpool Fee,0.3,,usage-based,USD,"[""Standard SPL pairs"", ""Higher LP yield"", ""Wider price range"", ""Altcoin pairs""]",Orca
+988,324,1% Whirlpool Fee,1.0,,usage-based,USD,"[""Exotic volatile pairs"", ""Maximum LP rewards"", ""Niche token markets"", ""Low volume pairs""]",Orca
+989,325,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",Curve Finance
+990,325,Stablecoin Pool Fee,0.04,,usage-based,USD,"[""3pool (USDC/USDT/DAI)"", ""Ultra-low slippage"", ""Minimal price impact"", ""Large stablecoin swaps""]",Curve Finance
+991,325,V2 Crypto Pool Fee,0.04,,usage-based,USD,"[""ETH/BTC pairs"", ""Dynamic price peg"", ""Tricrypto pools"", ""Volatile asset optimized""]",Curve Finance
+992,325,Lending Pool Fee,0.04,,usage-based,USD,"[""Compound/Aave integrated"", ""cToken and aToken swaps"", ""Yield-bearing assets"", ""Compounding returns""]",Curve Finance
+993,326,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",SushiSwap
+994,326,0.3% Standard Pool (V2),0.3,,usage-based,USD,"[""Legacy V2 pools"", ""0.25% to LPs"", ""0.05% to xSUSHI stakers"", ""Broad pair support""]",SushiSwap
+995,326,0.01% Concentrated (V3),0.01,,usage-based,USD,"[""Stablecoin pairs"", ""Lowest fee tier"", ""Capital efficient LPs"", ""High volume pairs""]",SushiSwap
+996,326,0.05% Concentrated (V3),0.05,,usage-based,USD,"[""Major pairs"", ""ETH/USDC and similar"", ""Active LP range"", ""Competitive rates""]",SushiSwap
+997,326,1% Concentrated (V3),1.0,,usage-based,USD,"[""Exotic pairs"", ""Volatile assets"", ""Maximum LP yield"", ""Niche markets""]",SushiSwap
+998,327,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",dYdX
+999,327,Maker Fee,0.02,,flat,USD,"[""Limit orders providing liquidity"", ""0% to 0.02% rate"", ""Tiered by 30D volume"", ""High volume = 0% maker fee""]",dYdX
+1000,327,Taker Fee,0.1,,flat,USD,"[""Market orders taking liquidity"", ""0.05% to 0.1% rate"", ""Volume tier discounts"", ""Competitive vs centralized perp exchanges""]",dYdX
+1001,328,Free,0.0,,flat,USD,"[""No platform fees"", ""Pay only gas/network fees"", ""Fully decentralized""]",Trader Joe
+1002,328,0.1% Liquidity Book Fee,0.1,,usage-based,USD,"[""Standard LB pools"", ""Discrete bin model"", ""Zero in-bin slippage"", ""Avalanche token pairs""]",Trader Joe
+1003,328,0.2% Liquidity Book Fee,0.2,,usage-based,USD,"[""Mid-tier pairs"", ""Moderate volatility"", ""Active LP management"", ""Cross-chain pairs""]",Trader Joe
+1004,328,0.5% Liquidity Book Fee,0.5,,usage-based,USD,"[""Volatile exotic pairs"", ""High LP reward"", ""Low liquidity tokens"", ""Maximum LP incentive""]",Trader Joe
+1005,328,Legacy V1 Pool Fee,0.3,,usage-based,USD,"[""Original AMM pools"", ""Standard Uniswap model"", ""Broader pair coverage"", ""Legacy compatibility""]",Trader Joe
+1006,329,SafePal App,0.0,,flat,USD,"[""Free software wallet"", ""10,000+ tokens"", ""DeFi browser"", ""NFT management""]",SafePal
+1007,329,SafePal X1,29.99,,flat,USD,"[""Entry hardware wallet"", ""Air-gapped QR signing"", ""Bluetooth optional"", ""Companion app required""]",SafePal
+1008,329,SafePal S1,49.99,,flat,USD,"[""True air-gapped signing"", ""1.3-inch color screen"", ""Self-destruct PIN protection"", ""No wireless connectivity""]",SafePal
+1009,329,SafePal S1 Pro,79.99,,flat,USD,"[""Enhanced S1"", ""Larger storage capacity"", ""Extended token support"", ""Premium build quality""]",SafePal
+1010,330,Tangem Wallet (2 cards),54.99,,flat,USD,"[""2 NFC cards"", ""No seed phrase"", ""6000+ tokens"", ""iOS and Android app""]",Tangem
+1011,330,Tangem Wallet (3 cards),69.99,,flat,USD,"[""3 NFC backup cards"", ""Better redundancy"", ""Optimal for long-term storage"", ""Maximum recovery options""]",Tangem
+1012,331,Keystone Essential,99.0,,flat,USD,"[""Air-gapped QR signing"", ""4-inch touchscreen"", ""Open-source firmware"", ""Multi-chain support""]",Keystone
+1013,331,Keystone 3 Pro,169.0,,flat,USD,"[""Dual secure element chips"", ""Enhanced tamper protection"", ""Full multi-chain support"", ""Bitcoin-only firmware option""]",Keystone

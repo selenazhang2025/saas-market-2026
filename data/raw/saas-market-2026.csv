@@ -1,0 +1,332 @@
+tool_name,category,vertical,free_plan,starting_price_usd,highest_plan_price_usd,plan_count,rating,features_count,website
+"Notion",project-management,Business,true,0,18,4,4.7,32,https://www.notion.com
+"ClickUp",project-management,Business,true,0,12,4,4.7,47,https://clickup.com
+"Asana",project-management,Business,true,0,24.99,4,4.4,31,https://asana.com
+"monday.com",project-management,Business,true,0,19,5,4.7,45,https://monday.com
+"Trello",project-management,Business,true,0,17.5,4,4.4,18,https://trello.com
+"Jira",project-management,Business,true,0,14.54,4,4.3,42,https://www.atlassian.com/software/jira
+"Basecamp",project-management,Business,true,0,299,3,4.1,14,https://basecamp.com
+"Wrike",project-management,Business,true,0,25,4,4.2,39,https://www.wrike.com
+"Teamwork",project-management,Business,true,0,69.99,4,4.4,45,https://www.teamwork.com
+"Linear",project-management,Business,true,0,16,4,4.6,22,https://linear.app
+"Height",project-management,Business,true,0,15,3,4.8,25,https://height.app
+"Hive",project-management,Business,true,0,12,4,4.6,40,https://hive.com
+"Smartsheet",project-management,Business,false,9,19,3,4.5,35,https://www.smartsheet.com
+"Airtable",project-management,Business,true,0,45,4,4.6,27,https://airtable.com
+"Todoist",project-management,Business,true,0,8,3,4.4,43,https://todoist.com
+"Miro",project-management,Business,true,0,20,4,4.8,28,https://miro.com
+"Coda",project-management,Business,true,0,30,4,4.7,24,https://coda.io
+"Shortcut (formerly Clubhouse)",project-management,Business,true,0,12,4,4.3,15,https://shortcut.com
+"Nifty",project-management,Business,true,0,399,4,4.7,15,https://niftypm.com
+"Zoho Projects",project-management,Business,true,0,10,3,4.3,15,https://www.zoho.com/projects/
+"Salesforce",crm,Business,false,25,330,4,4.4,15,https://www.salesforce.com
+"HubSpot",crm,Business,true,0,3600,4,4.4,15,https://www.hubspot.com
+"Pipedrive",crm,Business,false,14,99,5,4.3,31,https://www.pipedrive.com
+"Zoho CRM",crm,Business,true,0,65,5,4.1,15,https://www.zoho.com/crm/
+"Freshsales",crm,Business,true,0,71,4,4.5,15,https://www.freshworks.com/crm/sales/
+"Close",crm,Business,false,49,139,3,4.7,15,https://close.com
+"Copper",crm,Business,false,12,134,4,4.5,22,https://www.copper.com
+"Insightly",crm,Business,true,0,99,4,4.2,15,https://www.insightly.com
+"Keap",crm,Business,false,299,599,3,4.2,38,https://keap.com
+"Streak",crm,Business,true,0,129,5,4.5,15,https://www.streak.com
+"Nutshell",crm,Business,false,19,89,5,4.3,15,https://www.nutshell.com
+"Less Annoying CRM",crm,Business,false,15,15,1,4.9,15,https://www.lessannoyingcrm.com
+"monday CRM",crm,Business,false,12,28,4,4.6,15,https://monday.com/crm
+"Folk",crm,Business,false,24,48,3,4.7,15,https://www.folk.app
+"Capsule CRM",crm,Business,true,0,75,5,4.7,15,https://capsulecrm.com
+"Attio",crm,Business,true,0,69,4,4.8,15,https://attio.com
+"Mailchimp",email-marketing,Business,true,0,350,4,4.4,36,https://mailchimp.com
+"Kit (ConvertKit)",email-marketing,Business,true,0,66,3,4.4,15,https://kit.com
+"ActiveCampaign",email-marketing,Business,false,15,145,4,4.5,48,https://www.activecampaign.com
+"Brevo (Sendinblue)",email-marketing,Business,false,9,49,4,4.5,15,https://www.brevo.com
+"Klaviyo",email-marketing,Business,true,0,35,3,4.6,41,https://www.klaviyo.com
+"Drip",email-marketing,Business,false,39,39,1,4.4,15,https://www.drip.com
+"AWeber",email-marketing,Business,true,0,899,4,4.2,15,https://www.aweber.com
+"GetResponse",email-marketing,Business,true,0,119,5,4.2,15,https://www.getresponse.com
+"Constant Contact",email-marketing,Business,false,12,80,3,4,31,https://www.constantcontact.com
+"MailerLite",email-marketing,Business,true,0,20,4,4.7,15,https://www.mailerlite.com
+"beehiiv",email-marketing,Business,true,0,96,4,4.7,19,https://www.beehiiv.com
+"Omnisend",email-marketing,Business,true,0,59,3,4.6,15,https://www.omnisend.com
+"Moosend",email-marketing,Business,false,9,9,2,4.6,15,https://moosend.com
+"Campaign Monitor",email-marketing,Business,false,12,159,3,4.1,15,https://www.campaignmonitor.com
+"Sender",email-marketing,Business,true,0,35,4,4.4,15,https://www.sender.net
+"Flodesk",email-marketing,Business,true,0,64,4,4,15,https://flodesk.com
+"Buttondown",email-marketing,Business,true,0,79,4,4.6,15,https://buttondown.com
+"Loops",email-marketing,Business,true,0,599,4,4.8,15,https://loops.so
+"WordPress.com",website-builders,Business,true,0,45,5,4.4,48,https://wordpress.com
+"Wix",website-builders,Business,true,0,159,5,4.2,38,https://www.wix.com
+"Squarespace",website-builders,Business,false,16,65,4,4.4,15,https://www.squarespace.com
+"Webflow",website-builders,Business,true,0,39,5,4.4,33,https://webflow.com
+"Framer",website-builders,Business,true,0,30,5,4.5,15,https://www.framer.com
+"Carrd",website-builders,Business,true,0,49,4,4.5,15,https://carrd.co
+"Ghost",website-builders,Business,false,15,199,4,4.1,15,https://ghost.org
+"Shopify",website-builders,Business,false,39,2300,4,4.4,44,https://www.shopify.com
+"Weebly",website-builders,Business,true,0,29,4,4.2,15,https://www.weebly.com
+"Duda",website-builders,Business,false,25,199,4,4.6,15,https://www.duda.co
+"Webnode",website-builders,Business,true,0,22.9,5,3.9,15,https://www.webnode.com
+"Strikingly",website-builders,Business,true,0,49,4,4.1,15,https://www.strikingly.com
+"10Web",website-builders,Business,false,10,60,3,4.6,15,https://10web.io
+"Super",website-builders,Business,true,0,50,4,4.5,15,https://super.so
+"Typedream",website-builders,Business,true,0,49,4,4.4,15,https://typedream.com
+"Unicorn Platform",website-builders,Business,true,0,49,3,4.7,15,https://unicornplatform.com
+"Amazon Web Services (AWS)",cloud-hosting,Business,true,0,,2,4.5,67,https://aws.amazon.com
+"Cloudways",cloud-hosting,Business,false,14,54,4,4.5,15,https://www.cloudways.com
+"DigitalOcean",cloud-hosting,Business,true,0,8,4,4.5,31,https://www.digitalocean.com
+"Hostinger",cloud-hosting,Business,false,2.99,9.99,3,4.5,15,https://www.hostinger.com
+"SiteGround",cloud-hosting,Business,false,2.99,7.99,3,4.4,15,https://www.siteground.com
+"Kinsta",cloud-hosting,Business,false,35,675,4,4.8,15,https://kinsta.com
+"Vercel",cloud-hosting,Business,true,0,20,3,4.5,22,https://vercel.com
+"Netlify",cloud-hosting,Business,true,0,19,3,4.5,15,https://www.netlify.com
+"Fly.io",cloud-hosting,Business,true,0,29,3,4.3,15,https://fly.io
+"Railway",cloud-hosting,Business,true,0,20,4,4.6,15,https://railway.app
+"Render",cloud-hosting,Business,true,0,19,4,4.4,17,https://render.com
+"Hetzner",cloud-hosting,Business,false,4.35,44,4,4.6,15,https://www.hetzner.com
+"Vultr",cloud-hosting,Business,true,0,120,4,4.4,15,https://www.vultr.com
+"Linode (Akamai Cloud)",cloud-hosting,Business,true,0,24,4,4.3,15,https://www.linode.com
+"Google Cloud Platform",cloud-hosting,Business,true,0,,2,4.5,15,https://cloud.google.com
+"Microsoft Azure",cloud-hosting,Business,true,0,,2,4.4,71,https://azure.microsoft.com
+"A2 Hosting",cloud-hosting,Business,false,2.99,14.99,4,4.3,15,https://www.a2hosting.com
+"Bluehost",cloud-hosting,Business,false,2.95,9.95,4,3.7,15,https://www.bluehost.com
+"Namecheap",cloud-hosting,Business,false,1.98,4.98,3,4.4,15,https://www.namecheap.com
+"WP Engine",cloud-hosting,Business,false,20,193,4,4.4,15,https://wpengine.com
+"Figma",design-tools,Business,true,0,90,4,4.7,38,https://www.figma.com
+"Canva",design-tools,Business,true,0,15,4,4.7,15,https://www.canva.com
+"Adobe XD",design-tools,Business,false,59.99,59.99,1,4.3,31,https://www.adobe.com/products/xd.html
+"Sketch",design-tools,Business,false,12,44,3,4.5,15,https://www.sketch.com
+"InVision",design-tools,Business,true,0,,1,4.4,15,https://www.invisionapp.com
+"Penpot",design-tools,Business,true,0,,3,4.3,15,https://penpot.app
+"Affinity Designer",design-tools,Business,false,69.99,169.99,3,4.5,27,https://affinity.serif.com/en-us/designer/
+"Adobe Illustrator",design-tools,Business,false,22.99,59.99,2,4.6,15,https://www.adobe.com/products/illustrator.html
+"Adobe Photoshop",design-tools,Business,false,9.99,59.99,3,4.6,15,https://www.adobe.com/products/photoshop.html
+"Lunacy",design-tools,Business,true,0,14.99,2,4.5,15,https://icons8.com/lunacy
+"Procreate",design-tools,Business,false,12.99,19.99,2,4.6,18,https://procreate.com
+"Pixlr",design-tools,Business,true,0,12.99,4,4.3,15,https://pixlr.com
+"Framer",design-tools,Business,true,0,30,4,4.5,15,https://www.framer.com
+"Spline",design-tools,Business,true,0,20,3,4.5,15,https://spline.design
+"Miro",design-tools,Business,true,0,20,4,4.8,15,https://miro.com
+"Whimsical",design-tools,Business,true,0,20,3,4.6,15,https://whimsical.com
+"QuickBooks Online",accounting,Business,false,38,275,4,4,43,https://quickbooks.intuit.com
+"Xero",accounting,Business,false,25,90,3,4.3,15,https://www.xero.com
+"FreshBooks",accounting,Business,false,23,76,4,4.5,27,https://www.freshbooks.com
+"Wave",accounting,Business,true,0,149,4,4.4,15,https://www.waveapps.com
+"Zoho Books",accounting,Business,true,0,150,5,4.5,35,https://www.zoho.com/books/
+"Sage Business Cloud Accounting",accounting,Business,false,10,25,3,4.1,15,https://www.sage.com/en-us/accounting-software/
+"Kashoo",accounting,Business,false,30,30,1,4.1,15,https://www.kashoo.com
+"Bench",accounting,Business,false,189,339,2,4.5,15,https://bench.co
+"FreeAgent",accounting,Business,false,19,19,1,4.2,15,https://www.freeagent.com
+"Bonsai",accounting,Business,false,9,29,3,4.3,15,https://www.hellobonsai.com
+"Harvest",accounting,Business,true,0,10.8,2,4.3,15,https://www.getharvest.com
+"Akaunting",accounting,Business,true,0,15,2,4.2,15,https://akaunting.com
+"Manager.io",accounting,Business,true,0,100,3,4.3,15,https://www.manager.io
+"Hurdlr",accounting,Business,true,0,16.67,3,4.1,15,https://www.hurdlr.com
+"Patriot Software",accounting,Business,false,20,37,4,4.6,15,https://www.patriotsoftware.com
+"Zoom",video-conferencing,Business,true,0,22.49,4,4.5,34,https://zoom.com
+"Google Meet",video-conferencing,Business,true,0,21.6,4,4.6,15,https://meet.google.com
+"Microsoft Teams",video-conferencing,Business,true,0,12.5,4,4.3,15,https://www.microsoft.com/microsoft-teams
+"Whereby",video-conferencing,Business,true,0,11.99,3,4.6,16,https://whereby.com
+"Loom",video-conferencing,Business,true,0,24,4,4.7,15,https://www.loom.com
+"Webex by Cisco",video-conferencing,Business,true,0,25,4,4.3,36,https://www.webex.com
+"GoTo Meeting",video-conferencing,Business,false,12,16,2,4.2,15,https://www.goto.com/meeting
+"Around",video-conferencing,Business,true,0,,1,4.4,15,https://www.around.co
+"Livestorm",video-conferencing,Business,true,0,99,4,4.3,15,https://livestorm.co
+"Jitsi Meet",video-conferencing,Business,true,0,,3,4.3,15,https://jitsi.org
+"Riverside.fm",video-conferencing,Business,true,0,29,4,4.8,15,https://riverside.com
+"Daily",video-conferencing,Business,true,0,,3,4.7,15,https://www.daily.co
+"Vowel",video-conferencing,Business,true,0,16.49,3,4.5,15,https://www.vowel.com
+"Cal.com (Cal Video)",video-conferencing,Business,true,0,12,3,4.7,15,https://cal.com
+"Butter",video-conferencing,Business,true,0,25,3,4.7,15,https://butter.us
+"Dialpad",video-conferencing,Business,false,27,35,3,4.4,15,https://www.dialpad.com
+"Slack",video-conferencing,Business,true,0,15,4,4.5,15,https://slack.com
+"RingCentral",video-conferencing,Business,false,30,45,3,4.1,15,https://www.ringcentral.com
+"SugarCRM",crm,Business,false,19,135,4,3.8,15,https://www.sugarcrm.com
+"Zendesk Sell",crm,Business,false,25,149,3,4.2,15,https://www.zendesk.com/sell/
+"HostGator",cloud-hosting,Business,false,3.75,6.25,3,3.5,15,https://www.hostgator.com
+"HubSpot CMS",website-builders,Business,true,0,1500,4,4.5,15,https://www.hubspot.com/products/cms
+"Tilda",website-builders,Business,true,0,45,3,4.6,15,https://tilda.cc
+"ClickFunnels",website-builders,Business,false,81,248,2,4,15,https://www.clickfunnels.com
+"Mailjet",email-marketing,Business,true,0,27,4,4,15,https://www.mailjet.com
+"Twilio SendGrid",email-marketing,Business,true,0,89.95,4,4,15,https://sendgrid.com
+"Demio",video-conferencing,Business,false,45,196,3,4.4,15,https://demio.com
+"GIMP",design-tools,Business,true,0,,1,4.3,15,https://www.gimp.org
+"CorelDRAW",design-tools,Business,false,399,779,3,4.3,15,https://www.coreldraw.com
+"ChatGPT",llm,AI,true,0,30,3,4.7,15,https://chatgpt.com
+"Claude",llm,AI,true,0,20,2,4.6,8,https://claude.ai
+"Google Gemini",llm,AI,true,0,20,2,4.3,8,https://gemini.google.com
+"Jasper",ai-writing,AI,false,39,59,3,4.7,28,https://www.jasper.ai
+"Copy.ai",ai-writing,AI,false,,3000,4,4.7,8,https://www.copy.ai
+"Grammarly",ai-writing,AI,true,0,12,3,4.7,8,https://www.grammarly.com
+"1Password",password-managers,Business,false,2.99,7.99,3,4.8,28,https://1password.com
+"Bitwarden",password-managers,Business,true,0,4,3,4.7,8,https://bitwarden.com
+"LastPass",password-managers,Business,true,0,4,3,4.4,24,https://www.lastpass.com
+"Dashlane",password-managers,Business,true,0,8,3,4.5,8,https://www.dashlane.com
+"NordPass",password-managers,Business,true,0,4.99,3,4.4,8,https://nordpass.com
+"NordVPN",vpn,Business,false,3.99,6.99,3,4.7,19,https://nordvpn.com
+"ExpressVPN",vpn,Business,false,12.95,12.95,3,4.7,8,https://www.expressvpn.com
+"Surfshark",vpn,Business,false,2.49,5.99,3,4.5,21,https://surfshark.com
+"ProtonVPN",vpn,Business,true,0,4.99,2,4.5,8,https://protonvpn.com
+"CyberGhost",vpn,Business,false,12.99,12.99,2,4.3,8,https://www.cyberghostvpn.com
+"Midjourney",ai-image,AI,false,10,60,3,4.4,14,https://midjourney.com
+"DALL-E 3",ai-image,AI,false,20,20,1,4.5,12,https://openai.com/dall-e-3
+"Stable Diffusion",ai-image,AI,true,0,20,2,4.3,12,https://stability.ai
+"Adobe Firefly",ai-image,AI,true,0,5,2,4.4,12,https://firefly.adobe.com
+"Leonardo AI",ai-image,AI,true,0,30,3,4.5,12,https://leonardo.ai
+"Synthesia",ai-video,AI,true,0,89,4,4.7,12,https://synthesia.io
+"HeyGen",ai-video,AI,true,0,99,3,4.8,12,https://heygen.com
+"Runway",ai-video,AI,true,0,76,4,4.5,12,https://runwayml.com
+"Pika",ai-video,AI,true,0,76,4,4.4,12,https://pika.art
+"GitHub Copilot",ai-coding,AI,true,0,39,5,4.5,16,https://github.com/features/copilot
+"Cursor",ai-coding,AI,true,0,40,3,4.7,12,https://cursor.com
+"Codeium",ai-coding,AI,true,0,40,4,4.6,12,https://windsurf.com
+"ElevenLabs",ai-voice,AI,true,0,99,4,4.7,12,https://elevenlabs.io
+"Murf AI",ai-voice,AI,true,0,66,4,4.7,12,https://murf.ai
+"Play.ht",ai-voice,AI,true,0,99,3,4.5,12,https://play.ht
+"n8n",ai-agents,AI,true,0,60,3,4.7,12,https://n8n.io
+"Make (Integromat)",ai-agents,AI,true,0,18,3,4.7,12,https://make.com
+"Perplexity AI",ai-productivity,AI,true,0,20,2,4.6,12,https://perplexity.ai
+"OpenAI API",llm,AI,false,0,,1,4.7,12,https://platform.openai.com
+"Hugging Face",llm,AI,true,0,20,3,4.6,12,https://huggingface.co
+"Replicate",llm,AI,true,0,,1,4.5,12,https://replicate.com
+"Writesonic",ai-writing,AI,true,0,199,3,4.7,12,https://writesonic.com
+"Notion AI",ai-productivity,AI,false,10,10,1,4.6,12,https://notion.so/product/ai
+"Rytr",ai-writing,AI,true,0,29,3,4.7,12,https://rytr.me
+"Wordtune",ai-writing,AI,true,0,9.99,3,4.6,12,https://wordtune.com
+"QuillBot",ai-writing,AI,true,0,13,2,4.6,12,https://quillbot.com
+"Sudowrite",ai-writing,AI,false,10,44,3,4.5,12,https://sudowrite.com
+"ProWritingAid",ai-writing,AI,true,0,12,3,4.5,12,https://prowritingaid.com
+"Copysmith",ai-writing,AI,false,19,49,3,4.4,12,https://copysmith.ai
+"AI21 Studio",ai-writing,AI,true,0,39,3,4.4,12,https://studio.ai21.com
+"Canva AI",ai-image,AI,true,0,15,3,4.7,12,https://canva.com/ai-image-generator
+"Ideogram",ai-image,AI,true,0,20,3,4.5,12,https://ideogram.ai
+"Kling AI",ai-image,AI,true,0,35,3,4.6,12,https://kling.ai
+"Luma AI (Dream Machine)",ai-image,AI,true,0,100,3,4.5,8,https://lumalabs.ai
+"Topaz Labs AI",ai-image,AI,false,199,399,3,4.7,12,https://topazlabs.com
+"Luminar Neo",ai-image,AI,false,14,99,3,4.5,12,https://skylum.com/luminar-neo
+"Remove.bg",ai-image,AI,true,0,9,3,4.7,12,https://remove.bg
+"Tabnine",ai-coding,AI,true,0,39,3,4.1,12,https://tabnine.com
+"Replit AI",ai-coding,AI,true,0,40,3,4.4,12,https://replit.com/ai
+"Bolt.new",ai-coding,AI,true,0,30,3,4.6,12,https://bolt.new
+"v0 by Vercel",ai-coding,AI,true,0,100,3,4.6,12,https://v0.app
+"Windsurf (Codeium)",ai-coding,AI,true,0,40,4,4.7,12,https://codeium.com/windsurf
+"Phind",ai-coding,AI,true,0,17,2,4.5,12,https://phind.com
+"Zapier AI",ai-agents,AI,true,0,69,4,4.5,12,https://zapier.com/ai
+"Character.AI",ai-assistants,AI,true,0,10,2,4.3,12,https://character.ai
+"Anthropic API (Claude)",llm,AI,false,0,,2,4.7,12,https://anthropic.com/api
+"Google AI Studio",llm,AI,true,0,,2,4.5,12,https://aistudio.google.com
+"Microsoft Copilot",ai-assistants,AI,true,0,30,3,4.5,12,https://copilot.microsoft.com
+"Cohere",llm,AI,true,0,,3,4.5,12,https://cohere.com
+"Mistral AI",llm,AI,false,0,,3,4.5,12,https://mistral.ai
+"You.com",ai-productivity,AI,true,0,15,2,4.4,12,https://you.com
+"Consensus",ai-productivity,AI,true,0,10,3,4.6,12,https://consensus.app
+"Elicit",ai-productivity,AI,true,0,49,3,4.5,12,https://elicit.com
+"Suno",ai-voice,AI,true,0,24,3,4.6,12,https://suno.com
+"Udio",ai-voice,AI,true,0,30,3,4.5,12,https://udio.com
+"Adobe Podcast (Enhance)",ai-voice,AI,true,0,5,2,4.6,12,https://podcast.adobe.com
+"Otter.ai",ai-productivity,AI,true,0,40,4,4.2,12,https://otter.ai
+"Fireflies.ai",ai-productivity,AI,true,0,29,3,4.7,12,https://fireflies.ai
+"Mem AI",ai-productivity,AI,true,0,50,3,4.4,12,https://mem.ai
+"Beautiful.ai",ai-productivity,AI,false,12,40,3,4.4,12,https://beautiful.ai
+"Gamma",ai-productivity,AI,true,0,15,3,4.7,12,https://gamma.app
+"Tome",ai-productivity,AI,true,0,16,3,4.5,12,https://tome.app
+"Descript",ai-video,AI,true,0,35,3,4.6,12,https://descript.com
+"CapCut AI",ai-video,AI,true,0,20,3,4.6,12,https://capcut.com
+"vidIQ AI",ai-video,AI,true,0,39,3,4.5,12,https://vidiq.com
+"InVideo AI",ai-video,AI,true,0,48,3,4.5,12,https://invideo.io
+"Obviously AI",ai-productivity,AI,false,50,100,3,4.6,12,https://zams.com
+"DataRobot",ai-productivity,AI,true,0,,2,4.3,12,https://datarobot.com
+"Grok",llm,AI,true,0,16,2,4.3,8,https://x.ai/grok
+"DeepSeek",llm,AI,true,0,,2,4.5,8,https://www.deepseek.com
+"Meta AI",llm,AI,true,0,,1,4.2,8,https://www.meta.ai
+"Llama (Meta)",llm,AI,true,0,,2,4.6,8,https://www.llama.com
+"Gemini Advanced",llm,AI,false,19.99,19.99,1,4.5,8,https://gemini.google.com/advanced
+"GPT-4o",llm,AI,true,0,30,3,4.7,20,https://openai.com/gpt-4o
+"Claude 3.5 Sonnet",llm,AI,true,0,30,3,4.7,20,https://claude.ai
+"Gemini 1.5 Pro",llm,AI,true,0,20,2,4.5,20,https://gemini.google.com
+"DeepSeek V3",llm,AI,true,0,,2,4.4,20,https://deepseek.com
+"Llama 3.1",llm,AI,true,0,,2,4.3,20,https://www.llama.com
+"Mistral Large",llm,AI,true,0,,2,4.3,20,https://mistral.ai
+"Grok 2",llm,AI,true,0,16,3,4.2,20,https://x.ai/grok
+"OpenAI o1",llm,AI,false,20,200,2,4.6,20,https://openai.com/o1
+"Command R+",llm,AI,true,0,,2,4.3,20,https://cohere.com
+"Phi-3",llm,AI,true,0,,2,4,20,https://azure.microsoft.com/products/phi
+"AutoGPT",ai-agents,AI,true,0,,2,3.8,20,https://agpt.co
+"CrewAI",ai-agents,AI,true,0,,2,4.2,20,https://crewai.com
+"Devin",ai-agents,AI,false,20,80,3,4,20,https://devin.ai
+"OpenAI Agents SDK",ai-agents,AI,true,0,,2,4.4,20,https://openai.com/agents
+"Relevance AI",ai-agents,AI,true,0,199,3,4.5,20,https://relevanceai.com
+"Intercom Fin",ai-assistants,AI,false,39,99,2,4.5,20,https://intercom.com/fin
+"Tidio",ai-assistants,AI,true,0,59,3,4.7,20,https://tidio.com
+"Chatbase",ai-assistants,AI,true,0,300,4,4.4,20,https://chatbase.co
+"Botpress",ai-assistants,AI,true,0,89,2,4.6,20,https://botpress.com
+"Voiceflow",ai-assistants,AI,true,0,125,3,4.5,20,https://voiceflow.com
+"Windsurf",ai-coding,AI,true,0,40,4,4.6,20,https://codeium.com/windsurf
+"Surfer SEO",ai-writing,AI,false,99,182,3,4.8,20,https://surferseo.com
+"Flux",ai-image,AI,true,0,,2,4.5,20,https://blackforestlabs.ai
+"Sora",ai-video,AI,false,20,200,2,4.3,20,https://openai.com/sora
+"Speechify",ai-voice,AI,true,0,29,2,4.7,20,https://speechify.com
+"3Commas",crypto-trading-bots,Crypto,true,0,60,4,4.3,12,https://3commas.io
+"Cryptohopper",crypto-trading-bots,Crypto,true,0,129,4,4,12,https://www.cryptohopper.com
+"Pionex",crypto-trading-bots,Crypto,true,0,96,2,4.3,12,https://www.pionex.com
+"Bitsgap",crypto-trading-bots,Crypto,true,0,119,4,4.2,12,https://bitsgap.com
+"Cornix",crypto-trading-bots,Crypto,true,0,59,4,4.1,12,https://www.cornix.io
+"TradeSanta",crypto-trading-bots,Crypto,true,0,45,4,3.9,12,https://tradesanta.com
+"WunderTrading",crypto-trading-bots,Crypto,true,0,69,4,4,12,https://wundertrading.com
+"Altrady",crypto-trading-bots,Crypto,true,0,55,4,4.2,12,https://altrady.com
+"CoinGlass",crypto-analytics,Crypto,true,0,79,3,4.4,11,https://www.coinglass.com
+"Glassnode",crypto-analytics,Crypto,true,0,999,3,4.5,12,https://glassnode.com
+"Nansen",crypto-analytics,Crypto,false,150,500,3,4.5,12,https://www.nansen.ai
+"Santiment",crypto-analytics,Crypto,true,0,249,4,4,12,https://santiment.net
+"Messari",crypto-analytics,Crypto,true,0,,2,4.3,12,https://messari.io
+"Dune Analytics",crypto-analytics,Crypto,true,0,399,4,4.6,12,https://dune.com
+"Token Terminal",crypto-analytics,Crypto,true,0,350,3,4.2,12,https://tokenterminal.com
+"IntoTheBlock",crypto-analytics,Crypto,true,0,100,3,4,12,https://www.intotheblock.com
+"Koinly",crypto-tax,Crypto,true,0,199,4,4.3,12,https://koinly.io
+"CoinTracker",crypto-tax,Crypto,true,0,599,4,4.1,12,https://www.cointracker.io
+"TokenTax",crypto-tax,Crypto,false,49,3499,3,4,12,https://tokentax.co
+"ZenLedger",crypto-tax,Crypto,true,0,399,4,4,12,https://www.zenledger.io
+"CoinLedger",crypto-tax,Crypto,true,0,199,4,4.2,12,https://coinledger.io
+"Accointing (Blockpit)",crypto-tax,Crypto,true,0,199,4,4.1,12,https://www.blockpit.io
+"CoinStats",crypto-portfolio-trackers,Crypto,true,0,13.99,2,4.4,12,https://coinstats.app
+"Delta",crypto-portfolio-trackers,Crypto,true,0,8.99,2,4.2,12,https://delta.app
+"Zerion",crypto-portfolio-trackers,Crypto,true,0,14.99,2,4.5,12,https://zerion.io
+"DeBank",crypto-portfolio-trackers,Crypto,true,0,96,2,4.6,12,https://debank.com
+"CoinGecko",crypto-portfolio-trackers,Crypto,true,0,7.49,2,4.7,12,https://www.coingecko.com
+"1inch",defi-tools,Crypto,true,0,,1,4.3,11,https://1inch.io
+"Jupiter",defi-tools,Crypto,true,0,,1,4.6,12,https://jup.ag
+"ParaSwap",defi-tools,Crypto,true,0,,1,4,12,https://www.paraswap.io
+"Zapper",defi-tools,Crypto,true,0,,1,4.2,11,https://zapper.xyz
+"DefiLlama",defi-tools,Crypto,true,0,,1,4.7,12,https://defillama.com
+"Binance",crypto-exchanges,Crypto,true,0,,3,4.4,12,https://www.binance.com
+"Coinbase",crypto-exchanges,Crypto,true,0,29.99,3,4.1,12,https://www.coinbase.com
+"Kraken",crypto-exchanges,Crypto,true,0,,3,4.3,12,https://www.kraken.com
+"Bybit",crypto-exchanges,Crypto,true,0,,3,4.2,12,https://www.bybit.com
+"OKX",crypto-exchanges,Crypto,true,0,,3,4.1,12,https://www.okx.com
+"KuCoin",crypto-exchanges,Crypto,true,0,,3,4,12,https://www.kucoin.com
+"Gate.io",crypto-exchanges,Crypto,true,0,,3,3.9,12,https://www.gate.io
+"Bitget",crypto-exchanges,Crypto,true,0,,3,4.1,12,https://www.bitget.com
+"Maestro",crypto-telegram-bots,Crypto,true,0,,1,4.1,12,https://www.maestrobots.com
+"Banana Gun",crypto-telegram-bots,Crypto,true,0,,1,4.3,12,https://bananagun.io
+"BONKbot",crypto-telegram-bots,Crypto,true,0,,1,4,12,https://bonkbot.io
+"Trojan",crypto-telegram-bots,Crypto,true,0,,1,4.2,12,https://trojan.app
+"Photon",crypto-telegram-bots,Crypto,true,0,,2,4.4,12,https://photon-sol.tinyastro.io
+"BullX",crypto-telegram-bots,Crypto,true,0,,1,4.1,12,https://bullx.io
+"Bloom",crypto-telegram-bots,Crypto,true,0,,1,4.2,12,https://bloombot.app
+"PepeBoost",crypto-telegram-bots,Crypto,true,0,,1,4,12,https://pepeboost.io
+"MetaMask",crypto-wallets,Crypto,true,0,,1,4.3,12,https://metamask.io
+"Phantom",crypto-wallets,Crypto,true,0,,1,4.6,11,https://phantom.app
+"Trust Wallet",crypto-wallets,Crypto,true,0,,1,4.2,11,https://trustwallet.com
+"Ledger",crypto-wallets,Crypto,false,79,399,3,4.4,12,https://www.ledger.com
+"Trezor",crypto-wallets,Crypto,false,79,169,2,4.3,12,https://trezor.io
+"Exodus",crypto-wallets,Crypto,true,0,,1,4.3,12,https://www.exodus.com
+"Rabby Wallet",crypto-wallets,Crypto,true,0,,1,4.4,12,https://rabby.io
+"Coinbase Wallet",crypto-wallets,Crypto,true,0,,1,4.1,12,https://www.coinbase.com/wallet
+"Uniswap",dex,Crypto,true,0,1,5,,12,https://app.uniswap.org
+"PancakeSwap",dex,Crypto,true,0,1,5,,11,https://pancakeswap.finance
+"Raydium",dex,Crypto,true,0,1,5,,11,https://raydium.io
+"Orca",dex,Crypto,true,0,1,5,,11,https://www.orca.so
+"Curve Finance",dex,Crypto,true,0,0.04,4,,11,https://curve.fi
+"SushiSwap",dex,Crypto,true,0,1,5,,11,https://www.sushi.com
+"dYdX",dex,Crypto,true,0,0.1,3,,11,https://dydx.exchange
+"Trader Joe",dex,Crypto,true,0,0.5,5,,11,https://traderjoexyz.com
+"SafePal",crypto-wallets,Crypto,true,0,79.99,4,,12,https://www.safepal.com
+"Tangem",crypto-wallets,Crypto,false,54.99,69.99,2,,12,https://tangem.com
+"Keystone",crypto-wallets,Crypto,false,99,169,2,,12,https://keyst.one

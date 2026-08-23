@@ -1,0 +1,29 @@
+category_slug,category_name,product_count,avg_rating,free_tier_count,avg_feature_count,avg_entry_price,median_entry_price,free_tier_pct
+llm,Large Language Models,25,4.44,20,11.8,17.54,20.0,80.0
+cloud-hosting,Cloud Hosting,21,4.47,11,14.95,10.14,4.68,52.4
+project-management,Project Management,20,4.53,19,12.15,10.94,9.0,95.0
+email-marketing,Email Marketing,20,4.45,14,13.75,19.75,15.5,70.0
+website-builders,Website Builders,19,4.43,13,12.16,18.63,15.0,68.4
+video-conferencing,Video Conferencing,19,4.51,15,9.89,22.52,15.5,78.9
+design-tools,Design Tools,18,4.56,11,9.22,16.56,12.0,61.1
+crm,CRM,18,4.43,7,12.11,36.83,20.0,38.9
+accounting,Accounting,15,4.35,6,11.2,32.12,19.0,40.0
+ai-productivity,AI Productivity,13,4.5,10,8.38,20.42,16.49,76.9
+ai-image,AI Image Generators,13,4.53,9,7.77,27.92,10.0,69.2
+ai-writing,AI Writing,12,4.59,7,8.17,111.33,16.0,58.3
+crypto-wallets,Crypto Wallets,11,4.31,7,10.82,68.4,79.0,63.6
+ai-coding,AI Coding,10,4.51,10,8.6,19.4,20.0,100.0
+ai-video,AI Video,9,4.53,8,8.67,17.11,19.0,88.9
+crypto-analytics,Crypto Analytics,8,4.31,7,5.38,153.71,100.0,87.5
+crypto-exchanges,Crypto Exchanges,8,4.12,8,9.0,29.99,29.99,100.0
+ai-agents,AI Agents,8,4.32,7,13.75,18.6,19.99,87.5
+crypto-telegram-bots,Crypto Telegram Bots,8,4.16,8,8.75,,,100.0
+crypto-trading-bots,Crypto Trading Bots,8,4.12,8,8.5,29.75,19.0,100.0
+dex,DEX,8,,8,11.12,,,100.0
+ai-assistants,AI Assistants,7,4.46,6,9.71,38.43,39.0,85.7
+ai-voice,AI Voice & Audio,7,4.6,7,6.86,16.57,10.0,100.0
+crypto-tax,Crypto Tax,6,4.15,5,7.17,50.67,49.0,83.3
+password-managers,Password Managers,5,4.58,4,12.2,2.79,2.99,80.0
+crypto-portfolio-trackers,Crypto Portfolio Trackers,5,4.48,5,8.4,28.29,13.99,100.0
+vpn,VPN,5,4.53,1,11.4,4.49,4.29,20.0
+defi-tools,DeFi Tools,5,4.36,5,7.2,,,100.0

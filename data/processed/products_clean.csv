@@ -1,0 +1,332 @@
+product_id,name,category_slug,category_name,overall_rating,g2_rating,capterra_rating,review_count,founded_year,hq_location,has_free_tier,has_free_trial,has_custom_pricing,price_comparable,entry_price,max_price_monthly,plan_count,feature_count,website_url,comparedge_url
+67,10Web,website-builders,Website Builders,4.55,4.6,4.5,0,2017,"Yerevan, Armenia / Wilmington, DE",False,False,False,True,10.0,60.0,3,9,https://10web.io,https://comparedge.com/tools/10web
+157,1Password,password-managers,Password Managers,4.75,4.8,4.7,0,2006,,False,False,False,True,2.99,7.99,3,14,https://1password.com,https://comparedge.com/tools/1password
+292,1inch,defi-tools,DeFi Tools,4.3,4.3,,0,2019,Cayman Islands,True,False,False,True,,0.0,1,10,https://1inch.io,https://comparedge.com/tools/1inch
+265,3Commas,crypto-trading-bots,Crypto Trading Bots,4.25,4.3,4.2,0,2017,"Tallinn, Estonia",True,False,False,True,15.0,60.0,4,12,https://3commas.io,https://comparedge.com/tools/3commas
+87,A2 Hosting,cloud-hosting,Cloud Hosting,4.35,4.3,4.4,0,2003,"Ann Arbor, MI",False,False,False,True,2.99,14.99,4,9,https://www.a2hosting.com,https://comparedge.com/tools/a2-hosting
+196,AI21 Studio,ai-writing,AI Writing,4.35,4.4,4.3,0,2017,,True,False,True,True,39.0,39.0,3,6,https://studio.ai21.com,https://comparedge.com/tools/ai21-labs
+43,AWeber,email-marketing,Email Marketing,4.3,4.2,4.4,0,1998,"Chalfont, PA",True,False,False,True,14.99,899.0,4,12,https://www.aweber.com,https://comparedge.com/tools/aweber
+286,Accointing (Blockpit),crypto-tax,Crypto Tax,4.1,4.1,,0,2017,"Vienna, Austria",True,False,False,True,49.0,199.0,4,6,https://www.blockpit.io,https://comparedge.com/tools/accointing
+39,ActiveCampaign,email-marketing,Email Marketing,4.55,4.5,4.6,0,2003,"Chicago, IL",False,False,False,True,15.0,145.0,4,17,https://www.activecampaign.com,https://comparedge.com/tools/activecampaign
+170,Adobe Firefly,ai-image,AI Image Generators,4.45,4.4,4.5,0,2023,,True,False,False,True,5.0,5.0,2,5,https://firefly.adobe.com,https://comparedge.com/tools/adobe-firefly
+98,Adobe Illustrator,design-tools,Design Tools,4.65,4.6,4.7,0,1987,"San Jose, CA (Adobe)",False,False,False,True,22.99,59.99,2,6,https://www.adobe.com/products/illustrator.html,https://comparedge.com/tools/adobe-illustrator
+99,Adobe Photoshop,design-tools,Design Tools,4.7,4.6,4.8,0,1990,"San Jose, CA (Adobe)",False,False,False,True,9.99,59.99,3,8,https://www.adobe.com/products/photoshop.html,https://comparedge.com/tools/adobe-photoshop
+222,Adobe Podcast (Enhance),ai-voice,AI Voice & Audio,4.6,4.6,4.6,0,2022,,True,False,False,True,5.0,5.0,2,4,https://podcast.adobe.com,https://comparedge.com/tools/adobe-podcast
+93,Adobe XD,design-tools,Design Tools,4.4,4.3,4.5,0,2016,"San Jose, CA (Adobe)",False,False,False,True,59.99,59.99,1,14,https://www.adobe.com/products/xd.html,https://comparedge.com/tools/adobe-xd
+97,Affinity Designer,design-tools,Design Tools,4.6,4.5,4.7,0,2014,"Nottingham, UK (Canva)",False,False,False,True,14.99,169.99,3,6,https://affinity.serif.com/en-us/designer/,https://comparedge.com/tools/affinity-designer
+14,Airtable,project-management,Project Management,4.65,4.6,4.7,0,2012,"San Francisco, CA",True,False,True,True,20.0,45.0,4,13,https://airtable.com,https://comparedge.com/tools/airtable
+118,Akaunting,accounting,Accounting,4.3,4.2,4.4,0,2017,"London, UK",True,False,False,True,15.0,15.0,2,13,https://akaunting.com,https://comparedge.com/tools/money-manager
+272,Altrady,crypto-trading-bots,Crypto Trading Bots,4.2,4.2,,0,2018,"Amsterdam, Netherlands",True,False,False,True,19.0,55.0,4,9,https://altrady.com,https://comparedge.com/tools/altrady
+71,Amazon Web Services (AWS),cloud-hosting,Cloud Hosting,4.55,4.5,4.6,0,2006,"Seattle, WA",True,False,True,True,,0.0,2,19,https://aws.amazon.com,https://comparedge.com/tools/aws
+212,Anthropic API (Claude),llm,Large Language Models,4.65,4.7,4.6,0,2021,,False,False,True,True,,0.0,2,9,https://anthropic.com/api,https://comparedge.com/tools/claude-api
+129,Around,video-conferencing,Video Conferencing,4.35,4.4,4.3,0,2020,"San Francisco, CA (Miro)",True,False,False,True,,0.0,1,4,https://www.around.co,https://comparedge.com/tools/around
+3,Asana,project-management,Project Management,4.45,4.4,4.5,0,2008,"San Francisco, CA",True,False,True,True,10.99,24.99,4,15,https://asana.com,https://comparedge.com/tools/asana
+36,Attio,crm,CRM,4.75,4.8,4.7,0,2019,"London, UK",True,False,True,True,34.0,69.0,4,11,https://attio.com,https://comparedge.com/tools/attio
+250,AutoGPT,ai-agents,AI Agents,3.75,3.8,3.7,0,2023,,True,False,False,True,,0.0,2,18,https://agpt.co,https://comparedge.com/tools/autogpt
+307,BONKbot,crypto-telegram-bots,Crypto Telegram Bots,4.0,4.0,,0,2023,Unknown,True,False,False,True,,0.0,1,4,https://bonkbot.io,https://comparedge.com/tools/bonkbot
+306,Banana Gun,crypto-telegram-bots,Crypto Telegram Bots,4.3,4.3,,0,2023,Unknown,True,False,False,True,,0.0,1,9,https://bananagun.io,https://comparedge.com/tools/banana-gun
+7,Basecamp,project-management,Project Management,4.2,4.1,4.3,0,2004,"Chicago, IL",True,False,False,True,15.0,299.0,3,9,https://basecamp.com,https://comparedge.com/tools/basecamp
+226,Beautiful.ai,ai-productivity,AI Productivity,4.45,4.4,4.5,0,2016,,False,False,True,True,12.0,40.0,3,10,https://beautiful.ai,https://comparedge.com/tools/beautiful-ai
+114,Bench,accounting,Accounting,4.45,4.5,4.4,0,2012,"Vancouver, Canada",False,False,False,True,189.0,339.0,2,7,https://bench.co,https://comparedge.com/tools/bench
+297,Binance,crypto-exchanges,Crypto Exchanges,4.35,4.4,4.3,0,2017,Cayman Islands,True,False,True,True,,0.0,3,11,https://www.binance.com,https://comparedge.com/tools/binance
+304,Bitget,crypto-exchanges,Crypto Exchanges,4.1,4.1,,0,2018,Seychelles,True,False,True,True,,0.0,3,7,https://www.bitget.com,https://comparedge.com/tools/bitget
+268,Bitsgap,crypto-trading-bots,Crypto Trading Bots,4.2,4.2,,0,2018,"Tallinn, Estonia",True,False,False,True,23.0,119.0,4,8,https://bitsgap.com,https://comparedge.com/tools/bitsgap
+158,Bitwarden,password-managers,Password Managers,4.75,4.7,4.8,0,2016,,True,False,False,True,1.0,4.0,3,9,https://bitwarden.com,https://comparedge.com/tools/bitwarden
+311,Bloom,crypto-telegram-bots,Crypto Telegram Bots,4.2,4.2,,0,2023,Unknown,True,False,False,True,,0.0,1,14,https://bloombot.app,https://comparedge.com/tools/bloom
+88,Bluehost,cloud-hosting,Cloud Hosting,4.0,3.7,4.3,0,2003,"Burlington, MA (Newfold Digital)",False,False,False,True,2.95,9.95,4,16,https://www.bluehost.com,https://comparedge.com/tools/bluehost
+206,Bolt.new,ai-coding,AI Coding,4.55,4.6,4.5,0,2024,,True,False,False,True,25.0,30.0,3,8,https://bolt.new,https://comparedge.com/tools/bolt-new
+116,Bonsai,accounting,Accounting,4.4,4.3,4.5,0,2016,"San Francisco, CA",False,False,False,True,9.0,29.0,3,10,https://www.hellobonsai.com,https://comparedge.com/tools/bonsai
+258,Botpress,ai-assistants,AI Assistants,4.55,4.6,4.5,0,2016,,True,False,False,True,89.0,89.0,2,13,https://botpress.com,https://comparedge.com/tools/botpress-io
+40,Brevo (Sendinblue),email-marketing,Email Marketing,4.5,4.5,4.5,0,2012,"Paris, France",False,False,True,True,9.0,49.0,4,17,https://www.brevo.com,https://comparedge.com/tools/brevo
+310,BullX,crypto-telegram-bots,Crypto Telegram Bots,4.1,4.1,,0,2024,Unknown,True,False,False,True,,0.0,1,9,https://bullx.io,https://comparedge.com/tools/bullx
+136,Butter,video-conferencing,Video Conferencing,4.65,4.7,4.6,0,2021,"Berlin, Germany",True,False,True,True,25.0,25.0,3,8,https://butter.us,https://comparedge.com/tools/butter-video
+53,Buttondown,email-marketing,Email Marketing,4.7,4.6,4.8,0,2017,"Seattle, WA",True,False,False,True,9.0,79.0,4,6,https://buttondown.com,https://comparedge.com/tools/buttondown
+300,Bybit,crypto-exchanges,Crypto Exchanges,4.2,4.2,,0,2018,"Dubai, UAE",True,False,True,True,,0.0,3,7,https://www.bybit.com,https://comparedge.com/tools/bybit
+135,Cal.com (Cal Video),video-conferencing,Video Conferencing,4.65,4.7,4.6,0,2021,"San Francisco, CA",True,False,True,True,12.0,12.0,3,9,https://cal.com,https://comparedge.com/tools/cal-video
+50,Campaign Monitor,email-marketing,Email Marketing,4.3,4.1,4.5,0,2004,"Nashville, TN (Marigold)",False,False,False,True,12.0,159.0,3,15,https://www.campaignmonitor.com,https://comparedge.com/tools/campaign-monitor
+92,Canva,design-tools,Design Tools,4.7,4.7,4.7,0,2012,"Sydney, Australia",True,False,True,True,10.0,15.0,4,12,https://www.canva.com,https://comparedge.com/tools/canva
+197,Canva AI,ai-image,AI Image Generators,4.7,4.7,4.7,0,2013,,True,False,False,True,10.0,15.0,3,11,https://canva.com/ai-image-generator,https://comparedge.com/tools/canva-ai
+230,CapCut AI,ai-video,AI Video,4.65,4.6,4.7,0,2020,,True,False,False,True,10.0,20.0,3,6,https://capcut.com,https://comparedge.com/tools/capcut-ai
+35,Capsule CRM,crm,CRM,4.6,4.7,4.5,0,2009,"Manchester, UK",True,False,False,True,21.0,75.0,5,12,https://capsulecrm.com,https://comparedge.com/tools/capsule
+60,Carrd,website-builders,Website Builders,4.55,4.5,4.6,0,2016,Remote,True,False,False,True,9.0,49.0,4,8,https://carrd.co,https://comparedge.com/tools/carrd
+211,Character.AI,ai-assistants,AI Assistants,4.25,4.3,4.2,0,2021,,True,False,False,True,10.0,10.0,2,5,https://character.ai,https://comparedge.com/tools/character-ai
+151,ChatGPT,llm,Large Language Models,4.65,4.7,4.6,0,2022,,True,False,False,True,20.0,30.0,3,7,https://chatgpt.com,https://comparedge.com/tools/chatgpt
+257,Chatbase,ai-assistants,AI Assistants,4.35,4.4,4.3,0,2023,,True,False,False,True,32.0,300.0,4,7,https://chatbase.co,https://comparedge.com/tools/chatbase-io
+152,Claude,llm,Large Language Models,4.55,4.6,4.5,0,2023,,True,False,False,True,20.0,20.0,2,10,https://claude.ai,https://comparedge.com/tools/claude
+241,Claude 3.5 Sonnet,llm,Large Language Models,4.6,4.7,4.5,0,2024,,True,False,False,True,20.0,30.0,3,16,https://claude.ai,https://comparedge.com/tools/claude-3-5-sonnet
+145,ClickFunnels,website-builders,Website Builders,4.25,4.0,4.5,0,2014,"Eagle, ID",False,False,False,True,81.0,248.0,2,13,https://www.clickfunnels.com,https://comparedge.com/tools/clickfunnels
+2,ClickUp,project-management,Project Management,4.65,4.7,4.6,0,2017,"San Diego, CA",True,False,True,True,7.0,12.0,4,17,https://clickup.com,https://comparedge.com/tools/clickup
+26,Close,crm,CRM,4.7,4.7,4.7,0,2013,"San Francisco, CA",False,False,False,True,49.0,139.0,3,10,https://close.com,https://comparedge.com/tools/close
+72,Cloudways,cloud-hosting,Cloud Hosting,4.6,4.5,4.7,0,2011,"Dubai, UAE (DigitalOcean)",False,False,False,True,14.0,54.0,4,20,https://www.cloudways.com,https://comparedge.com/tools/cloudways
+17,Coda,project-management,Project Management,4.65,4.7,4.6,0,2014,"Mountain View, CA",True,False,True,True,10.0,30.0,4,14,https://coda.io,https://comparedge.com/tools/coda
+178,Codeium,ai-coding,AI Coding,4.55,4.6,4.5,0,2022,,True,False,True,True,20.0,40.0,4,5,https://windsurf.com,https://comparedge.com/tools/codeium
+215,Cohere,llm,Large Language Models,4.45,4.5,4.4,0,2019,,True,False,True,True,,0.0,3,8,https://cohere.com,https://comparedge.com/tools/cohere
+291,CoinGecko,crypto-portfolio-trackers,Crypto Portfolio Trackers,4.7,4.7,,0,2014,"Kuala Lumpur, Malaysia",True,False,False,True,7.49,7.49,2,5,https://www.coingecko.com,https://comparedge.com/tools/coingecko-portfolio
+273,CoinGlass,crypto-analytics,Crypto Analytics,4.4,4.4,,0,2020,Unknown,True,False,False,True,29.0,79.0,3,2,https://www.coinglass.com,https://comparedge.com/tools/coinglass
+285,CoinLedger,crypto-tax,Crypto Tax,4.25,4.2,4.3,0,2018,"Indianapolis, USA",True,False,False,True,49.0,199.0,4,4,https://coinledger.io,https://comparedge.com/tools/coinledger
+287,CoinStats,crypto-portfolio-trackers,Crypto Portfolio Trackers,4.4,4.4,,0,2017,"Yerevan, Armenia",True,False,False,True,13.99,13.99,2,12,https://coinstats.app,https://comparedge.com/tools/coinstats
+282,CoinTracker,crypto-tax,Crypto Tax,4.15,4.1,4.2,0,2017,"San Francisco, USA",True,False,False,True,59.0,599.0,4,7,https://www.cointracker.io,https://comparedge.com/tools/cointracker
+298,Coinbase,crypto-exchanges,Crypto Exchanges,4.05,4.1,4.0,0,2012,"San Francisco, USA",True,False,False,True,29.99,29.99,3,10,https://www.coinbase.com,https://comparedge.com/tools/coinbase
+320,Coinbase Wallet,crypto-wallets,Crypto Wallets,4.1,4.1,,0,2018,"San Francisco, USA",True,False,False,True,,0.0,1,12,https://www.coinbase.com/wallet,https://comparedge.com/tools/coinbase-wallet
+248,Command R+,llm,Large Language Models,4.25,4.3,4.2,0,2024,,True,False,False,True,,0.0,2,15,https://cohere.com,https://comparedge.com/tools/command-r-plus
+218,Consensus,ai-productivity,AI Productivity,4.55,4.6,4.5,0,2022,,True,False,True,True,10.0,10.0,3,6,https://consensus.app,https://comparedge.com/tools/consensus-ai
+45,Constant Contact,email-marketing,Email Marketing,4.15,4.0,4.3,0,1995,"Waltham, MA",False,False,False,True,12.0,80.0,3,15,https://www.constantcontact.com,https://comparedge.com/tools/constant-contact
+27,Copper,crm,CRM,4.45,4.5,4.4,0,2013,"San Francisco, CA",False,False,False,True,12.0,134.0,4,9,https://www.copper.com,https://comparedge.com/tools/copper
+155,Copy.ai,ai-writing,AI Writing,4.6,4.7,4.5,0,2020,,False,False,True,True,1000.0,3000.0,4,10,https://www.copy.ai,https://comparedge.com/tools/copy-ai
+195,Copysmith,ai-writing,AI Writing,4.35,4.4,4.3,0,2020,,False,False,True,True,19.0,49.0,3,11,https://copysmith.ai,https://comparedge.com/tools/copy-smith
+150,CorelDRAW,design-tools,Design Tools,4.4,4.3,4.5,0,1989,"Ottawa, Canada",False,False,False,True,33.5,779.0,3,4,https://www.coreldraw.com,https://comparedge.com/tools/coreldraw
+269,Cornix,crypto-trading-bots,Crypto Trading Bots,4.1,4.1,,0,2019,Israel,True,False,False,True,19.0,59.0,4,6,https://www.cornix.io,https://comparedge.com/tools/cornix
+251,CrewAI,ai-agents,AI Agents,4.15,4.2,4.1,0,2024,,True,False,False,True,,0.0,2,17,https://crewai.com,https://comparedge.com/tools/crewai
+266,Cryptohopper,crypto-trading-bots,Crypto Trading Bots,4.0,4.0,,0,2017,"Amsterdam, Netherlands",True,False,False,True,29.0,129.0,4,7,https://www.cryptohopper.com,https://comparedge.com/tools/cryptohopper
+177,Cursor,ai-coding,AI Coding,4.75,4.7,4.8,0,2023,,True,False,False,True,20.0,40.0,3,12,https://cursor.com,https://comparedge.com/tools/cursor
+325,Curve Finance,dex,DEX,,,,0,2020,Decentralized,True,False,False,False,0.04,0.04,4,11,https://curve.fi,https://comparedge.com/tools/curve-finance
+166,CyberGhost,vpn,VPN,4.4,4.3,4.5,0,2011,,False,False,False,True,4.29,12.99,2,10,https://www.cyberghostvpn.com,https://comparedge.com/tools/cyberghost
+168,DALL-E 3,ai-image,AI Image Generators,4.45,4.5,4.4,0,2023,,False,False,False,True,20.0,20.0,1,4,https://openai.com/dall-e-3,https://comparedge.com/tools/dalle
+133,Daily,video-conferencing,Video Conferencing,4.7,4.7,4.7,0,2016,"San Francisco, CA",True,False,True,True,,0.0,3,12,https://www.daily.co,https://comparedge.com/tools/dailyco
+160,Dashlane,password-managers,Password Managers,4.5,4.5,4.5,0,2012,,True,False,False,True,4.99,8.0,3,10,https://www.dashlane.com,https://comparedge.com/tools/dashlane
+234,DataRobot,ai-productivity,AI Productivity,4.3,4.3,4.3,0,2012,,True,False,True,True,,0.0,2,11,https://datarobot.com,https://comparedge.com/tools/datarobot
+290,DeBank,crypto-portfolio-trackers,Crypto Portfolio Trackers,4.6,4.6,,0,2018,Unknown,True,False,False,True,96.0,96.0,2,8,https://debank.com,https://comparedge.com/tools/debank
+236,DeepSeek,llm,Large Language Models,4.55,4.5,4.6,0,2023,,True,False,True,True,,0.0,2,6,https://www.deepseek.com,https://comparedge.com/tools/deepseek
+243,DeepSeek V3,llm,Large Language Models,4.35,4.4,4.3,0,2024,,True,False,False,True,,0.0,2,18,https://deepseek.com,https://comparedge.com/tools/deepseek-v3
+296,DefiLlama,defi-tools,DeFi Tools,4.7,4.7,,0,2020,Decentralized,True,False,False,True,,0.0,1,5,https://defillama.com,https://comparedge.com/tools/defillama
+288,Delta,crypto-portfolio-trackers,Crypto Portfolio Trackers,4.2,4.2,,0,2017,Belgium,True,False,False,True,8.99,8.99,2,8,https://delta.app,https://comparedge.com/tools/delta-app
+148,Demio,video-conferencing,Video Conferencing,4.55,4.4,4.7,0,2016,"Scottsdale, AZ",False,False,False,True,45.0,196.0,3,8,https://demio.com,https://comparedge.com/tools/demio
+229,Descript,ai-video,AI Video,4.65,4.6,4.7,0,2017,,True,False,False,True,19.0,35.0,3,9,https://descript.com,https://comparedge.com/tools/descript
+252,Devin,ai-agents,AI Agents,3.95,4.0,3.9,0,2024,,False,False,True,True,20.0,80.0,3,13,https://devin.ai,https://comparedge.com/tools/devin-ai
+137,Dialpad,video-conferencing,Video Conferencing,4.35,4.4,4.3,0,2012,"San Francisco, CA",False,False,True,True,27.0,35.0,3,9,https://www.dialpad.com,https://comparedge.com/tools/dialpad
+73,DigitalOcean,cloud-hosting,Cloud Hosting,4.6,4.5,4.7,0,2011,"New York, NY",True,False,False,True,4.0,8.0,4,18,https://www.digitalocean.com,https://comparedge.com/tools/digitalocean
+42,Drip,email-marketing,Email Marketing,4.4,4.4,4.4,0,2013,"Minneapolis, MN",False,False,False,True,39.0,39.0,1,12,https://www.drip.com,https://comparedge.com/tools/drip
+64,Duda,website-builders,Website Builders,4.6,4.6,4.6,0,2010,"Palo Alto, CA",False,False,False,True,25.0,199.0,4,15,https://www.duda.co,https://comparedge.com/tools/duda
+278,Dune Analytics,crypto-analytics,Crypto Analytics,4.6,4.6,,0,2018,"Oslo, Norway",True,False,True,True,349.0,399.0,4,8,https://dune.com,https://comparedge.com/tools/dune-analytics
+179,ElevenLabs,ai-voice,AI Voice & Audio,4.75,4.7,4.8,0,2022,,True,False,False,True,6.0,99.0,4,9,https://elevenlabs.io,https://comparedge.com/tools/elevenlabs
+219,Elicit,ai-productivity,AI Productivity,4.5,4.5,4.5,0,2021,,True,False,True,True,49.0,49.0,3,9,https://elicit.com,https://comparedge.com/tools/elicit
+318,Exodus,crypto-wallets,Crypto Wallets,4.3,4.3,,0,2015,"Omaha, USA",True,False,False,True,,0.0,1,11,https://www.exodus.com,https://comparedge.com/tools/exodus-wallet
+163,ExpressVPN,vpn,VPN,4.65,4.7,4.6,0,2009,,False,False,False,True,6.67,12.95,3,13,https://www.expressvpn.com,https://comparedge.com/tools/expressvpn
+91,Figma,design-tools,Design Tools,4.7,4.7,4.7,0,2012,"San Francisco, CA",True,False,False,True,16.0,90.0,4,15,https://www.figma.com,https://comparedge.com/tools/figma
+224,Fireflies.ai,ai-productivity,AI Productivity,4.7,4.7,4.7,0,2019,,True,False,False,True,18.0,29.0,3,11,https://fireflies.ai,https://comparedge.com/tools/fireflies-ai
+52,Flodesk,email-marketing,Email Marketing,4.1,4.0,4.2,0,2019,"Los Angeles, CA",True,False,False,True,25.0,64.0,4,10,https://flodesk.com,https://comparedge.com/tools/flodesk
+262,Flux,ai-image,AI Image Generators,4.45,4.5,4.4,0,2024,,True,False,False,True,,0.0,2,14,https://blackforestlabs.ai,https://comparedge.com/tools/flux-ai
+79,Fly.io,cloud-hosting,Cloud Hosting,4.4,4.3,4.5,0,2017,"Chicago, IL",True,False,True,True,29.0,29.0,3,15,https://fly.io,https://comparedge.com/tools/flyio
+34,Folk,crm,CRM,4.65,4.7,4.6,0,2020,"Paris, France",False,False,True,True,24.0,48.0,3,11,https://www.folk.app,https://comparedge.com/tools/folk
+59,Framer,website-builders,Website Builders,4.5,4.5,4.5,0,2014,"Amsterdam, Netherlands",True,False,True,True,5.0,30.0,5,6,https://www.framer.com,https://comparedge.com/tools/framer
+103,Framer,design-tools,Design Tools,4.5,4.5,4.5,0,2014,"Amsterdam, Netherlands",True,False,False,True,5.0,30.0,4,20,https://www.framer.com,https://comparedge.com/tools/framer-design
+115,FreeAgent,accounting,Accounting,4.3,4.2,4.4,0,2007,"Edinburgh, UK (NatWest Group)",False,False,False,True,19.0,19.0,1,10,https://www.freeagent.com,https://comparedge.com/tools/freeagent
+109,FreshBooks,accounting,Accounting,4.5,4.5,4.5,0,2003,"Toronto, Canada",False,False,True,True,23.0,76.0,4,14,https://www.freshbooks.com,https://comparedge.com/tools/freshbooks
+25,Freshsales,crm,CRM,4.5,4.5,4.5,0,2010,"San Mateo, CA (Freshworks)",True,False,False,True,11.0,71.0,4,12,https://www.freshworks.com/crm/sales/,https://comparedge.com/tools/freshsales
+149,GIMP,design-tools,Design Tools,4.35,4.3,4.4,0,1996,Open Source Community,True,False,False,True,,0.0,1,6,https://www.gimp.org,https://comparedge.com/tools/gimp
+240,GPT-4o,llm,Large Language Models,4.65,4.7,4.6,0,2024,,True,False,False,True,20.0,30.0,3,19,https://openai.com/gpt-4o,https://comparedge.com/tools/gpt-4o
+227,Gamma,ai-productivity,AI Productivity,4.7,4.7,4.7,0,2020,,True,False,False,True,8.0,15.0,3,10,https://gamma.app,https://comparedge.com/tools/gamma-app
+303,Gate.io,crypto-exchanges,Crypto Exchanges,3.9,3.9,,0,2013,Cayman Islands,True,False,True,True,,0.0,3,9,https://www.gate.io,https://comparedge.com/tools/gate-io
+242,Gemini 1.5 Pro,llm,Large Language Models,4.45,4.5,4.4,0,2024,,True,False,False,True,20.0,20.0,2,19,https://gemini.google.com,https://comparedge.com/tools/gemini-1-5-pro
+239,Gemini Advanced,llm,Large Language Models,4.5,4.5,4.5,0,2024,,False,False,False,True,19.99,19.99,1,11,https://gemini.google.com/advanced,https://comparedge.com/tools/gemini-advanced
+44,GetResponse,email-marketing,Email Marketing,4.2,4.2,4.2,0,1998,"Gdańsk, Poland",True,False,True,True,19.0,119.0,5,16,https://www.getresponse.com,https://comparedge.com/tools/getresponse
+61,Ghost,website-builders,Website Builders,4.35,4.1,4.6,0,2013,Singapore,False,False,True,True,15.0,199.0,4,14,https://ghost.org,https://comparedge.com/tools/ghost
+176,GitHub Copilot,ai-coding,AI Coding,4.55,4.5,4.6,0,2021,,True,False,True,True,10.0,39.0,5,6,https://github.com/features/copilot,https://comparedge.com/tools/github-copilot
+274,Glassnode,crypto-analytics,Crypto Analytics,4.5,4.5,,0,2018,"Zug, Switzerland",True,False,False,True,49.0,999.0,3,8,https://glassnode.com,https://comparedge.com/tools/glassnode
+128,GoTo Meeting,video-conferencing,Video Conferencing,4.3,4.2,4.4,0,2004,"Boston, MA",False,False,False,True,12.0,16.0,2,12,https://www.goto.com/meeting,https://comparedge.com/tools/goto-meeting
+213,Google AI Studio,llm,Large Language Models,4.45,4.5,4.4,0,2023,,True,False,False,True,,0.0,2,6,https://aistudio.google.com,https://comparedge.com/tools/google-ai-studio
+85,Google Cloud Platform,cloud-hosting,Cloud Hosting,4.55,4.5,4.6,0,2008,"Mountain View, CA",True,False,True,True,,0.0,2,17,https://cloud.google.com,https://comparedge.com/tools/google-cloud
+153,Google Gemini,llm,Large Language Models,4.25,4.3,4.2,0,2023,,True,False,False,True,20.0,20.0,2,13,https://gemini.google.com,https://comparedge.com/tools/gemini
+123,Google Meet,video-conferencing,Video Conferencing,4.55,4.6,4.5,0,2017,"Mountain View, CA (Google)",True,False,False,True,7.2,21.6,4,8,https://meet.google.com,https://comparedge.com/tools/google-meet
+156,Grammarly,ai-writing,AI Writing,4.7,4.7,4.7,0,2009,,True,False,True,True,12.0,12.0,3,9,https://www.grammarly.com,https://comparedge.com/tools/grammarly
+235,Grok,llm,Large Language Models,4.35,4.3,4.4,0,2023,,True,False,False,True,16.0,16.0,2,12,https://x.ai/grok,https://comparedge.com/tools/grok
+246,Grok 2,llm,Large Language Models,4.15,4.2,4.1,0,2024,,True,False,False,True,8.0,16.0,3,15,https://x.ai/grok,https://comparedge.com/tools/grok-2
+117,Harvest,accounting,Accounting,4.45,4.3,4.6,0,2006,"New York, NY",True,False,False,True,10.8,10.8,2,9,https://www.getharvest.com,https://comparedge.com/tools/harvest
+11,Height,project-management,Project Management,4.75,4.8,4.7,0,2019,"San Francisco, CA",True,False,False,True,8.5,15.0,3,7,https://height.app,https://comparedge.com/tools/height
+82,Hetzner,cloud-hosting,Cloud Hosting,4.65,4.6,4.7,0,1997,"Gunzenhausen, Germany",False,False,False,True,4.35,44.0,4,7,https://www.hetzner.com,https://comparedge.com/tools/hetzner
+173,HeyGen,ai-video,AI Video,4.75,4.8,4.7,0,2020,,True,False,False,True,29.0,99.0,3,8,https://heygen.com,https://comparedge.com/tools/heygen
+12,Hive,project-management,Project Management,4.55,4.6,4.5,0,2015,"New York, NY",True,False,True,True,5.0,12.0,4,16,https://hive.com,https://comparedge.com/tools/hive
+142,HostGator,cloud-hosting,Cloud Hosting,3.8,3.5,4.1,0,2002,"Houston, TX (Newfold Digital)",False,False,False,True,3.75,6.25,3,11,https://www.hostgator.com,https://comparedge.com/tools/hostgator
+74,Hostinger,cloud-hosting,Cloud Hosting,4.55,4.5,4.6,0,2004,"Kaunas, Lithuania",False,False,False,True,2.99,9.99,3,5,https://www.hostinger.com,https://comparedge.com/tools/hostinger
+22,HubSpot,crm,CRM,4.45,4.4,4.5,0,2006,"Cambridge, MA",True,False,False,True,20.0,3600.0,4,17,https://www.hubspot.com,https://comparedge.com/tools/hubspot
+143,HubSpot CMS,website-builders,Website Builders,4.5,4.5,4.5,0,2006,"Cambridge, MA (HubSpot)",True,False,False,True,20.0,1500.0,4,16,https://www.hubspot.com/products/cms,https://comparedge.com/tools/hubspot-cms
+186,Hugging Face,llm,Large Language Models,4.55,4.6,4.5,0,2016,,True,False,False,True,9.0,20.0,3,11,https://huggingface.co,https://comparedge.com/tools/hugging-face
+120,Hurdlr,accounting,Accounting,4.2,4.1,4.3,0,2015,"Silver Spring, MD",True,False,False,True,10.0,16.67,3,4,https://www.hurdlr.com,https://comparedge.com/tools/hurdlr
+198,Ideogram,ai-image,AI Image Generators,4.45,4.5,4.4,0,2023,,True,False,False,True,8.0,20.0,3,6,https://ideogram.ai,https://comparedge.com/tools/ideogram
+232,InVideo AI,ai-video,AI Video,4.55,4.5,4.6,0,2017,,True,False,False,True,20.0,48.0,3,11,https://invideo.io,https://comparedge.com/tools/invideo-ai
+95,InVision,design-tools,Design Tools,4.45,4.4,4.5,0,2011,"New York, NY",True,False,False,True,,0.0,1,5,https://www.invisionapp.com,https://comparedge.com/tools/invision
+28,Insightly,crm,CRM,4.1,4.2,4.0,0,2009,"San Francisco, CA",True,False,False,True,29.0,99.0,4,11,https://www.insightly.com,https://comparedge.com/tools/insightly
+255,Intercom Fin,ai-assistants,AI Assistants,4.45,4.5,4.4,0,2023,,False,False,False,True,39.0,99.0,2,9,https://intercom.com/fin,https://comparedge.com/tools/intercom-fin
+280,IntoTheBlock,crypto-analytics,Crypto Analytics,4.0,4.0,,0,2018,"Miami, USA",True,False,True,True,100.0,100.0,3,6,https://www.intotheblock.com,https://comparedge.com/tools/intotheblock
+154,Jasper,ai-writing,AI Writing,4.75,4.7,4.8,0,2021,,False,False,True,True,39.0,59.0,3,11,https://www.jasper.ai,https://comparedge.com/tools/jasper
+6,Jira,project-management,Project Management,4.4,4.3,4.5,0,2002,"Sydney, Australia (Atlassian)",True,False,True,True,7.91,14.54,4,12,https://www.atlassian.com/software/jira,https://comparedge.com/tools/jira
+131,Jitsi Meet,video-conferencing,Video Conferencing,4.4,4.3,4.5,0,2003,"Open source (8x8 Inc, San Jose, CA)",True,False,True,True,,0.0,3,8,https://jitsi.org,https://comparedge.com/tools/jitsi
+293,Jupiter,defi-tools,DeFi Tools,4.6,4.6,,0,2021,Unknown,True,False,False,True,,0.0,1,7,https://jup.ag,https://comparedge.com/tools/jupiter-aggregator
+113,Kashoo,accounting,Accounting,4.2,4.1,4.3,0,2008,"Vancouver, Canada",False,False,False,True,30.0,30.0,1,9,https://www.kashoo.com,https://comparedge.com/tools/kashoo
+29,Keap,crm,CRM,4.15,4.2,4.1,0,2001,"Chandler, AZ",False,False,False,True,299.0,599.0,3,13,https://keap.com,https://comparedge.com/tools/keap
+331,Keystone,crypto-wallets,Crypto Wallets,,,,0,2018,"Shenzhen, China",False,False,False,True,99.0,169.0,2,8,https://keyst.one,https://comparedge.com/tools/keystone
+76,Kinsta,cloud-hosting,Cloud Hosting,4.75,4.8,4.7,0,2013,"Los Angeles, CA",False,False,False,True,35.0,675.0,4,20,https://kinsta.com,https://comparedge.com/tools/kinsta
+38,Kit (ConvertKit),email-marketing,Email Marketing,4.55,4.4,4.7,0,2013,"Boise, ID",True,False,False,True,33.0,66.0,3,14,https://kit.com,https://comparedge.com/tools/kit
+41,Klaviyo,email-marketing,Email Marketing,4.65,4.6,4.7,0,2012,"Boston, MA",True,False,False,True,20.0,35.0,3,14,https://www.klaviyo.com,https://comparedge.com/tools/klaviyo
+199,Kling AI,ai-image,AI Image Generators,4.55,4.6,4.5,0,2023,,True,False,False,True,10.0,35.0,3,5,https://kling.ai,https://comparedge.com/tools/kling-ai
+281,Koinly,crypto-tax,Crypto Tax,4.35,4.3,4.4,0,2018,"London, UK",True,False,False,True,49.0,199.0,4,9,https://koinly.io,https://comparedge.com/tools/koinly
+299,Kraken,crypto-exchanges,Crypto Exchanges,4.25,4.3,4.2,0,2011,"San Francisco, USA",True,False,False,True,,0.0,3,11,https://www.kraken.com,https://comparedge.com/tools/kraken
+302,KuCoin,crypto-exchanges,Crypto Exchanges,4.0,4.0,,0,2017,Seychelles,True,False,True,True,,0.0,3,9,https://www.kucoin.com,https://comparedge.com/tools/kucoin
+159,LastPass,password-managers,Password Managers,4.5,4.4,4.6,0,2008,,True,False,False,True,3.0,4.0,3,14,https://www.lastpass.com,https://comparedge.com/tools/lastpass
+316,Ledger,crypto-wallets,Crypto Wallets,4.35,4.4,4.3,0,2014,"Paris, France",False,False,False,True,79.0,399.0,3,13,https://www.ledger.com,https://comparedge.com/tools/ledger
+171,Leonardo AI,ai-image,AI Image Generators,4.55,4.5,4.6,0,2022,,True,False,False,True,12.0,30.0,3,7,https://leonardo.ai,https://comparedge.com/tools/leonardo-ai
+32,Less Annoying CRM,crm,CRM,4.85,4.9,4.8,0,2009,"St. Louis, MO",False,False,False,True,15.0,15.0,1,7,https://www.lessannoyingcrm.com,https://comparedge.com/tools/less-annoying-crm
+10,Linear,project-management,Project Management,4.65,4.6,4.7,0,2019,"San Francisco, CA",True,False,True,True,10.0,16.0,4,8,https://linear.app,https://comparedge.com/tools/linear
+84,Linode (Akamai Cloud),cloud-hosting,Cloud Hosting,4.4,4.3,4.5,0,2003,"Philadelphia, PA (Akamai)",True,False,False,True,5.0,24.0,4,20,https://www.linode.com,https://comparedge.com/tools/linode
+130,Livestorm,video-conferencing,Video Conferencing,4.5,4.3,4.7,0,2016,"Paris, France",True,False,True,True,99.0,99.0,4,12,https://livestorm.co,https://comparedge.com/tools/livestorm
+238,Llama (Meta),llm,Large Language Models,4.65,4.6,4.7,0,2023,,True,False,True,True,,0.0,2,6,https://www.llama.com,https://comparedge.com/tools/llama
+244,Llama 3.1,llm,Large Language Models,4.25,4.3,4.2,0,2024,,True,False,False,True,,0.0,2,14,https://www.llama.com,https://comparedge.com/tools/llama-3-1
+126,Loom,video-conferencing,Video Conferencing,4.7,4.7,4.7,0,2016,"San Francisco, CA (Atlassian)",True,False,True,True,18.0,24.0,4,8,https://www.loom.com,https://comparedge.com/tools/loom
+54,Loops,email-marketing,Email Marketing,4.8,4.8,4.8,0,2022,"San Francisco, CA",True,False,False,True,49.0,599.0,4,12,https://loops.so,https://comparedge.com/tools/loops
+200,Luma AI (Dream Machine),ai-image,AI Image Generators,4.45,4.5,4.4,0,2021,,True,False,False,True,30.0,100.0,3,11,https://lumalabs.ai,https://comparedge.com/tools/luma-ai
+202,Luminar Neo,ai-image,AI Image Generators,4.55,4.5,4.6,0,2008,,False,False,False,True,9.0,99.0,3,6,https://skylum.com/luminar-neo,https://comparedge.com/tools/luminar-ai
+100,Lunacy,design-tools,Design Tools,4.6,4.5,4.7,0,2017,"Mountain View, CA (Icons8)",True,False,False,True,14.99,14.99,2,17,https://icons8.com/lunacy,https://comparedge.com/tools/lunacy
+305,Maestro,crypto-telegram-bots,Crypto Telegram Bots,4.1,4.1,,0,2022,Unknown,True,False,False,True,,0.0,1,11,https://www.maestrobots.com,https://comparedge.com/tools/maestro-bot
+37,Mailchimp,email-marketing,Email Marketing,4.45,4.4,4.5,0,2001,"Atlanta, GA (Intuit)",True,False,False,True,13.0,350.0,4,16,https://mailchimp.com,https://comparedge.com/tools/mailchimp
+46,MailerLite,email-marketing,Email Marketing,4.7,4.7,4.7,0,2010,"Vilnius, Lithuania",True,False,True,True,10.0,20.0,4,13,https://www.mailerlite.com,https://comparedge.com/tools/mailerlite
+146,Mailjet,email-marketing,Email Marketing,4.15,4.0,4.3,0,2010,"Paris, France (Sinch)",True,False,True,True,17.0,27.0,4,14,https://www.mailjet.com,https://comparedge.com/tools/mailjet
+183,Make (Integromat),ai-agents,AI Agents,4.75,4.7,4.8,0,2012,,True,False,False,True,10.0,18.0,3,13,https://make.com,https://comparedge.com/tools/make-ai
+119,Manager.io,accounting,Accounting,4.3,4.3,4.3,0,2010,"Auckland, New Zealand",True,False,False,True,50.0,100.0,3,16,https://www.manager.io,https://comparedge.com/tools/manager-io
+225,Mem AI,ai-productivity,AI Productivity,4.35,4.4,4.3,0,2020,,True,False,False,True,20.0,50.0,3,2,https://mem.ai,https://comparedge.com/tools/notion-ai-standalone
+277,Messari,crypto-analytics,Crypto Analytics,4.3,4.3,,0,2018,"New York, USA",True,False,True,True,,0.0,2,4,https://messari.io,https://comparedge.com/tools/messari
+237,Meta AI,llm,Large Language Models,4.25,4.2,4.3,0,2023,,True,False,False,True,,0.0,1,9,https://www.meta.ai,https://comparedge.com/tools/meta-ai
+313,MetaMask,crypto-wallets,Crypto Wallets,4.3,4.3,,0,2016,ConsenSys (USA),True,False,False,True,,0.0,1,12,https://metamask.io,https://comparedge.com/tools/metamask
+86,Microsoft Azure,cloud-hosting,Cloud Hosting,4.45,4.4,4.5,0,2010,"Redmond, WA",True,False,True,True,,0.0,2,20,https://azure.microsoft.com,https://comparedge.com/tools/azure
+214,Microsoft Copilot,ai-assistants,AI Assistants,4.45,4.5,4.4,0,2023,,True,False,False,True,20.0,30.0,3,12,https://copilot.microsoft.com,https://comparedge.com/tools/microsoft-copilot
+124,Microsoft Teams,video-conferencing,Video Conferencing,4.4,4.3,4.5,0,2017,"Redmond, WA (Microsoft)",True,False,False,True,4.0,12.5,4,17,https://www.microsoft.com/microsoft-teams,https://comparedge.com/tools/microsoft-teams
+167,Midjourney,ai-image,AI Image Generators,4.45,4.4,4.5,0,2022,,False,False,False,True,10.0,60.0,3,5,https://midjourney.com,https://comparedge.com/tools/midjourney
+16,Miro,project-management,Project Management,4.75,4.8,4.7,0,2011,"San Francisco, CA / Amsterdam",True,False,True,True,8.0,20.0,4,13,https://miro.com,https://comparedge.com/tools/miro
+105,Miro,design-tools,Design Tools,4.75,4.8,4.7,0,2011,"San Francisco, CA / Amsterdam",True,False,True,True,10.0,20.0,4,7,https://miro.com,https://comparedge.com/tools/miro-design
+216,Mistral AI,llm,Large Language Models,4.45,4.5,4.4,0,2023,,False,False,True,True,,0.0,3,10,https://mistral.ai,https://comparedge.com/tools/mistral-ai
+245,Mistral Large,llm,Large Language Models,4.25,4.3,4.2,0,2024,,True,False,False,True,,0.0,2,15,https://mistral.ai,https://comparedge.com/tools/mistral-large
+49,Moosend,email-marketing,Email Marketing,4.6,4.6,4.6,0,2011,"London, UK (Sitecore)",False,False,True,True,9.0,9.0,2,15,https://moosend.com,https://comparedge.com/tools/moosend
+180,Murf AI,ai-voice,AI Voice & Audio,4.65,4.7,4.6,0,2020,,True,False,True,True,19.0,66.0,4,8,https://murf.ai,https://comparedge.com/tools/murf-ai
+89,Namecheap,cloud-hosting,Cloud Hosting,4.5,4.4,4.6,0,2000,"Phoenix, AZ",False,False,False,True,1.98,4.98,3,14,https://www.namecheap.com,https://comparedge.com/tools/namecheap
+275,Nansen,crypto-analytics,Crypto Analytics,4.5,4.5,,0,2020,Singapore,False,False,True,True,150.0,500.0,3,5,https://www.nansen.ai,https://comparedge.com/tools/nansen
+78,Netlify,cloud-hosting,Cloud Hosting,4.55,4.5,4.6,0,2014,"San Francisco, CA",True,False,True,True,19.0,19.0,3,15,https://www.netlify.com,https://comparedge.com/tools/netlify
+19,Nifty,project-management,Project Management,4.7,4.7,4.7,0,2017,"New York, NY",True,False,False,True,39.0,399.0,4,14,https://niftypm.com,https://comparedge.com/tools/niftypm
+161,NordPass,password-managers,Password Managers,4.4,4.4,4.4,0,2019,,True,False,False,True,1.99,4.99,3,14,https://nordpass.com,https://comparedge.com/tools/nordpass
+162,NordVPN,vpn,VPN,4.65,4.7,4.6,0,2012,,False,False,False,True,3.99,6.99,3,11,https://nordvpn.com,https://comparedge.com/tools/nordvpn
+1,Notion,project-management,Project Management,4.7,4.7,4.7,0,2016,"San Francisco, CA",True,False,True,True,12.0,18.0,4,12,https://www.notion.com,https://comparedge.com/tools/notion
+189,Notion AI,ai-productivity,AI Productivity,4.55,4.6,4.5,0,2023,,False,False,False,True,10.0,10.0,1,11,https://notion.so/product/ai,https://comparedge.com/tools/notion-ai
+31,Nutshell,crm,CRM,4.3,4.3,4.3,0,2010,"Ann Arbor, MI",False,False,False,True,19.0,89.0,5,11,https://www.nutshell.com,https://comparedge.com/tools/nutshell
+301,OKX,crypto-exchanges,Crypto Exchanges,4.1,4.1,,0,2017,Seychelles,True,False,True,True,,0.0,3,8,https://www.okx.com,https://comparedge.com/tools/okx
+233,Obviously AI,ai-productivity,AI Productivity,4.65,4.6,4.7,0,2019,,False,False,True,True,50.0,100.0,3,5,https://zams.com,https://comparedge.com/tools/obviously-ai
+48,Omnisend,email-marketing,Email Marketing,4.65,4.6,4.7,0,2014,"London, UK / Vilnius, Lithuania",True,False,False,True,16.0,59.0,3,14,https://www.omnisend.com,https://comparedge.com/tools/omnisend
+185,OpenAI API,llm,Large Language Models,4.75,4.7,4.8,0,2020,,False,False,False,True,,0.0,1,7,https://platform.openai.com,https://comparedge.com/tools/openai-api
+253,OpenAI Agents SDK,ai-agents,AI Agents,4.35,4.4,4.3,0,2025,,True,False,False,True,,0.0,2,18,https://openai.com/agents,https://comparedge.com/tools/openai-agents-sdk
+247,OpenAI o1,llm,Large Language Models,4.55,4.6,4.5,0,2024,,False,False,False,True,20.0,200.0,2,15,https://openai.com/o1,https://comparedge.com/tools/openai-o1
+324,Orca,dex,DEX,,,,0,2021,Decentralized,True,False,False,False,0.01,1.0,5,11,https://www.orca.so,https://comparedge.com/tools/orca
+223,Otter.ai,ai-productivity,AI Productivity,4.35,4.2,4.5,0,2016,,True,False,True,True,16.99,40.0,4,9,https://otter.ai,https://comparedge.com/tools/otter-ai
+322,PancakeSwap,dex,DEX,,,,0,2020,Decentralized,True,False,False,False,0.01,1.0,5,11,https://pancakeswap.finance,https://comparedge.com/tools/pancakeswap
+294,ParaSwap,defi-tools,DeFi Tools,4.0,4.0,,0,2020,"Paris, France",True,False,False,True,,0.0,1,8,https://www.paraswap.io,https://comparedge.com/tools/paraswap
+121,Patriot Software,accounting,Accounting,4.7,4.6,4.8,0,2002,"Canton, OH",False,False,False,True,17.0,37.0,4,11,https://www.patriotsoftware.com,https://comparedge.com/tools/patriot
+96,Penpot,design-tools,Design Tools,4.35,4.3,4.4,0,2019,"Madrid, Spain",True,False,True,True,,0.0,3,9,https://penpot.app,https://comparedge.com/tools/penpot
+312,PepeBoost,crypto-telegram-bots,Crypto Telegram Bots,4.0,4.0,,0,2024,Unknown,True,False,False,True,,0.0,1,10,https://pepeboost.io,https://comparedge.com/tools/pepeboost
+184,Perplexity AI,ai-productivity,AI Productivity,4.55,4.6,4.5,0,2022,,True,False,False,True,20.0,20.0,2,7,https://perplexity.ai,https://comparedge.com/tools/perplexity
+314,Phantom,crypto-wallets,Crypto Wallets,4.6,4.6,,0,2021,"San Francisco, USA",True,False,False,True,,0.0,1,9,https://phantom.app,https://comparedge.com/tools/phantom-wallet
+249,Phi-3,llm,Large Language Models,4.0,4.0,4.0,0,2024,,True,False,False,True,,0.0,2,16,https://azure.microsoft.com/products/phi,https://comparedge.com/tools/phi-3-medium
+209,Phind,ai-coding,AI Coding,4.45,4.5,4.4,0,2022,,True,False,False,True,17.0,17.0,2,7,https://phind.com,https://comparedge.com/tools/phind
+309,Photon,crypto-telegram-bots,Crypto Telegram Bots,4.4,4.4,,0,2024,Unknown,True,False,False,True,,0.0,2,6,https://photon-sol.tinyastro.io,https://comparedge.com/tools/photon-sol
+175,Pika,ai-video,AI Video,4.35,4.4,4.3,0,2023,,True,False,False,True,8.0,76.0,4,4,https://pika.art,https://comparedge.com/tools/pika
+267,Pionex,crypto-trading-bots,Crypto Trading Bots,4.3,4.3,,0,2019,Singapore,True,False,False,True,96.0,96.0,2,7,https://www.pionex.com,https://comparedge.com/tools/pionex
+23,Pipedrive,crm,CRM,4.4,4.3,4.5,0,2010,"Tallinn, Estonia",False,False,False,True,14.0,99.0,5,10,https://www.pipedrive.com,https://comparedge.com/tools/pipedrive
+102,Pixlr,design-tools,Design Tools,4.4,4.3,4.5,0,2008,"Cyberjaya, Malaysia (123RF)",True,False,False,True,1.99,12.99,4,4,https://pixlr.com,https://comparedge.com/tools/pixlr
+181,Play.ht,ai-voice,AI Voice & Audio,4.45,4.5,4.4,0,2019,,True,False,False,True,39.0,99.0,3,7,https://play.ht,https://comparedge.com/tools/playht
+194,ProWritingAid,ai-writing,AI Writing,4.55,4.5,4.6,0,2012,,True,False,False,True,10.0,12.0,3,4,https://prowritingaid.com,https://comparedge.com/tools/prowritingaid
+101,Procreate,design-tools,Design Tools,4.7,4.6,4.8,0,2011,"Hobart, Australia",False,False,False,True,12.99,19.99,2,5,https://procreate.com,https://comparedge.com/tools/procreate
+165,ProtonVPN,vpn,VPN,4.55,4.5,4.6,0,2017,,True,False,False,True,4.99,4.99,2,10,https://protonvpn.com,https://comparedge.com/tools/protonvpn
+107,QuickBooks Online,accounting,Accounting,4.15,4.0,4.3,0,1983,"Mountain View, CA (Intuit)",False,False,False,True,38.0,275.0,4,16,https://quickbooks.intuit.com,https://comparedge.com/tools/quickbooks
+192,QuillBot,ai-writing,AI Writing,4.65,4.6,4.7,0,2017,,True,False,False,True,13.0,13.0,2,8,https://quillbot.com,https://comparedge.com/tools/quillbot
+319,Rabby Wallet,crypto-wallets,Crypto Wallets,4.4,4.4,,0,2022,Unknown (DeBank),True,False,False,True,,0.0,1,13,https://rabby.io,https://comparedge.com/tools/rabby-wallet
+80,Railway,cloud-hosting,Cloud Hosting,4.65,4.6,4.7,0,2020,"San Francisco, CA",True,False,True,True,5.0,20.0,4,13,https://railway.app,https://comparedge.com/tools/railway
+323,Raydium,dex,DEX,,,,0,2021,Decentralized,True,False,False,False,0.01,1.0,5,11,https://raydium.io,https://comparedge.com/tools/raydium
+254,Relevance AI,ai-agents,AI Agents,4.45,4.5,4.4,0,2023,,True,False,False,True,19.0,199.0,3,15,https://relevanceai.com,https://comparedge.com/tools/relevance-ai
+203,Remove.bg,ai-image,AI Image Generators,4.75,4.7,4.8,0,2017,,True,False,False,True,2.0,9.0,3,11,https://remove.bg,https://comparedge.com/tools/remove-bg
+81,Render,cloud-hosting,Cloud Hosting,4.45,4.4,4.5,0,2018,"San Francisco, CA",True,False,True,True,7.0,19.0,4,16,https://render.com,https://comparedge.com/tools/render
+187,Replicate,llm,Large Language Models,4.45,4.5,4.4,0,2021,,True,False,False,True,,0.0,1,8,https://replicate.com,https://comparedge.com/tools/replicate
+205,Replit AI,ai-coding,AI Coding,4.35,4.4,4.3,0,2016,,True,False,False,True,20.0,40.0,3,10,https://replit.com/ai,https://comparedge.com/tools/replit-ai
+139,RingCentral,video-conferencing,Video Conferencing,4.2,4.1,4.3,0,1999,"Belmont, CA",False,False,False,True,30.0,45.0,3,10,https://www.ringcentral.com,https://comparedge.com/tools/ringcentral
+132,Riverside.fm,video-conferencing,Video Conferencing,4.75,4.8,4.7,0,2019,"New York, NY",True,False,True,True,19.0,29.0,4,10,https://riverside.com,https://comparedge.com/tools/riverside
+174,Runway,ai-video,AI Video,4.45,4.5,4.4,0,2018,,True,False,False,True,12.0,76.0,4,13,https://runwayml.com,https://comparedge.com/tools/runway
+190,Rytr,ai-writing,AI Writing,4.6,4.7,4.5,0,2021,,True,False,False,True,9.0,29.0,3,7,https://rytr.me,https://comparedge.com/tools/rytr
+329,SafePal,crypto-wallets,Crypto Wallets,,,,0,2018,Hong Kong,True,False,False,True,29.99,79.99,4,14,https://www.safepal.com,https://comparedge.com/tools/safepal
+112,Sage Business Cloud Accounting,accounting,Accounting,4.1,4.1,4.1,0,1981,"Newcastle, UK",False,False,True,True,10.0,25.0,3,13,https://www.sage.com/en-us/accounting-software/,https://comparedge.com/tools/sage
+21,Salesforce,crm,CRM,4.4,4.4,4.4,0,1999,"San Francisco, CA",False,False,False,True,25.0,330.0,4,18,https://www.salesforce.com,https://comparedge.com/tools/salesforce
+276,Santiment,crypto-analytics,Crypto Analytics,4.0,4.0,,0,2016,"Zug, Switzerland",True,False,True,True,49.0,249.0,4,5,https://santiment.net,https://comparedge.com/tools/santiment
+51,Sender,email-marketing,Email Marketing,4.5,4.4,4.6,0,2012,"Vilnius, Lithuania",True,False,True,True,10.0,35.0,4,16,https://www.sender.net,https://comparedge.com/tools/sender
+62,Shopify,website-builders,Website Builders,4.45,4.4,4.5,0,2006,"Ottawa, Canada",False,False,False,True,39.0,2300.0,4,15,https://www.shopify.com,https://comparedge.com/tools/shopify
+18,Shortcut (formerly Clubhouse),project-management,Project Management,4.4,4.3,4.5,0,2016,"New York, NY",True,False,True,True,8.5,12.0,4,9,https://shortcut.com,https://comparedge.com/tools/shortcut
+75,SiteGround,cloud-hosting,Cloud Hosting,4.5,4.4,4.6,0,2004,"Sofia, Bulgaria",False,False,False,True,2.99,7.99,3,9,https://www.siteground.com,https://comparedge.com/tools/siteground
+94,Sketch,design-tools,Design Tools,4.55,4.5,4.6,0,2010,"The Hague, Netherlands",False,False,False,True,12.0,44.0,3,12,https://www.sketch.com,https://comparedge.com/tools/sketch
+138,Slack,video-conferencing,Video Conferencing,4.6,4.5,4.7,0,2013,"San Francisco, CA (Salesforce)",True,False,True,True,8.75,15.0,4,9,https://slack.com,https://comparedge.com/tools/slack-huddles
+13,Smartsheet,project-management,Project Management,4.5,4.5,4.5,0,2005,"Bellevue, WA",False,False,True,True,9.0,19.0,3,18,https://www.smartsheet.com,https://comparedge.com/tools/smartsheet
+263,Sora,ai-video,AI Video,4.25,4.3,4.2,0,2024,,False,False,False,True,20.0,200.0,2,8,https://openai.com/sora,https://comparedge.com/tools/sora-openai
+264,Speechify,ai-voice,AI Voice & Audio,4.75,4.7,4.8,0,2017,,True,False,False,True,29.0,29.0,2,12,https://speechify.com,https://comparedge.com/tools/speechify-voice
+104,Spline,design-tools,Design Tools,4.55,4.5,4.6,0,2020,Remote,True,False,False,True,12.0,20.0,3,9,https://spline.design,https://comparedge.com/tools/spline
+57,Squarespace,website-builders,Website Builders,4.5,4.4,4.6,0,2003,"New York, NY",False,False,False,True,16.0,65.0,4,15,https://www.squarespace.com,https://comparedge.com/tools/squarespace
+169,Stable Diffusion,ai-image,AI Image Generators,4.35,4.3,4.4,0,2022,,True,False,False,True,20.0,20.0,2,9,https://stability.ai,https://comparedge.com/tools/stable-diffusion
+30,Streak,crm,CRM,4.5,4.5,4.5,0,2012,"San Francisco, CA",True,False,False,True,15.0,129.0,5,12,https://www.streak.com,https://comparedge.com/tools/streak
+66,Strikingly,website-builders,Website Builders,4.2,4.1,4.3,0,2012,"San Francisco, CA",True,False,False,True,12.0,49.0,4,12,https://www.strikingly.com,https://comparedge.com/tools/strikingly
+193,Sudowrite,ai-writing,AI Writing,4.45,4.5,4.4,0,2020,,False,False,False,True,10.0,44.0,3,6,https://sudowrite.com,https://comparedge.com/tools/sudowrite
+140,SugarCRM,crm,CRM,3.8,3.8,3.8,0,2004,"Cupertino, CA",False,False,False,True,19.0,135.0,4,15,https://www.sugarcrm.com,https://comparedge.com/tools/sugarcrm
+220,Suno,ai-voice,AI Voice & Audio,4.55,4.6,4.5,0,2022,,True,False,False,True,8.0,24.0,3,3,https://suno.com,https://comparedge.com/tools/suno
+68,Super,website-builders,Website Builders,4.5,4.5,4.5,0,2020,Remote,True,False,False,True,16.0,50.0,4,8,https://super.so,https://comparedge.com/tools/super-so
+261,Surfer SEO,ai-writing,AI Writing,4.85,4.8,4.9,0,2017,,False,False,True,True,99.0,182.0,3,12,https://surferseo.com,https://comparedge.com/tools/surfer-seo
+164,Surfshark,vpn,VPN,4.4,4.5,4.3,0,2018,,False,False,False,True,2.49,5.99,3,13,https://surfshark.com,https://comparedge.com/tools/surfshark
+326,SushiSwap,dex,DEX,,,,0,2020,Decentralized,True,False,False,False,0.01,1.0,5,11,https://www.sushi.com,https://comparedge.com/tools/sushiswap
+172,Synthesia,ai-video,AI Video,4.7,4.7,4.7,0,2017,,True,False,True,True,29.0,89.0,4,13,https://synthesia.io,https://comparedge.com/tools/synthesia
+204,Tabnine,ai-coding,AI Coding,4.15,4.1,4.2,0,2017,,True,False,False,True,12.0,39.0,3,10,https://tabnine.com,https://comparedge.com/tools/tabnine
+330,Tangem,crypto-wallets,Crypto Wallets,,,,0,2017,"Zug, Switzerland",False,False,False,True,54.99,69.99,2,12,https://tangem.com,https://comparedge.com/tools/tangem
+9,Teamwork,project-management,Project Management,4.45,4.4,4.5,0,2007,"Cork, Ireland",True,False,False,True,13.99,69.99,4,10,https://www.teamwork.com,https://comparedge.com/tools/teamwork
+256,Tidio,ai-assistants,AI Assistants,4.7,4.7,4.7,0,2019,,True,False,False,True,39.0,59.0,3,10,https://tidio.com,https://comparedge.com/tools/tidio-ai
+144,Tilda,website-builders,Website Builders,4.6,4.6,4.6,0,2014,"Berlin, Germany",True,False,False,True,25.0,45.0,3,12,https://tilda.cc,https://comparedge.com/tools/tilda
+15,Todoist,project-management,Project Management,4.5,4.4,4.6,0,2007,Remote (founded in Brazil),True,False,False,True,5.0,8.0,3,8,https://todoist.com,https://comparedge.com/tools/todoist
+279,Token Terminal,crypto-analytics,Crypto Analytics,4.2,4.2,,0,2020,"Helsinki, Finland",True,False,True,True,350.0,350.0,3,5,https://tokenterminal.com,https://comparedge.com/tools/token-terminal
+283,TokenTax,crypto-tax,Crypto Tax,4.0,4.0,,0,2017,"New York, USA",False,False,False,True,49.0,3499.0,3,9,https://tokentax.co,https://comparedge.com/tools/tokentax
+228,Tome,ai-productivity,AI Productivity,4.45,4.5,4.4,0,2021,,True,False,True,True,16.0,16.0,3,9,https://tome.app,https://comparedge.com/tools/tome-app
+201,Topaz Labs AI,ai-image,AI Image Generators,4.75,4.7,4.8,0,2013,,False,False,False,True,199.0,399.0,3,7,https://topazlabs.com,https://comparedge.com/tools/topaz-ai
+270,TradeSanta,crypto-trading-bots,Crypto Trading Bots,3.9,3.9,,0,2018,Unknown,True,False,False,True,18.0,45.0,4,8,https://tradesanta.com,https://comparedge.com/tools/tradesanta
+328,Trader Joe,dex,DEX,,,,0,2021,Decentralized,True,False,False,False,0.1,0.5,5,11,https://traderjoexyz.com,https://comparedge.com/tools/trader-joe
+5,Trello,project-management,Project Management,4.45,4.4,4.5,0,2011,"New York, NY (Atlassian)",True,False,False,True,5.0,17.5,4,10,https://trello.com,https://comparedge.com/tools/trello
+317,Trezor,crypto-wallets,Crypto Wallets,4.25,4.3,4.2,0,2013,"Prague, Czech Republic",False,False,False,True,79.0,169.0,2,6,https://trezor.io,https://comparedge.com/tools/trezor
+308,Trojan,crypto-telegram-bots,Crypto Telegram Bots,4.2,4.2,,0,2024,Unknown,True,False,False,True,,0.0,1,7,https://trojan.app,https://comparedge.com/tools/trojan-bot
+315,Trust Wallet,crypto-wallets,Crypto Wallets,4.2,4.2,,0,2017,Binance (Global),True,False,False,True,,0.0,1,9,https://trustwallet.com,https://comparedge.com/tools/trust-wallet
+147,Twilio SendGrid,email-marketing,Email Marketing,4.1,4.0,4.2,0,2009,"Denver, CO (Twilio)",True,False,True,True,19.95,89.95,4,15,https://sendgrid.com,https://comparedge.com/tools/sendgrid
+69,Typedream,website-builders,Website Builders,4.45,4.4,4.5,0,2021,"San Francisco, CA",True,False,False,True,15.0,49.0,4,10,https://typedream.com,https://comparedge.com/tools/typedream
+221,Udio,ai-voice,AI Voice & Audio,4.45,4.5,4.4,0,2023,,True,False,False,True,10.0,30.0,3,5,https://udio.com,https://comparedge.com/tools/udio
+70,Unicorn Platform,website-builders,Website Builders,4.75,4.7,4.8,0,2019,Remote,True,False,False,True,14.0,49.0,3,7,https://unicornplatform.com,https://comparedge.com/tools/unicorn-platform
+321,Uniswap,dex,DEX,,,,0,2018,"New York, USA",True,False,False,False,0.01,1.0,5,12,https://app.uniswap.org,https://comparedge.com/tools/uniswap
+77,Vercel,cloud-hosting,Cloud Hosting,4.6,4.5,4.7,0,2015,"San Francisco, CA",True,False,True,True,20.0,20.0,3,15,https://vercel.com,https://comparedge.com/tools/vercel
+259,Voiceflow,ai-assistants,AI Assistants,4.45,4.5,4.4,0,2019,,True,False,False,True,40.0,125.0,3,12,https://voiceflow.com,https://comparedge.com/tools/voiceflow-io
+134,Vowel,video-conferencing,Video Conferencing,4.5,4.5,4.5,0,2020,"San Francisco, CA",True,False,True,True,16.49,16.49,3,9,https://www.vowel.com,https://comparedge.com/tools/vowel
+83,Vultr,cloud-hosting,Cloud Hosting,4.45,4.4,4.5,0,2014,"Matawan, NJ",True,False,False,True,2.5,120.0,4,17,https://www.vultr.com,https://comparedge.com/tools/vultr
+90,WP Engine,cloud-hosting,Cloud Hosting,4.45,4.4,4.5,0,2010,"Austin, TX",False,False,False,True,20.0,193.0,4,18,https://wpengine.com,https://comparedge.com/tools/wpengine
+110,Wave,accounting,Accounting,4.4,4.4,4.4,0,2010,"Toronto, Canada (H&R Block)",True,False,False,True,16.0,149.0,4,11,https://www.waveapps.com,https://comparedge.com/tools/wave
+127,Webex by Cisco,video-conferencing,Video Conferencing,4.35,4.3,4.4,0,1995,"San Jose, CA (Cisco)",True,False,True,True,14.5,25.0,4,19,https://www.webex.com,https://comparedge.com/tools/webex
+58,Webflow,website-builders,Website Builders,4.5,4.4,4.6,0,2013,"San Francisco, CA",True,False,True,True,14.0,39.0,5,16,https://webflow.com,https://comparedge.com/tools/webflow
+65,Webnode,website-builders,Website Builders,3.95,3.9,4.0,0,2008,"Brno, Czech Republic",True,False,False,True,3.9,22.9,5,12,https://www.webnode.com,https://comparedge.com/tools/webnode
+63,Weebly,website-builders,Website Builders,4.25,4.2,4.3,0,2007,"San Francisco, CA (Square)",True,False,False,True,13.0,29.0,4,12,https://www.weebly.com,https://comparedge.com/tools/weebly
+125,Whereby,video-conferencing,Video Conferencing,4.55,4.6,4.5,0,2013,"Oslo, Norway",True,False,False,True,8.99,11.99,3,3,https://whereby.com,https://comparedge.com/tools/whereby
+106,Whimsical,design-tools,Design Tools,4.65,4.6,4.7,0,2017,"San Francisco, CA",True,False,False,True,12.0,20.0,3,7,https://whimsical.com,https://comparedge.com/tools/whimsical
+260,Windsurf,ai-coding,AI Coding,4.55,4.6,4.5,0,2024,,True,False,True,True,20.0,40.0,4,17,https://codeium.com/windsurf,https://comparedge.com/tools/windsurf-editor
+208,Windsurf (Codeium),ai-coding,AI Coding,4.65,4.7,4.6,0,2022,,True,False,True,True,20.0,40.0,4,5,https://codeium.com/windsurf,https://comparedge.com/tools/windsurf
+56,Wix,website-builders,Website Builders,4.3,4.2,4.4,0,2006,"Tel Aviv, Israel",True,False,False,True,17.0,159.0,5,15,https://www.wix.com,https://comparedge.com/tools/wix
+55,WordPress.com,website-builders,Website Builders,4.5,4.4,4.6,0,2003,"San Francisco, CA (Automattic)",True,False,False,True,4.0,45.0,5,16,https://wordpress.com,https://comparedge.com/tools/wordpress
+191,Wordtune,ai-writing,AI Writing,4.55,4.6,4.5,0,2018,,True,False,False,True,6.99,9.99,3,5,https://wordtune.com,https://comparedge.com/tools/wordtune
+8,Wrike,project-management,Project Management,4.25,4.2,4.3,0,2006,"San Jose, CA",True,False,True,True,10.0,25.0,4,13,https://www.wrike.com,https://comparedge.com/tools/wrike
+188,Writesonic,ai-writing,AI Writing,4.7,4.7,4.7,0,2020,,True,False,False,True,79.0,199.0,3,9,https://writesonic.com,https://comparedge.com/tools/writesonic
+271,WunderTrading,crypto-trading-bots,Crypto Trading Bots,4.0,4.0,,0,2019,"Tallinn, Estonia",True,False,False,True,19.0,69.0,4,11,https://wundertrading.com,https://comparedge.com/tools/wundertrading
+108,Xero,accounting,Accounting,4.35,4.3,4.4,0,2006,"Wellington, New Zealand",False,False,False,True,25.0,90.0,3,13,https://www.xero.com,https://comparedge.com/tools/xero
+217,You.com,ai-productivity,AI Productivity,4.35,4.4,4.3,0,2020,,True,False,False,True,15.0,15.0,2,9,https://you.com,https://comparedge.com/tools/you-com
+210,Zapier AI,ai-agents,AI Agents,4.5,4.5,4.5,0,2011,,True,False,True,True,19.99,69.0,4,5,https://zapier.com/ai,https://comparedge.com/tools/zapier-ai
+295,Zapper,defi-tools,DeFi Tools,4.2,4.2,,0,2020,"Montreal, Canada",True,False,False,True,,0.0,1,6,https://zapper.xyz,https://comparedge.com/tools/zapper
+284,ZenLedger,crypto-tax,Crypto Tax,4.05,4.0,4.1,0,2017,"Seattle, USA",True,False,False,True,49.0,399.0,4,8,https://www.zenledger.io,https://comparedge.com/tools/zenledger
+141,Zendesk Sell,crm,CRM,4.25,4.2,4.3,0,2007,"San Francisco, CA (Zendesk)",False,False,False,True,25.0,149.0,3,11,https://www.zendesk.com/sell/,https://comparedge.com/tools/zendesk-sell
+289,Zerion,crypto-portfolio-trackers,Crypto Portfolio Trackers,4.5,4.5,,0,2017,"San Francisco, USA",True,False,False,True,14.99,14.99,2,9,https://zerion.io,https://comparedge.com/tools/zerion
+111,Zoho Books,accounting,Accounting,4.45,4.5,4.4,0,1996,"Chennai, India",True,False,False,True,20.0,150.0,5,12,https://www.zoho.com/books/,https://comparedge.com/tools/zoho-books
+24,Zoho CRM,crm,CRM,4.2,4.1,4.3,0,1996,"Chennai, India",True,False,False,True,20.0,65.0,5,18,https://www.zoho.com/crm/,https://comparedge.com/tools/zoho-crm
+20,Zoho Projects,project-management,Project Management,4.35,4.3,4.4,0,1996,"Chennai, India",True,False,False,True,5.0,10.0,3,10,https://www.zoho.com/projects/,https://comparedge.com/tools/zoho-projects
+122,Zoom,video-conferencing,Video Conferencing,4.55,4.5,4.6,0,2011,"San Jose, CA",True,False,False,True,13.33,22.49,4,13,https://zoom.com,https://comparedge.com/tools/zoom
+47,beehiiv,email-marketing,Email Marketing,4.7,4.7,4.7,0,2021,"Austin, TX",True,False,True,True,43.0,96.0,4,12,https://www.beehiiv.com,https://comparedge.com/tools/beehiiv
+327,dYdX,dex,DEX,,,,0,2017,"San Francisco, USA",True,False,False,False,0.02,0.1,3,11,https://dydx.exchange,https://comparedge.com/tools/dydx
+33,monday CRM,crm,CRM,4.65,4.6,4.7,0,2012,"Tel Aviv, Israel",False,False,True,True,12.0,28.0,4,10,https://monday.com/crm,https://comparedge.com/tools/monday-crm
+4,monday.com,project-management,Project Management,4.65,4.7,4.6,0,2012,"Tel Aviv, Israel",True,False,True,True,9.0,19.0,5,15,https://monday.com,https://comparedge.com/tools/monday
+182,n8n,ai-agents,AI Agents,4.7,4.7,4.7,0,2019,,True,False,False,True,24.0,60.0,3,11,https://n8n.io,https://comparedge.com/tools/n8n
+207,v0 by Vercel,ai-coding,AI Coding,4.55,4.6,4.5,0,2023,,True,False,False,True,30.0,100.0,3,6,https://v0.app,https://comparedge.com/tools/v0-dev
+231,vidIQ AI,ai-video,AI Video,4.45,4.5,4.4,0,2014,,True,False,False,True,7.0,39.0,3,6,https://vidiq.com,https://comparedge.com/tools/vidiq-ai
