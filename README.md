@@ -55,8 +55,8 @@ sqlite3 data/raw/comparedge.db < sql/03_business_questions.sql
 
 ## Data quality issues found (and how they were handled)
 
-This is the part worth highlighting on a resume — the dataset looks clean at a glance but
-has several issues that would silently distort an analysis if missed:
+The dataset looks clean at a glance but has several issues that would silently distort an
+analysis if missed:
 
 | Issue | Detection | Fix |
 |---|---|---|
