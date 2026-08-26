@@ -1,8 +1,9 @@
 # SaaS Market 2026 — Pricing & Positioning Analysis
 
 An end-to-end data analysis project on a 331-product SaaS market dataset: **SQL** for
-querying and data-quality auditing, **Python** for cleaning/EDA/statistical testing, and
-**Excel** for a chart-backed dashboard.
+querying and data-quality auditing, **Python (pandas, matplotlib, seaborn, scipy)** for
+cleaning, EDA, and statistical testing, **Excel** for a formula-driven dashboard, and
+**Tableau Public** for an interactive dashboard — [view it live](https://public.tableau.com/views/saasmarket2026/SaaSMarket2026PricingandPositioning?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 Data source: ComparEdge SaaS Market dataset, downloaded from Kaggle — a relational export
 covering 331 SaaS/crypto products across 28 categories (project management, CRM, LLMs,
@@ -81,6 +82,14 @@ analysis if missed:
   billing being a common narrative in SaaS pricing discourse.
 
 Full write-up with numbers for every finding: [outputs/summary_stats.md](outputs/summary_stats.md).
+
+## Tableau dashboard
+
+An interactive version of the category-level findings above — entry price by category,
+free-tier adoption by category, price vs. rating, and billing model mix, all filterable by
+category:
+
+**[View the live dashboard on Tableau Public](https://public.tableau.com/views/saasmarket2026/SaaSMarket2026PricingandPositioning?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Known limitations
 
