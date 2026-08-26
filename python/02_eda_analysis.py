@@ -155,11 +155,13 @@ def main() -> None:
     # --- 8. Billing model mix --------------------------------------------
     plans = pd.read_csv(PROC / "pricing_plans_clean.csv")
     billing_mix = plans["billing_model"].value_counts(normalize=True).mul(100).round(1)
-    fig, ax = plt.subplots(figsize=(6, 6))
-    ax.pie(billing_mix.values, labels=billing_mix.index, autopct="%1.0f%%", startangle=90)
+    fig, ax = plt.subplots(figsize=(8, 6))
+    wedges, _ = ax.pie(billing_mix.values, startangle=90)
+    legend_labels = [f"{name} ({pct:.1f}%)" for name, pct in billing_mix.items()]
+    ax.legend(wedges, legend_labels, title="Billing Model", loc="center left", bbox_to_anchor=(1, 0.5))
     ax.set_title("Billing Model Mix Across All Pricing Plans")
     fig.tight_layout()
-    fig.savefig(CHARTS / "05_billing_model_mix.png")
+    fig.savefig(CHARTS / "05_billing_model_mix.png", bbox_inches="tight")
     plt.close(fig)
 
     log("\n## Billing Models\n- Distribution across all 1,013 pricing plans:")
